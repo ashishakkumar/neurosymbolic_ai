@@ -1,0 +1,80 @@
+{
+  "icd9_codes": [
+    {
+      "code": "780",
+      "diagnosis": "Fever"
+    },
+    {
+      "code": "780",
+      "diagnosis": "Chills"
+    },
+    {
+      "code": "782",
+      "diagnosis": "Muscle pain"
+    },
+    {
+      "code": "780",
+      "diagnosis": "Fatigue"
+    },
+    {
+      "code": "782",
+      "diagnosis": "Myalgias"
+    },
+    {
+      "code": "780",
+      "diagnosis": "Rigors"
+    },
+    {
+      "code": "787",
+      "diagnosis": "Nausea"
+    },
+    {
+      "code": "787",
+      "diagnosis": "Vomiting"
+    },
+    {
+      "code": "784",
+      "diagnosis": "Frontal headache"
+    },
+    {
+      "code": "779",
+      "diagnosis": "Fever"
+    },
+    {
+      "code": "775",
+      "diagnosis": "Chills"
+    },
+    {
+      "code": "677",
+      "diagnosis": "Muscle pain"
+    },
+    {
+      "code": "639",
+      "diagnosis": "Fatigue"
+    },
+    {
+      "code": "614",
+      "diagnosis": "Myalgias"
+    },
+    {
+      "code": "907",
+      "diagnosis": "Rigors"
+    },
+    {
+      "code": "774",
+      "diagnosis": "Nausea"
+    },
+    {
+      "code": "564",
+      "diagnosis": "Vomiting"
+    },
+    {
+      "code": "729",
+      "diagnosis": "Frontal headache"
+    },
+    {
+      "code": "973",
+      "diagnosis": "Fever"
+    }
+  ]
+}

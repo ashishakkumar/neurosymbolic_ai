@@ -1,0 +1,80 @@
+{
+  "icd9_codes": [
+    {
+      "code": "784",
+      "diagnosis": "Abdominal pain"
+    },
+    {
+      "code": "786",
+      "diagnosis": "Chest pain"
+    },
+    {
+      "code": "787",
+      "diagnosis": "Nausea and vomiting"
+    },
+    {
+      "code": "787",
+      "diagnosis": "Emesis"
+    },
+    {
+      "code": "787",
+      "diagnosis": "Food stuck in band"
+    },
+    {
+      "code": "784",
+      "diagnosis": "Headaches"
+    },
+    {
+      "code": "719",
+      "diagnosis": "Right knee pain"
+    },
+    {
+      "code": "754",
+      "diagnosis": "Unspecified"
+    },
+    {
+      "code": "907",
+      "diagnosis": "Unspecified"
+    },
+    {
+      "code": "323",
+      "diagnosis": "Unspecified"
+    },
+    {
+      "code": "754",
+      "diagnosis": "Unspecified"
+    },
+    {
+      "code": "446",
+      "diagnosis": "Unspecified"
+    },
+    {
+      "code": "614",
+      "diagnosis": "Unspecified"
+    },
+    {
+      "code": "871",
+      "diagnosis": "Unspecified"
+    },
+    {
+      "code": "729",
+      "diagnosis": "Unspecified"
+    },
+    {
+      "code": "338",
+      "diagnosis": "Unspecified"
+    },
+    {
+      "code": "639",
+      "diagnosis": "Unspecified"
+    },
+    {
+      "code": "326",
+      "diagnosis": "Unspecified"
+    },
+    {
+      "code": "971",
+      "diagnosis": "Unspecified"
+    }
+  ]
+}

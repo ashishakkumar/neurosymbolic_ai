@@ -1,0 +1,40 @@
+{
+  "icd9_codes": [
+    {
+      "code": "787",
+      "diagnosis": "Vomiting"
+    },
+    {
+      "code": "564",
+      "diagnosis": "Abdominal distention"
+    },
+    {
+      "code": "789",
+      "diagnosis": "Abdominal pain"
+    },
+    {
+      "code": "623",
+      "diagnosis": "Ventral hernia"
+    },
+    {
+      "code": "624",
+      "diagnosis": "Ventral hernia"
+    },
+    {
+      "code": "627",
+      "diagnosis": "Ventral hernia"
+    },
+    {
+      "code": "616",
+      "diagnosis": "Ventral hernia"
+    },
+    {
+      "code": "323",
+      "diagnosis": "Pruritus"
+    },
+    {
+      "code": "583",
+      "diagnosis": "Kidney disease"
+    }
+  ]
+}

@@ -1,0 +1,28 @@
+{
+  "icd9_codes": [
+    {
+      "code": "729",
+      "diagnosis": "Pain in Limb"
+    },
+    {
+      "code": "786",
+      "diagnosis": "Symptoms Involving Respiratory System and Other Chest Symptoms"
+    },
+    {
+      "code": "639",
+      "diagnosis": "Other Complications of Pregnancy, Childbirth, and the Puerperium"
+    },
+    {
+      "code": "724",
+      "diagnosis": "Other and Unspecified Disorders of Shoulder"
+    },
+    {
+      "code": "726",
+      "diagnosis": "Other Disorders of Hip"
+    },
+    {
+      "code": "784",
+      "diagnosis": "Other Symptoms Involving Skin and Subcutaneous Tissue"
+    }
+  ]
+}

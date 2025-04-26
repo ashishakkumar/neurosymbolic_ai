@@ -1,0 +1,76 @@
+{
+  "icd9_codes": [
+    {
+      "code": "287",
+      "diagnosis": "Coagulation Defect"
+    },
+    {
+      "code": "578",
+      "diagnosis": "Gastrointestinal Hemorrhage"
+    },
+    {
+      "code": "789",
+      "diagnosis": "Fatigue"
+    },
+    {
+      "code": "599",
+      "diagnosis": "Urinary Tract Infection"
+    },
+    {
+      "code": "584",
+      "diagnosis": "Acute Renal Failure"
+    },
+    {
+      "code": "571",
+      "diagnosis": "Esophageal Disorders"
+    },
+    {
+      "code": "572",
+      "diagnosis": "Gastric Disorders"
+    },
+    {
+      "code": "286",
+      "diagnosis": "Anemia"
+    },
+    {
+      "code": "303",
+      "diagnosis": "Alcohol Dependence"
+    },
+    {
+      "code": "780",
+      "diagnosis": "General Symptoms"
+    },
+    {
+      "code": "807",
+      "diagnosis": "Open Wound of Head"
+    },
+    {
+      "code": "805",
+      "diagnosis": "Fracture of Neck"
+    },
+    {
+      "code": "733",
+      "diagnosis": "Disorders of Bone"
+    },
+    {
+      "code": "155",
+      "diagnosis": "Malignant Neoplasm of Colon"
+    },
+    {
+      "code": "852",
+      "diagnosis": "Intracranial Injury"
+    },
+    {
+      "code": "456",
+      "diagnosis": "Hemorrhoids"
+    },
+    {
+      "code": "820",
+      "diagnosis": "Fracture of Femur"
+    },
+    {
+      "code": "808",
+      "diagnosis": "Open Wound of Head"
+    }
+  ]
+}

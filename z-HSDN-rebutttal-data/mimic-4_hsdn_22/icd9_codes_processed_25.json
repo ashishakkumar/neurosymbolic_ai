@@ -1,0 +1,76 @@
+{
+  "icd9_codes": [
+    {
+      "code": "009",
+      "diagnosis": "Intestinal infection, unspecified"
+    },
+    {
+      "code": "723",
+      "diagnosis": "Other and unspecified disorders of back"
+    },
+    {
+      "code": "558",
+      "diagnosis": "Irritable bowel syndrome"
+    },
+    {
+      "code": "300",
+      "diagnosis": "Neurotic disorders"
+    },
+    {
+      "code": "311",
+      "diagnosis": "Depressive disorder, not elsewhere classified"
+    },
+    {
+      "code": "323",
+      "diagnosis": "Meningitis, unspecified"
+    },
+    {
+      "code": "338",
+      "diagnosis": "Other disorders of nervous system"
+    },
+    {
+      "code": "771",
+      "diagnosis": "Neonatal jaundice affecting management of newborn"
+    },
+    {
+      "code": "774",
+      "diagnosis": "Other and unspecified respiratory conditions of newborn"
+    },
+    {
+      "code": "038",
+      "diagnosis": "Septicemia"
+    },
+    {
+      "code": "583",
+      "diagnosis": "Acute glomerulonephritis"
+    },
+    {
+      "code": "723",
+      "diagnosis": "Other and unspecified disorders of back"
+    },
+    {
+      "code": "323",
+      "diagnosis": "Meningitis, unspecified"
+    },
+    {
+      "code": "723",
+      "diagnosis": "Other and unspecified disorders of back"
+    },
+    {
+      "code": "576",
+      "diagnosis": "Disorders of liver"
+    },
+    {
+      "code": "156",
+      "diagnosis": "Malignant neoplasm of colon"
+    },
+    {
+      "code": "976",
+      "diagnosis": "Poisoning by other and unspecified drugs and biological substances"
+    },
+    {
+      "code": "052",
+      "diagnosis": "Varicella"
+    }
+  ]
+}

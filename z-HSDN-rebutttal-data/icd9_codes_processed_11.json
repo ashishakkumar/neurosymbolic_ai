@@ -1,0 +1,56 @@
+{
+  "icd9_codes": [
+    {
+      "code": "780",
+      "diagnosis": "Unresponsive"
+    },
+    {
+      "code": "784",
+      "diagnosis": "Dazed"
+    },
+    {
+      "code": "345",
+      "diagnosis": "Eyes rolled back"
+    },
+    {
+      "code": "285",
+      "diagnosis": "Anemia"
+    },
+    {
+      "code": "599",
+      "diagnosis": "Urinary tract infection"
+    },
+    {
+      "code": "482",
+      "diagnosis": "Pneumonia"
+    },
+    {
+      "code": "438",
+      "diagnosis": "Cerebrovascular disease"
+    },
+    {
+      "code": "348",
+      "diagnosis": "Convulsions"
+    },
+    {
+      "code": "507",
+      "diagnosis": "Respiratory failure"
+    },
+    {
+      "code": "431",
+      "diagnosis": "Intracerebral hemorrhage"
+    },
+    {
+      "code": "780",
+      "diagnosis": "Unresponsive"
+    },
+    {
+      "code": "453",
+      "diagnosis": "Phlebitis and thrombophlebitis"
+    },
+    {
+      "code": "319",
+      "diagnosis": "Unspecified mental disorder"
+    }
+  ]
+}

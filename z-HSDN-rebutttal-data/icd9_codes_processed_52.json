@@ -1,0 +1,44 @@
+{
+  "icd9_codes": [
+    {
+      "code": "411",
+      "diagnosis": "Intermediate coronary syndrome"
+    },
+    {
+      "code": "156",
+      "diagnosis": "Malignant neoplasm of colon"
+    },
+    {
+      "code": "793",
+      "diagnosis": "Nonspecific abnormal findings in blood"
+    },
+    {
+      "code": "413",
+      "diagnosis": "Other forms of chronic ischemic heart disease"
+    },
+    {
+      "code": "338",
+      "diagnosis": "Other and unspecified disorders of nervous system"
+    },
+    {
+      "code": "723",
+      "diagnosis": "Other and unspecified disorders of back"
+    },
+    {
+      "code": "691",
+      "diagnosis": "Dermatitis and eczema"
+    },
+    {
+      "code": "780",
+      "diagnosis": "General symptoms"
+    },
+    {
+      "code": "782",
+      "diagnosis": "Symptoms involving skin and other integumentary tissue"
+    },
+    {
+      "code": "780",
+      "diagnosis": "General symptoms"
+    }
+  ]
+}

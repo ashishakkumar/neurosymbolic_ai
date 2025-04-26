@@ -1,0 +1,16 @@
+version: '3.4'
+services:
+  weaviate:
+    image: cr.weaviate.io/semitechnologies/weaviate:1.28.4
+    container_name: mimic_weaviate
+    ports:
+      - 9000:8080    # Maps host port 9000 to container port 8080
+      - 9001:50051   # Maps host port 9001 to container port 50051
+    volumes:
+      - /var/weaviate:/var/lib/weaviate
+    restart: on-failure:0
+    environment:
+      QUERY_DEFAULTS_LIMIT: 25
+      PERSISTENCE_DATA_PATH: '/var/lib/weaviate'
+      AUTHENTICATION_ANONYMOUS_ACCESS_ENABLED: 'true'
+      CLUSTER_HOSTNAME: 'node1'

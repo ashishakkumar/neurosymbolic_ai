@@ -1,0 +1,24 @@
+{
+  "icd9_codes": [
+    {
+      "code": "789",
+      "diagnosis": "Abdominal Pain"
+    },
+    {
+      "code": "780",
+      "diagnosis": "Fatigue"
+    },
+    {
+      "code": "780",
+      "diagnosis": "Malaise"
+    },
+    {
+      "code": "564",
+      "diagnosis": "Constipation"
+    },
+    {
+      "code": "787",
+      "diagnosis": "Decreased Bowel Movements"
+    }
+  ]
+}

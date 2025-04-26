@@ -1,0 +1,48 @@
+{
+  "icd9_codes": [
+    {
+      "code": "427",
+      "diagnosis": "Cardiac dysrhythmias"
+    },
+    {
+      "code": "410",
+      "diagnosis": "Acute myocardial infarction"
+    },
+    {
+      "code": "414",
+      "diagnosis": "Coronary atherosclerosis"
+    },
+    {
+      "code": "424",
+      "diagnosis": "Endocarditis"
+    },
+    {
+      "code": "584",
+      "diagnosis": "Acute renal failure"
+    },
+    {
+      "code": "599",
+      "diagnosis": "Urinary tract infection"
+    },
+    {
+      "code": "428",
+      "diagnosis": "Heart failure"
+    },
+    {
+      "code": "401",
+      "diagnosis": "Hypertension"
+    },
+    {
+      "code": "786",
+      "diagnosis": "General symptoms"
+    },
+    {
+      "code": "785",
+      "diagnosis": "Symptoms, signs, and ill-defined conditions"
+    },
+    {
+      "code": "707",
+      "diagnosis": "Other disorders of skin and subcutaneous tissue"
+    }
+  ]
+}

@@ -1,0 +1,76 @@
+{
+  "icd9_codes": [
+    {
+      "code": "783",
+      "diagnosis": "Failure to thrive"
+    },
+    {
+      "code": "787",
+      "diagnosis": "Diarrhea"
+    },
+    {
+      "code": "009",
+      "diagnosis": "Intestinal infectious diseases"
+    },
+    {
+      "code": "446",
+      "diagnosis": "Peripheral vascular disease"
+    },
+    {
+      "code": "009",
+      "diagnosis": "Intestinal infectious diseases"
+    },
+    {
+      "code": "771",
+      "diagnosis": "Respiratory conditions of newborn"
+    },
+    {
+      "code": "774",
+      "diagnosis": "Other and unspecified disorders of newborn"
+    },
+    {
+      "code": "038",
+      "diagnosis": "Streptococcal infection"
+    },
+    {
+      "code": "751",
+      "diagnosis": "Congenital anomalies"
+    },
+    {
+      "code": "576",
+      "diagnosis": "Other diseases of digestive system"
+    },
+    {
+      "code": "323",
+      "diagnosis": "Encephalitis, myelitis and encephalomyelitis"
+    },
+    {
+      "code": "976",
+      "diagnosis": "Poisoning by drugs, medicinal and biological substances"
+    },
+    {
+      "code": "583",
+      "diagnosis": "Chronic kidney disease"
+    },
+    {
+      "code": "052",
+      "diagnosis": "Measles"
+    },
+    {
+      "code": "323",
+      "diagnosis": "Encephalitis, myelitis and encephalomyelitis"
+    },
+    {
+      "code": "723",
+      "diagnosis": "Other and unspecified disorders of back"
+    },
+    {
+      "code": "558",
+      "diagnosis": "Other gastrointestinal disorders"
+    },
+    {
+      "code": "323",
+      "diagnosis": "Encephalitis, myelitis and encephalomyelitis"
+    }
+  ]
+}

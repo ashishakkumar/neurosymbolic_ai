@@ -1,0 +1,32 @@
+{
+  "icd9_codes": [
+    {
+      "code": "786",
+      "diagnosis": "Cough"
+    },
+    {
+      "code": "790",
+      "diagnosis": "Elevated bilirubin"
+    },
+    {
+      "code": "782",
+      "diagnosis": "Jaundice"
+    },
+    {
+      "code": "782",
+      "diagnosis": "Icteric sclerae"
+    },
+    {
+      "code": "789",
+      "diagnosis": "Ascites"
+    },
+    {
+      "code": "748",
+      "diagnosis": "Other congenital anomalies of digestive system"
+    },
+    {
+      "code": "338",
+      "diagnosis": "Other and unspecified disorders of nervous system"
+    }
+  ]
+}

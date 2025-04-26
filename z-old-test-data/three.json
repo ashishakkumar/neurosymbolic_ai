@@ -1,0 +1,802 @@
+[
+  {
+    "short_codes": "0389,6823,3950,05319,42832,4280,42731,99591,V103,2449,2720,4019,4168,V433",
+    "Symptoms": [
+      "right arm redness",
+      "swelling",
+      "fever"
+    ]
+  },
+  {
+    "short_codes": "80505,41519,45341,2851,07054,42731,311,E8809",
+    "Symptoms": [
+      "neck pain",
+      "shortness of breath",
+      "right knee pain"
+    ]
+  },
+  {
+    "short_codes": "41401,514,42731,43310,4439,4111,9971,43330,78701,V5861,45829,4019,2724,6256,2449,V1582,V1749",
+    "Symptoms": [
+      "chest pain",
+      "radiation to both arms",
+      "exertional chest pain"
+    ]
+  },
+  {
+    "short_codes": "2127,486,5119,2859,E8788",
+    "Symptoms": [
+      "right arm numbness",
+      "difficulty with penmanship",
+      "slight deviation of the tongue to the right"
+    ]
+  },
+  {
+    "short_codes": "99832,E8782,E8498,4019,49390,25000,53081,3051",
+    "Symptoms": [
+      "left lower extremity claudication",
+      "rest pain",
+      "wound dehiscence"
+    ]
+  },
+  {
+    "short_codes": "5770,25013,2910,5771,V5867,30391,3051,V1581,30000,30550,2449",
+    "Symptoms": [
+      "intoxication",
+      "abdominal pain",
+      "trauma"
+    ]
+  },
+  {
+    "short_codes": "44101,5601,2449,49390,E8788",
+    "Symptoms": [
+      "anemia",
+      "ct scan showing left chest full of blood",
+      "ulceration of the aorta with intramural hematoma"
+    ]
+  },
+  {
+    "short_codes": "8509,78039,7840,78093,71941,7231,71947,E8136",
+    "Symptoms": [
+      "seizure",
+      "headache",
+      "shoulder pain"
+    ]
+  },
+  {
+    "short_codes": "0380,78552,5761,5845,4210,20280,42822,4254,57451,5780,99592,5853,4280,40390,42731,41401",
+    "Symptoms": [
+      "abdominal pain",
+      "cp radiating to back",
+      "hematemesis"
+    ]
+  },
+  {
+    "short_codes": "99932,5856,7907,40391,42832,27803,4280,496,E8791,25040,32723,7140,28521,29570,29680,6923,E9460,44020,2753,04112,V462,V4511,V1255,V5861",
+    "Symptoms": [
+      "fevers",
+      "chills",
+      "hypotension"
+    ]
+  },
+  {
+    "short_codes": "4233,2449,2724",
+    "Symptoms": [
+      "doe, increasing fatigue",
+      "flu like symptoms",
+      "increasing pericardial effusion"
+    ]
+  },
+  {
+    "short_codes": "41071,29633,41401,42731,3051,V6549,28860,78062,2859,25000,4019,2720,30981",
+    "Symptoms": [
+      "chest pain",
+      "shortness of breath",
+      "radiating to left arm"
+    ]
+  },
+  {
+    "short_codes": "217,51883,4168,V1201",
+    "Symptoms": [
+      "elevated pco2",
+      "respiratory distress",
+      "mental status changes"
+    ]
+  },
+  {
+    "short_codes": "41071,49121,42832,41401,40390,5859,2724,4280,3659,30000,V4581,V071,V5866",
+    "Symptoms": [
+      "dyspnea",
+      "chest pain",
+      "lightheadedness"
+    ]
+  },
+  {
+    "short_codes": "41031,2930,42820,5990,4280,43310,0413,29420,41401,27651,4019,2724,36250,V4364,53081",
+    "Symptoms": [
+      "chest pain",
+      "radiated to l arm",
+      "nausea"
+    ]
+  },
+  {
+    "short_codes": "99662,03819,99591,5780,40391,5856,2762,25061,25041,25051,5990,00845,3572,58381,7135,36201,2449,2720,412,28521,V5867,V4581,V090",
+    "Symptoms": [
+      "fevers",
+      "hypoglycemia",
+      "coffee ground emesis"
+    ]
+  },
+  {
+    "short_codes": "4241,2724",
+    "Symptoms": [
+      "dyspnea on exertion",
+      "chest heaviness",
+      "palpitations"
+    ]
+  },
+  {
+    "short_codes": "0389,42833,5571,99591,4280,42731,41401,412,4019,2724,V1087",
+    "Symptoms": [
+      "hypoxemia",
+      "hypotension",
+      "right calf pain"
+    ]
+  },
+  {
+    "short_codes": "4241,42518,40390,42832,4280,25000,4465,5859,73300,2724,71590,V1251,V5861",
+    "Symptoms": [
+      "shortness of breath",
+      "lightheadedness",
+      "near syncopal episodes"
+    ]
+  },
+  {
+    "short_codes": "40301,5856,5822,2839,34690,78701,2883,4293,311,V145",
+    "Symptoms": [
+      "headache",
+      "n v",
+      "hypertension"
+    ]
+  },
+  {
+    "short_codes": "42833,70719,78959,2639,2867,5789,6826,4280,4168,515,5730,40390,5859,V462,2724,60000,2749,25000,5533,78057,5939,4414,56400,2449,V1582,4928,V0382",
+    "Symptoms": [
+      "leg ulcer",
+      "sob",
+      "abdominal pain and nausea"
+    ]
+  },
+  {
+    "short_codes": "7455,9982,E8799,9561,V1259",
+    "Symptoms": [
+      "drooling",
+      "dysarthria",
+      "right groin pain"
+    ]
+  },
+  {
+    "short_codes": "41031,41401,41412,49390",
+    "Symptoms": [
+      "chest pain",
+      "radiation to elbows",
+      "shortness of breath"
+    ]
+  },
+  {
+    "short_codes": "85221,8052,8082,80703,E8809,81003,4019,2724,4280,135,2888,496,72400,3004,8730",
+    "Symptoms": [
+      "intracranial hemorrhage",
+      "left clavicle fracture",
+      "left pubic rami fracture"
+    ]
+  },
+  {
+    "short_codes": "99662,042,03811,78552,71103,51881,5780,5793,7994,99592,5990,2875,48241,V554,V090,V0259,V0980,3051,5771,2869,78820",
+    "Symptoms": [
+      "fever",
+      "cough",
+      "abdominal pain"
+    ]
+  },
+  {
+    "short_codes": "41401,42822,496,4280,44020,53081,30431,V4582,V5883,V5861,412",
+    "Symptoms": [
+      "heartburn weakness",
+      "diaphoresis",
+      "elevations"
+    ]
+  },
+  {
+    "short_codes": "431,4280,42731,42781,4019,V1582,311,41401",
+    "Symptoms": [
+      "right-sided weakness",
+      "increasing lethargy",
+      "profound right facial droop"
+    ]
+  },
+  {
+    "short_codes": "2767,30550,40391,2449,V4502",
+    "Symptoms": [
+      "altered mental status",
+      "hypoglycemia",
+      "uremia"
+    ]
+  },
+  {
+    "short_codes": "430,49390,4019,311,3899",
+    "Symptoms": [
+      "severe headache",
+      "radiating throughout his head and down into his neck",
+      "no numbness, paresthesias, or weakness"
+    ]
+  },
+  {
+    "short_codes": "20300,5856,2930,40391,2763,27542,9390,42731,79902,28521,4379,7813,2749,2753,78052,2720,56210,30000,311,V8741,V5861,V1254,V1272,V1251,E915",
+    "Symptoms": [
+      "altered mental status",
+      "inability to walk",
+      "disorientation"
+    ]
+  },
+  {
+    "short_codes": "43310,25000,2720,4019",
+    "Symptoms": [
+      "flushed face",
+      "soft carotid bruit on the right side",
+      "grade 2 6 systolic murmur"
+    ]
+  },
+  {
+    "short_codes": "82101,42789,E8120,E8495",
+    "Symptoms": [
+      "right leg pain",
+      "tachycardia",
+      "oxygen saturation readings of 86-90%"
+    ]
+  },
+  {
+    "short_codes": "41401,4111,9971,42090,5180,2724,25060,3572,2859,V4364",
+    "Symptoms": [
+      "exertional chest pressure",
+      "intermittent dyspnea",
+      "st depressions in ii, iii, avf, and v3-v6"
+    ]
+  },
+  {
+    "short_codes": "41401,4139,99672,412,2720,53081",
+    "Symptoms": [
+      "chest pain",
+      "pressure",
+      "shortness of breath on exertion"
+    ]
+  },
+  {
+    "short_codes": "4321,7840,2449",
+    "Symptoms": [
+      "headaches",
+      "mild weakness",
+      "confusion"
+    ]
+  },
+  {
+    "short_codes": "03849,5761,41071,4241,41519,4019",
+    "Symptoms": [
+      "fever",
+      "dyspnea",
+      "hypotension"
+    ]
+  },
+  {
+    "short_codes": "8208,4271,42822,2851,E8809,42731,V5861,V4502,3320,V4364,4019,4148,4280,79092,E9342",
+    "Symptoms": [
+      "fall",
+      "hip fracture",
+      "anemia"
+    ]
+  },
+  {
+    "short_codes": "7847,2851,V643",
+    "Symptoms": [
+      "nose bleed",
+      "light-headedness",
+      "tachycardia"
+    ]
+  },
+  {
+    "short_codes": "51881,49392,42789,4019,2720,71598,V1581",
+    "Symptoms": [
+      "shortness of breath",
+      "respiratory distress",
+      "decreased mental status"
+    ]
+  },
+  {
+    "short_codes": "45342,41519,2411,V0254,3659,4465,V1046,27402",
+    "Symptoms": [
+      "chest pain",
+      "dyspnea",
+      "syncope"
+    ]
+  },
+  {
+    "short_codes": "41071,4280,496,5849,5781,78551,41401,V1005,V1011,4019,2449,73300,E9342,2930",
+    "Symptoms": [
+      "acute left-sided chest pain",
+      "radiation to the back",
+      "tooth ache"
+    ]
+  },
+  {
+    "short_codes": "96509,5856,40301,58281,4466,4254,2762,7100,2875,78097,45829,E8502,2767,28521,32723,3004,72992,V4512,V5861,V1251",
+    "Symptoms": [
+      "altered mental status",
+      "solmolence",
+      "relative hypotension"
+    ]
+  },
+  {
+    "short_codes": "7231,8072,80709,8052,86121,E8120,78009",
+    "Symptoms": [
+      "sternal pain",
+      "rib pain",
+      "neck pain"
+    ]
+  },
+  {
+    "short_codes": "03811,3241,58089,5845,78552,51881,71105,71106,99812,73008,99666,5990,2536,5601,2851,2639,99592,2768,3004,07070,56409,3003,28529,30392,27541,6930,V5862,V452,V1588,V4364,E8781,E9300,E8788,45829,E9426",
+    "Symptoms": [
+      "back pain",
+      "hip pain",
+      "lethargy"
+    ]
+  },
+  {
+    "short_codes": "41401,4111,2724,4019,4739,V4364,V4365",
+    "Symptoms": [
+      "fever",
+      "shaking chills",
+      "chest pain"
+    ]
+  },
+  {
+    "short_codes": "03842,78552,57451,5761,1211,75169,99592,2749,25000,53081,2875",
+    "Symptoms": [
+      "fevers",
+      "jaundice",
+      "confusion"
+    ]
+  },
+  {
+    "short_codes": "5849,4275,42840,41402,4111,9971,5845,4280,41401,40390,5859",
+    "Symptoms": [
+      "shortness of breath",
+      "diaphoresis",
+      "chest pain"
+    ]
+  },
+  {
+    "short_codes": "4412,486,496,07070,4478,41402,41401,4019,2720",
+    "Symptoms": [
+      "cough",
+      "shortness of breath",
+      "chest pain"
+    ]
+  },
+  {
+    "short_codes": "4240,99859,71430,42731,6959,E8781",
+    "Symptoms": [
+      "palpitations",
+      "rales scattered throughout",
+      "trace edema"
+    ]
+  },
+  {
+    "short_codes": "41071,42823,70714,5849,5990,2761,42731,41401,45829,4280,52340,4241,5859,40390,4400,25080,4439,V641",
+    "Symptoms": [
+      "shortness of breath",
+      "chest pain",
+      "exertional dyspnea"
+    ]
+  },
+  {
+    "short_codes": "41041,4271,20300,41401,41402,412,4019,5939,V1046",
+    "Symptoms": [
+      "chest pain",
+      "shortness of breath",
+      "diaphoresis"
+    ]
+  },
+  {
+    "short_codes": "41401,42731,4111,V4582",
+    "Symptoms": [
+      "shortness of breath",
+      "fatigue",
+      "ventricular arrhythmias"
+    ]
+  },
+  {
+    "short_codes": "41401,39891,4111,42731,3942,4019,4168,V4581,V422",
+    "Symptoms": [
+      "shortness of breath with exertion",
+      "dyspnea",
+      "winded after 1 to 5 stairs"
+    ]
+  },
+  {
+    "short_codes": "41401,4111,9971,42731,4019,2720,27800",
+    "Symptoms": [
+      "back pain",
+      "dropping hematocrit",
+      "pruritic maculopapular rash"
+    ]
+  },
+  {
+    "short_codes": "41401,4139,4019,78057,6953,71696,E9342",
+    "Symptoms": [
+      "shortness of breath",
+      "chest tightness",
+      "exertional dyspnea"
+    ]
+  },
+  {
+    "short_codes": "44103,44329,5845,9971,2851,E8497,40390,5853,2724,V1582,42731,E8782,5939,V1046",
+    "Symptoms": [
+      "sudden onset chest pain",
+      "nausea",
+      "pain radiating front to back"
+    ]
+  },
+  {
+    "short_codes": "99811,5780,1570,1977,25050,5781,2851,41401,V4582,412,36201,4019,2720,E8788",
+    "Symptoms": [
+      "hypotension",
+      "melena",
+      "hematemesis"
+    ]
+  },
+  {
+    "short_codes": "1628,19889,496,4019,25000,2724,60000,2749,53081",
+    "Symptoms": [
+      "hemoptysis",
+      "small volume hemoptysis",
+      "crackles in right lung base"
+    ]
+  },
+  {
+    "short_codes": "4168,1985,99593,79902,41401,2875,V462,V1046,25050,36201,V5867,4019,2449,7242,5533,V4986,7904,4580",
+    "Symptoms": [
+      "shortness of breath",
+      "doe",
+      "fatigue"
+    ]
+  },
+  {
+    "short_codes": "87402,9587,8024,80009,E8147,82332,8248,4019,75651,81201,2859",
+    "Symptoms": [
+      "left shoulder pain",
+      "left arm pain",
+      "right leg pain"
+    ]
+  },
+  {
+    "short_codes": "41401,4111,9971,42731,25000,4019,4263,3869",
+    "Symptoms": [
+      "chest pain",
+      "dizziness",
+      "left arm numbness"
+    ]
+  },
+  {
+    "short_codes": "4321,78039,34889,5790,53081,2809",
+    "Symptoms": [
+      "headache",
+      "unresponsiveness",
+      "fever"
+    ]
+  },
+  {
+    "short_codes": "0389,70724,3441,2930,73017,73015,29530,2762,8670,70703,0416,0417,70707,99592,3051,326,59654,70715,311,V1204,E8798",
+    "Symptoms": [
+      "hypotension",
+      "altered mental status",
+      "breast pain"
+    ]
+  },
+  {
+    "short_codes": "41401,25000,4439,4111,4019,2724,V1582",
+    "Symptoms": [
+      "substernal chest discomfort",
+      "shortness of breath",
+      "jaw pain"
+    ]
+  },
+  {
+    "short_codes": "41401,4139,4019,2720,53081,V1582",
+    "Symptoms": [
+      "chest pain",
+      "left shoulder twinges",
+      "tingling in hands"
+    ]
+  },
+  {
+    "short_codes": "20050,3485,3484,486,45341,5119,34292,2761,34889,78039,56400,E9379,49390,2859,V1279,78451",
+    "Symptoms": [
+      "left sided weakness",
+      "headache",
+      "posterior rle numbness to the ankle"
+    ]
+  },
+  {
+    "short_codes": "0389,78552,51882,35989,99592,5070,5849,07054,2767,2920,30400,25000,4019,2720,2859",
+    "Symptoms": [
+      "hypoxia",
+      "hypotension",
+      "fevers"
+    ]
+  },
+  {
+    "short_codes": "42823,4275,5849,4271,4168,2761,4254,42731,1119,42741,99601,4280,E8798,4019,4263,4240,V1581,V5861",
+    "Symptoms": [
+      "shortness of breath",
+      "palpitations",
+      "swelling in ankles"
+    ]
+  },
+  {
+    "short_codes": "5070,78559,5849,5780,2851,53019,53550,53560,V1082,25000,4019,27652,V1254,2859,V4986,V8741",
+    "Symptoms": [
+      "hypotension",
+      "nausea vomiting",
+      "coffee ground emesis"
+    ]
+  },
+  {
+    "short_codes": "3962,5119,2764,2930,42731,0539,5180,1104,2939,41401,4400,25000,79092,185,60001,78829,E8788,E8497",
+    "Symptoms": [
+      "chest pain",
+      "elevated enzymes",
+      "no specific st changes"
+    ]
+  },
+  {
+    "short_codes": "41401,20410,43310,25060,4111,4142,42731,4019,2721,37924,60000,3572,V5867,45829,E8782,2859,7885",
+    "Symptoms": [
+      "chest pain",
+      "unstable angina",
+      "floaters in vision"
+    ]
+  },
+  {
+    "short_codes": "43491,43311,43331,11289,5990,4019,25000,2859,71590,6930,E9310,E9430",
+    "Symptoms": [
+      "left face droop",
+      "left weakness",
+      "slurred speech"
+    ]
+  },
+  {
+    "short_codes": "4240,4280,42731,41401,4019",
+    "Symptoms": [
+      "chest pain",
+      "shortness of breath",
+      "fatigue"
+    ]
+  },
+  {
+    "short_codes": "41401,4019,2724",
+    "Symptoms": [
+      "cp with exertion",
+      "increasing angina",
+      "pos nuclear stress"
+    ]
+  },
+  {
+    "short_codes": "4240,4430,53081,60000,73300,311",
+    "Symptoms": [
+      "shortness of breath",
+      "dyspnea on exertion",
+      "iii vi holosystolic murmur"
+    ]
+  },
+  {
+    "short_codes": "0389,2762,42731,486,25000,1539,2720",
+    "Symptoms": [
+      "lower extremity weakness",
+      "diarrhea",
+      "incontinence"
+    ]
+  },
+  {
+    "short_codes": "51919,41511,42732,9971,4254,49390,42731,42789,E8788,E8798",
+    "Symptoms": [
+      "cough",
+      "dyspnea",
+      "recurrent pulmonary infections"
+    ]
+  },
+  {
+    "short_codes": "4441,5559,2761,5990,6823,04111,45182,99662,3051,V5861,79092,E9342",
+    "Symptoms": [
+      "back pain",
+      "ischemic small bowel",
+      "severe back pain"
+    ]
+  },
+  {
+    "short_codes": "430,4359,4373,4019,496,3051",
+    "Symptoms": [
+      "worst headache of life",
+      "dizziness",
+      "syncopal episode"
+    ]
+  },
+  {
+    "short_codes": "9351,53019,34690,V1505,E915",
+    "Symptoms": [
+      "foreign body sensation in throat",
+      "inability to swallow secretions",
+      "headache"
+    ]
+  },
+  {
+    "short_codes": "86501,80701,E9177,42731,41401,E8490",
+    "Symptoms": [
+      "flank pain",
+      "hematoma",
+      "nausea"
+    ]
+  },
+  {
+    "short_codes": "1970,5849,486,1985,42732,496,5853,2767,23875,41400,25000,4439,40390,1991,3659,2724,27400,60000,78060,V4581",
+    "Symptoms": [
+      "back pain",
+      "fever",
+      "numbness in lower extremities"
+    ]
+  },
+  {
+    "short_codes": "85221,78039,42731,4019,2749,V1005,V1046,3559,7812,E9329,7230,72401,32723,78720,73309,E8889,2859",
+    "Symptoms": [
+      "unresponsiveness",
+      "seizure",
+      "dysphagia"
+    ]
+  },
+  {
+    "short_codes": "41011,25060,3371,41401,42731,4019,2724,27801,53081,2449,49390,7804,311,V5867",
+    "Symptoms": [
+      "chest pain",
+      "nausea",
+      "band-like feeling across chest"
+    ]
+  },
+  {
+    "short_codes": "41071,4280,42840,5180,501,V4502,4940,5771",
+    "Symptoms": [
+      "sob",
+      "orthopnea",
+      "palpitations"
+    ]
+  },
+  {
+    "short_codes": "78659,99672,41401,2720,4019",
+    "Symptoms": [
+      "chest pain",
+      "shortness of breath",
+      "radiates to the left arm"
+    ]
+  },
+  {
+    "short_codes": "8604,5119,86500,E9689,8820,8244,9587,8831,86804,8248",
+    "Symptoms": [
+      "multiple posterior stab wounds to back and flanks",
+      "lacerations to hands",
+      "ankle fracture"
+    ]
+  },
+  {
+    "short_codes": "4280,51882,496,42731,5070,40391,41401,4148,V4502",
+    "Symptoms": [
+      "hypoxemia",
+      "chest pain",
+      "abdominal pain"
+    ]
+  },
+  {
+    "short_codes": "5070,5849,42842,5180,2760,4280,55300,29040,4370,4019,42731,41401,4240,3970,V5861,V4501",
+    "Symptoms": [
+      "shortness of breath",
+      "cough",
+      "constipation"
+    ]
+  },
+  {
+    "short_codes": "41071,4280,9975,5849,496,41401,25000,2859,53081",
+    "Symptoms": [
+      "chest pain",
+      "shortness of breath",
+      "diaphoresis"
+    ]
+  },
+  {
+    "short_codes": "41041,41401,4019",
+    "Symptoms": [
+      "burning sensation in chest",
+      "bilateral arm heaviness",
+      "pain radiating to jaw"
+    ]
+  },
+  {
+    "short_codes": "4240,42731,319,30001",
+    "Symptoms": [
+      "palpitations",
+      "worsening mitral valve prolapse",
+      "mitral regurgitation"
+    ]
+  },
+  {
+    "short_codes": "41071,42732,4280,41401,42731,53081,4019,2720,25000",
+    "Symptoms": [
+      "back pain",
+      "diaphoresis",
+      "dull aching pain in the center of his back"
+    ]
+  },
+  {
+    "short_codes": "99672,03811,78552,99592,41189,2762,42820,E8798,8901,2859,4280,41401,412,V4581,25040,5859,V5867,4389,311,V707",
+    "Symptoms": [
+      "fevers",
+      "hypotension",
+      "tachycardia"
+    ]
+  },
+  {
+    "short_codes": "43411,43311,34291,7843,78194,78722,4019,2720,V1582",
+    "Symptoms": [
+      "unresponsive",
+      "right facial droop",
+      "hemiparesis"
+    ]
+  },
+  {
+    "short_codes": "41401,4111,9971,42731,5990,25000,4019,2720,7905",
+    "Symptoms": [
+      "unstable angina",
+      "sternal pain",
+      "rapid atrial fibrillation"
+    ]
+  },
+  {
+    "short_codes": "4241,7464,2762,6952,49390,53081,3384,2449,73390,V5861,45829,78062,V5883",
+    "Symptoms": [
+      "fatigue",
+      "dyspnea on exertion",
+      "chest heaviness"
+    ]
+  },
+  {
+    "short_codes": "51902,42832,27803,V4611,5849,E8798,E8498,51919,4280,25000,2720,4168,27801,49390",
+    "Symptoms": [
+      "dyspnea",
+      "wheezing",
+      "increased secretions"
+    ]
+  },
+  {
+    "short_codes": "5100,4928,V1011",
+    "Symptoms": [
+      "cough",
+      "hemoptysis",
+      "low-grade nocturnal fever"
+    ]
+  },
+  {
+    "short_codes": "44281,78039,5121,4412,3051",
+    "Symptoms": [
+      "seizures",
+      "dilated aortic root",
+      "left common carotid artery aneurysm"
+    ]
+  }
+]

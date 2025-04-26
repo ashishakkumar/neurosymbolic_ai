@@ -1,0 +1,60 @@
+{
+  "icd9_codes": [
+    {
+      "code": "787",
+      "diagnosis": "Nausea"
+    },
+    {
+      "code": "787",
+      "diagnosis": "Vomiting"
+    },
+    {
+      "code": "789",
+      "diagnosis": "Abdominal pain"
+    },
+    {
+      "code": "724",
+      "diagnosis": "Chronic low back pain"
+    },
+    {
+      "code": "789",
+      "diagnosis": "Chronic recurrent abdominal pain"
+    },
+    {
+      "code": "073",
+      "diagnosis": "Acute respiratory infections"
+    },
+    {
+      "code": "639",
+      "diagnosis": "Complications of pregnancy"
+    },
+    {
+      "code": "156",
+      "diagnosis": "Malignant neoplasm of colon"
+    },
+    {
+      "code": "775",
+      "diagnosis": "Fetal distress"
+    },
+    {
+      "code": "614",
+      "diagnosis": "Inflammatory disease of female pelvic organs"
+    },
+    {
+      "code": "338",
+      "diagnosis": "Other disorders of nervous system"
+    },
+    {
+      "code": "779",
+      "diagnosis": "Other respiratory conditions of newborn"
+    },
+    {
+      "code": "639",
+      "diagnosis": "Complications of pregnancy"
+    },
+    {
+      "code": "723",
+      "diagnosis": "Other and unspecified disorders of back"
+    }
+  ]
+}

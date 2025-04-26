@@ -1,0 +1,116 @@
+{
+  "icd9_codes": [
+    {
+      "code": "783",
+      "diagnosis": "Chest pain"
+    },
+    {
+      "code": "786",
+      "diagnosis": "Shortness of breath"
+    },
+    {
+      "code": "787",
+      "diagnosis": "Nausea and vomiting"
+    },
+    {
+      "code": "787",
+      "diagnosis": "Diarrhea"
+    },
+    {
+      "code": "789",
+      "diagnosis": "Abdominal pain"
+    },
+    {
+      "code": "787",
+      "diagnosis": "Dysphagia"
+    },
+    {
+      "code": "458",
+      "diagnosis": "Orthostatic hypotension"
+    },
+    {
+      "code": "276",
+      "diagnosis": "Hyponatremia"
+    },
+    {
+      "code": "783",
+      "diagnosis": "Failure to thrive"
+    },
+    {
+      "code": "719",
+      "diagnosis": "Pain in left elbow"
+    },
+    {
+      "code": "009",
+      "diagnosis": "Infectious diarrhea"
+    },
+    {
+      "code": "413",
+      "diagnosis": "Angina pectoris"
+    },
+    {
+      "code": "558",
+      "diagnosis": "Gastrointestinal hemorrhage"
+    },
+    {
+      "code": "751",
+      "diagnosis": "Other congenital anomalies"
+    },
+    {
+      "code": "323",
+      "diagnosis": "Acute bronchitis"
+    },
+    {
+      "code": "435",
+      "diagnosis": "Hypertensive heart disease"
+    },
+    {
+      "code": "009",
+      "diagnosis": "Infectious diarrhea"
+    },
+    {
+      "code": "771",
+      "diagnosis": "Other respiratory conditions"
+    },
+    {
+      "code": "774",
+      "diagnosis": "Other respiratory conditions"
+    },
+    {
+      "code": "038",
+      "diagnosis": "Septicemia"
+    },
+    {
+      "code": "583",
+      "diagnosis": "Acute renal failure"
+    },
+    {
+      "code": "723",
+      "diagnosis": "Other joint disorders"
+    },
+    {
+      "code": "323",
+      "diagnosis": "Acute bronchitis"
+    },
+    {
+      "code": "455",
+      "diagnosis": "Phlebitis and thrombophlebitis"
+    },
+    {
+      "code": "721",
+      "diagnosis": "Arthritis and other joint disorders"
+    },
+    {
+      "code": "576",
+      "diagnosis": "Disorders of liver"
+    },
+    {
+      "code": "976",
+      "diagnosis": "Poisoning by drugs, medicaments and biological substances"
+    },
+    {
+      "code": "052",
+      "diagnosis": "Measles"
+    }
+  ]
+}

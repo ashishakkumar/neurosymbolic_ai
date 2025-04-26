@@ -1,0 +1,16 @@
+{
+  "icd9_codes": [
+    {
+      "code": "519",
+      "diagnosis": "Other diseases of respiratory system"
+    },
+    {
+      "code": "786",
+      "diagnosis": "Symptoms involving respiratory system and other chest symptoms"
+    },
+    {
+      "code": "784",
+      "diagnosis": "Other symptoms involving respiratory system and other chest symptoms"
+    }
+  ]
+}

@@ -1,0 +1,16 @@
+{
+  "icd9_codes": [
+    {
+      "code": "789",
+      "diagnosis": "Abdominal pain"
+    },
+    {
+      "code": "787",
+      "diagnosis": "Diarrhea"
+    },
+    {
+      "code": "789",
+      "diagnosis": "Periumbilical pain"
+    }
+  ]
+}

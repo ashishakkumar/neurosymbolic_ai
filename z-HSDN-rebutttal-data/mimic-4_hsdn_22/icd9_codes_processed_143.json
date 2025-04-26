@@ -1,0 +1,56 @@
+{
+  "icd9_codes": [
+    {
+      "code": "401",
+      "diagnosis": "Hypertensive urgency"
+    },
+    {
+      "code": "599",
+      "diagnosis": "Hematuria"
+    },
+    {
+      "code": "784",
+      "diagnosis": "Decreased energy"
+    },
+    {
+      "code": "784",
+      "diagnosis": "Headache"
+    },
+    {
+      "code": "386",
+      "diagnosis": "Hearing loss"
+    },
+    {
+      "code": "325",
+      "diagnosis": "Encephalitis"
+    },
+    {
+      "code": "338",
+      "diagnosis": "Dizziness"
+    },
+    {
+      "code": "729",
+      "diagnosis": "Pain in joint"
+    },
+    {
+      "code": "453",
+      "diagnosis": "Varicose veins of lower extremities"
+    },
+    {
+      "code": "326",
+      "diagnosis": "Other disorders of brain"
+    },
+    {
+      "code": "639",
+      "diagnosis": "Complications of pregnancy"
+    },
+    {
+      "code": "614",
+      "diagnosis": "Female genital organ disorders"
+    },
+    {
+      "code": "432",
+      "diagnosis": "Other and ill-defined cerebrovascular disease"
+    }
+  ]
+}

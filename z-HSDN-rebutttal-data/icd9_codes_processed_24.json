@@ -1,0 +1,28 @@
+{
+  "icd9_codes": [
+    {
+      "code": "789",
+      "diagnosis": "Abdominal Pain"
+    },
+    {
+      "code": "787",
+      "diagnosis": "Nausea and Vomiting"
+    },
+    {
+      "code": "789",
+      "diagnosis": "Left Sided Abdominal Pain"
+    },
+    {
+      "code": "723",
+      "diagnosis": "Dorsalgia"
+    },
+    {
+      "code": "338",
+      "diagnosis": "Other Disorders of Nervous System"
+    },
+    {
+      "code": "156",
+      "diagnosis": "Malignant Neoplasm of Rectum"
+    }
+  ]
+}

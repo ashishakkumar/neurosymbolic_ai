@@ -1,0 +1,28 @@
+{
+  "icd9_codes": [
+    {
+      "code": "786",
+      "diagnosis": "Dyspnea and respiratory abnormalities"
+    },
+    {
+      "code": "786",
+      "diagnosis": "Shortness of breath"
+    },
+    {
+      "code": "786",
+      "diagnosis": "Orthopnea"
+    },
+    {
+      "code": "786",
+      "diagnosis": "Cough"
+    },
+    {
+      "code": "748",
+      "diagnosis": "Other congenital anomalies of the circulatory system"
+    },
+    {
+      "code": "338",
+      "diagnosis": "Other disorders of the nervous system"
+    }
+  ]
+}

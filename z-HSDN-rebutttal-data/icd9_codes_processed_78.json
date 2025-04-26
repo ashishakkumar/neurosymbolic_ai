@@ -1,0 +1,12 @@
+{
+  "icd9_codes": [
+    {
+      "code": "786",
+      "diagnosis": "Dyspnea"
+    },
+    {
+      "code": "493",
+      "diagnosis": "Asthma"
+    }
+  ]
+}

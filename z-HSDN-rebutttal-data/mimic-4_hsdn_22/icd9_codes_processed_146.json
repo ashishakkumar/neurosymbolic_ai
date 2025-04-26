@@ -1,0 +1,80 @@
+{
+  "icd9_codes": [
+    {
+      "code": "386",
+      "diagnosis": "Otitis Media"
+    },
+    {
+      "code": "446",
+      "diagnosis": "Peripheral Vascular Disease"
+    },
+    {
+      "code": "381",
+      "diagnosis": "Mastoiditis and related conditions"
+    },
+    {
+      "code": "754",
+      "diagnosis": "Congenital anomalies of the musculoskeletal system"
+    },
+    {
+      "code": "971",
+      "diagnosis": "Poisoning by antineoplastic and immunosuppressive drugs"
+    },
+    {
+      "code": "907",
+      "diagnosis": "Late effects of injury, poisoning and other external causes"
+    },
+    {
+      "code": "754",
+      "diagnosis": "Congenital anomalies of the musculoskeletal system"
+    },
+    {
+      "code": "323",
+      "diagnosis": "Meningitis"
+    },
+    {
+      "code": "616",
+      "diagnosis": "Inflammatory disease of female pelvic organs"
+    },
+    {
+      "code": "325",
+      "diagnosis": "Encephalitis, myelitis, and encephalomyelitis"
+    },
+    {
+      "code": "338",
+      "diagnosis": "Other disorders of the nervous system"
+    },
+    {
+      "code": "729",
+      "diagnosis": "Other and unspecified disorders of the musculoskeletal system and connective tissue"
+    },
+    {
+      "code": "871",
+      "diagnosis": "Open wound of head"
+    },
+    {
+      "code": "453",
+      "diagnosis": "Varicose veins of lower extremities"
+    },
+    {
+      "code": "326",
+      "diagnosis": "Other disorders of the nervous system"
+    },
+    {
+      "code": "639",
+      "diagnosis": "Other complications of pregnancy, childbirth, and the puerperium"
+    },
+    {
+      "code": "614",
+      "diagnosis": "Inflammatory disease of female pelvic organs"
+    },
+    {
+      "code": "432",
+      "diagnosis": "Occlusion and stenosis of precerebral arteries"
+    },
+    {
+      "code": "784",
+      "diagnosis": "Headache"
+    }
+  ]
+}

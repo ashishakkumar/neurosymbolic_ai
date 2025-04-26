@@ -1,0 +1,16 @@
+{
+  "icd9_codes": [
+    {
+      "code": "780",
+      "diagnosis": "Fever"
+    },
+    {
+      "code": "427",
+      "diagnosis": "Tachycardia"
+    },
+    {
+      "code": "787",
+      "diagnosis": "Nausea and Vomiting"
+    }
+  ]
+}

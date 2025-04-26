@@ -1,0 +1,76 @@
+{
+  "icd9_codes": [
+    {
+      "code": "496",
+      "diagnosis": "Chronic airway obstruction, not elsewhere classified"
+    },
+    {
+      "code": "491",
+      "diagnosis": "Bronchitis, not specified as acute or chronic"
+    },
+    {
+      "code": "492",
+      "diagnosis": "Other emphysema"
+    },
+    {
+      "code": "482",
+      "diagnosis": "Pneumonia, organism unspecified"
+    },
+    {
+      "code": "486",
+      "diagnosis": "Pneumonia, organism unspecified"
+    },
+    {
+      "code": "414",
+      "diagnosis": "Coronary atherosclerosis"
+    },
+    {
+      "code": "511",
+      "diagnosis": "Pleural effusion, not elsewhere classified"
+    },
+    {
+      "code": "401",
+      "diagnosis": "Essential hypertension"
+    },
+    {
+      "code": "250",
+      "diagnosis": "Diabetes mellitus without mention of complication"
+    },
+    {
+      "code": "518",
+      "diagnosis": "Pneumoconiosis, unspecified"
+    },
+    {
+      "code": "493",
+      "diagnosis": "Asthma, unspecified"
+    },
+    {
+      "code": "197",
+      "diagnosis": "Secondary malignant neoplasm of respiratory and digestive systems"
+    },
+    {
+      "code": "492",
+      "diagnosis": "Other emphysema"
+    },
+    {
+      "code": "600",
+      "diagnosis": "Hypertrophy (benign) of prostate without urinary obstruction and other lower urinary tract symptoms (LUTS)"
+    },
+    {
+      "code": "162",
+      "diagnosis": "Malignant neoplasm of lung"
+    },
+    {
+      "code": "799",
+      "diagnosis": "Other ill-defined and unknown cause of morbidity and mortality"
+    },
+    {
+      "code": "492",
+      "diagnosis": "Other emphysema"
+    },
+    {
+      "code": "196",
+      "diagnosis": "Secondary malignant neoplasm of respiratory and digestive systems"
+    }
+  ]
+}

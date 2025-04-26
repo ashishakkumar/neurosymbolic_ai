@@ -1,0 +1,84 @@
+{
+  "icd9_codes": [
+    {
+      "code": "091",
+      "diagnosis": "Amebiasis"
+    },
+    {
+      "code": "775",
+      "diagnosis": "Neonatal jaundice"
+    },
+    {
+      "code": "558",
+      "diagnosis": "Diverticular disease of intestine"
+    },
+    {
+      "code": "446",
+      "diagnosis": "Peripheral vascular disease"
+    },
+    {
+      "code": "907",
+      "diagnosis": "Late effects of injury"
+    },
+    {
+      "code": "751",
+      "diagnosis": "Congenital anomalies"
+    },
+    {
+      "code": "323",
+      "diagnosis": "Encephalitis"
+    },
+    {
+      "code": "009",
+      "diagnosis": "Intestinal infectious disease"
+    },
+    {
+      "code": "771",
+      "diagnosis": "Respiratory distress of newborn"
+    },
+    {
+      "code": "774",
+      "diagnosis": "Other and unspecified respiratory conditions of newborn"
+    },
+    {
+      "code": "038",
+      "diagnosis": "Septicemia"
+    },
+    {
+      "code": "583",
+      "diagnosis": "Acute glomerulonephritis"
+    },
+    {
+      "code": "723",
+      "diagnosis": "Other and unspecified disorders of back"
+    },
+    {
+      "code": "323",
+      "diagnosis": "Encephalitis"
+    },
+    {
+      "code": "639",
+      "diagnosis": "Other complications of pregnancy"
+    },
+    {
+      "code": "614",
+      "diagnosis": "Inflammatory disease of female pelvic organs"
+    },
+    {
+      "code": "723",
+      "diagnosis": "Other and unspecified disorders of back"
+    },
+    {
+      "code": "576",
+      "diagnosis": "Other disorders of liver"
+    },
+    {
+      "code": "976",
+      "diagnosis": "Toxic effect of other substances"
+    },
+    {
+      "code": "052",
+      "diagnosis": "Varicella"
+    }
+  ]
+}

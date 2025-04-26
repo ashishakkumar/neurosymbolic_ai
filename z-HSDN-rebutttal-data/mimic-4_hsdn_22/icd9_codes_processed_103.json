@@ -1,0 +1,108 @@
+{
+  "icd9_codes": [
+    {
+      "code": "787",
+      "diagnosis": "Symptoms involving digestive system"
+    },
+    {
+      "code": "783",
+      "diagnosis": "Symptoms involving digestive system"
+    },
+    {
+      "code": "780",
+      "diagnosis": "General symptoms"
+    },
+    {
+      "code": "300",
+      "diagnosis": "Anxiety"
+    },
+    {
+      "code": "780",
+      "diagnosis": "General symptoms"
+    },
+    {
+      "code": "786",
+      "diagnosis": "Symptoms involving respiratory system"
+    },
+    {
+      "code": "780",
+      "diagnosis": "General symptoms"
+    },
+    {
+      "code": "307",
+      "diagnosis": "Psychological symptoms"
+    },
+    {
+      "code": "780",
+      "diagnosis": "General symptoms"
+    },
+    {
+      "code": "780",
+      "diagnosis": "General symptoms"
+    },
+    {
+      "code": "009",
+      "diagnosis": "Intestinal infectious diseases"
+    },
+    {
+      "code": "558",
+      "diagnosis": "Other gastrointestinal disorders"
+    },
+    {
+      "code": "446",
+      "diagnosis": "Peripheral vascular disease"
+    },
+    {
+      "code": "751",
+      "diagnosis": "Other congenital anomalies"
+    },
+    {
+      "code": "323",
+      "diagnosis": "Encephalitis, myelitis and encephalomyelitis"
+    },
+    {
+      "code": "009",
+      "diagnosis": "Intestinal infectious diseases"
+    },
+    {
+      "code": "771",
+      "diagnosis": "Respiratory conditions of newborn"
+    },
+    {
+      "code": "774",
+      "diagnosis": "Other conditions of newborn"
+    },
+    {
+      "code": "038",
+      "diagnosis": "Streptococcal infection"
+    },
+    {
+      "code": "583",
+      "diagnosis": "Chronic kidney disease"
+    },
+    {
+      "code": "723",
+      "diagnosis": "Other and unspecified disorders of back"
+    },
+    {
+      "code": "323",
+      "diagnosis": "Encephalitis, myelitis and encephalomyelitis"
+    },
+    {
+      "code": "576",
+      "diagnosis": "Disorders of pancreas"
+    },
+    {
+      "code": "976",
+      "diagnosis": "Adverse effect of drugs"
+    },
+    {
+      "code": "052",
+      "diagnosis": "Varicella"
+    },
+    {
+      "code": "887",
+      "diagnosis": "Open wound of head"
+    }
+  ]
+}

@@ -1,0 +1,48 @@
+{
+  "icd9_codes": [
+    {
+      "code": "786",
+      "diagnosis": "Chest pain"
+    },
+    {
+      "code": "786",
+      "diagnosis": "Shortness of breath"
+    },
+    {
+      "code": "789",
+      "diagnosis": "Abdominal pain"
+    },
+    {
+      "code": "427",
+      "diagnosis": "Cardiac dysrhythmias"
+    },
+    {
+      "code": "721",
+      "diagnosis": "Intervertebral disc disorders"
+    },
+    {
+      "code": "156",
+      "diagnosis": "Malignant neoplasm of colon"
+    },
+    {
+      "code": "413",
+      "diagnosis": "Other forms of chronic ischemic heart disease"
+    },
+    {
+      "code": "338",
+      "diagnosis": "Other disorders of the ear"
+    },
+    {
+      "code": "455",
+      "diagnosis": "Varicose veins of lower extremities"
+    },
+    {
+      "code": "435",
+      "diagnosis": "Occlusion and stenosis of precerebral arteries"
+    },
+    {
+      "code": "723",
+      "diagnosis": "Other and unspecified disorders of back"
+    }
+  ]
+}

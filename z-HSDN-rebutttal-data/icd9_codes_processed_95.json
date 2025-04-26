@@ -1,0 +1,32 @@
+{
+  "icd9_codes": [
+    {
+      "code": "410",
+      "diagnosis": "Acute Myocardial Infarction"
+    },
+    {
+      "code": "401",
+      "diagnosis": "Hypertension"
+    },
+    {
+      "code": "786",
+      "diagnosis": "Chest Pain"
+    },
+    {
+      "code": "780",
+      "diagnosis": "General Symptoms"
+    },
+    {
+      "code": "784",
+      "diagnosis": "Nausea and Vomiting"
+    },
+    {
+      "code": "784",
+      "diagnosis": "Headache"
+    },
+    {
+      "code": "780",
+      "diagnosis": "Dizziness"
+    }
+  ]
+}

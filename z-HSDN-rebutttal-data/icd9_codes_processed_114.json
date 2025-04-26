@@ -1,0 +1,60 @@
+{
+  "icd9_codes": [
+    {
+      "code": "090",
+      "diagnosis": "Scabies"
+    },
+    {
+      "code": "008",
+      "diagnosis": "Intestinal infection"
+    },
+    {
+      "code": "696",
+      "diagnosis": "Dermatitis and eczema"
+    },
+    {
+      "code": "694",
+      "diagnosis": "Other disorders of skin and subcutaneous tissue"
+    },
+    {
+      "code": "624",
+      "diagnosis": "Other disorders of breast"
+    },
+    {
+      "code": "690",
+      "diagnosis": "Acne"
+    },
+    {
+      "code": "091",
+      "diagnosis": "Measles"
+    },
+    {
+      "code": "692",
+      "diagnosis": "Contact dermatitis and other eczema"
+    },
+    {
+      "code": "786",
+      "diagnosis": "Symptoms involving respiratory system and other chest symptoms"
+    },
+    {
+      "code": "780",
+      "diagnosis": "General symptoms"
+    },
+    {
+      "code": "786",
+      "diagnosis": "Symptoms involving respiratory system and other chest symptoms"
+    },
+    {
+      "code": "786",
+      "diagnosis": "Symptoms involving respiratory system and other chest symptoms"
+    },
+    {
+      "code": "789",
+      "diagnosis": "Other symptoms involving the digestive system"
+    },
+    {
+      "code": "787",
+      "diagnosis": "Symptoms involving the digestive system"
+    }
+  ]
+}

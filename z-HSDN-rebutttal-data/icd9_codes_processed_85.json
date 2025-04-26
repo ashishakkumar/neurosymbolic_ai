@@ -1,0 +1,136 @@
+{
+  "icd9_codes": [
+    {
+      "code": "496",
+      "diagnosis": "Chronic airway obstruction, not elsewhere classified"
+    },
+    {
+      "code": "585",
+      "diagnosis": "Chronic kidney disease"
+    },
+    {
+      "code": "425",
+      "diagnosis": "Cardiac dysrhythmias"
+    },
+    {
+      "code": "276",
+      "diagnosis": "Electrolyte disorders"
+    },
+    {
+      "code": "427",
+      "diagnosis": "Cardiac dysrhythmias"
+    },
+    {
+      "code": "790",
+      "diagnosis": "Nonspecific abnormal findings"
+    },
+    {
+      "code": "530",
+      "diagnosis": "Diseases of esophagus"
+    },
+    {
+      "code": "272",
+      "diagnosis": "Disorders of lipid metabolism"
+    },
+    {
+      "code": "424",
+      "diagnosis": "Endocarditis and myocarditis"
+    },
+    {
+      "code": "584",
+      "diagnosis": "Acute renal failure"
+    },
+    {
+      "code": "599",
+      "diagnosis": "Other disorders of urinary system"
+    },
+    {
+      "code": "428",
+      "diagnosis": "Heart failure"
+    },
+    {
+      "code": "518",
+      "diagnosis": "Pneumonia, organism unspecified"
+    },
+    {
+      "code": "244",
+      "diagnosis": "Acromegaly and pituitary gigantism"
+    },
+    {
+      "code": "427",
+      "diagnosis": "Cardiac dysrhythmias"
+    },
+    {
+      "code": "996",
+      "diagnosis": "Complications of surgical and medical care, not elsewhere classified"
+    },
+    {
+      "code": "416",
+      "diagnosis": "Chronic pulmonary heart disease"
+    },
+    {
+      "code": "780",
+      "diagnosis": "General symptoms"
+    },
+    {
+      "code": "396",
+      "diagnosis": "Rheumatic heart disease"
+    },
+    {
+      "code": "600",
+      "diagnosis": "Hypogonadism"
+    },
+    {
+      "code": "426",
+      "diagnosis": "Conduction disorders"
+    },
+    {
+      "code": "398",
+      "diagnosis": "Endocarditis and myocarditis"
+    },
+    {
+      "code": "433",
+      "diagnosis": "Occlusion and stenosis of precerebral arteries"
+    },
+    {
+      "code": "422",
+      "diagnosis": "Atrial fibrillation and flutter"
+    },
+    {
+      "code": "459",
+      "diagnosis": "Phlebitis and thrombophlebitis of unspecified site"
+    },
+    {
+      "code": "733",
+      "diagnosis": "Other and unspecified disorders of bone and cartilage"
+    },
+    {
+      "code": "459",
+      "diagnosis": "Phlebitis and thrombophlebitis of unspecified site"
+    },
+    {
+      "code": "715",
+      "diagnosis": "Osteoarthritis and allied disorders"
+    },
+    {
+      "code": "436",
+      "diagnosis": "Acute but ill-defined cerebrovascular disease"
+    },
+    {
+      "code": "496",
+      "diagnosis": "Chronic airway obstruction, not elsewhere classified"
+    },
+    {
+      "code": "790",
+      "diagnosis": "Nonspecific abnormal findings"
+    },
+    {
+      "code": "599",
+      "diagnosis": "Other disorders of urinary system"
+    },
+    {
+      "code": "428",
+      "diagnosis": "Heart failure"
+    }
+  ]
+}

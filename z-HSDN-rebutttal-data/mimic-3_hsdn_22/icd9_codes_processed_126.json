@@ -1,0 +1,44 @@
+{
+  "icd9_codes": [
+    {
+      "code": "413",
+      "diagnosis": "Angina Pectoris"
+    },
+    {
+      "code": "455",
+      "diagnosis": "Phlebitis and Thrombophlebitis"
+    },
+    {
+      "code": "721",
+      "diagnosis": "Intervertebral Disc Disorders"
+    },
+    {
+      "code": "786",
+      "diagnosis": "Chest Pain"
+    },
+    {
+      "code": "780",
+      "diagnosis": "Fever"
+    },
+    {
+      "code": "780",
+      "diagnosis": "Chills"
+    },
+    {
+      "code": "799",
+      "diagnosis": "Other Symptoms Involving the Circulatory and Respiratory Systems"
+    },
+    {
+      "code": "786",
+      "diagnosis": "Dyspnea"
+    },
+    {
+      "code": "786",
+      "diagnosis": "Pleuritic Pain"
+    },
+    {
+      "code": "786",
+      "diagnosis": "Cough"
+    }
+  ]
+}

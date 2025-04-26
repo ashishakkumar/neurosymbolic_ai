@@ -1,0 +1,36 @@
+{
+  "icd9_codes": [
+    {
+      "code": "413",
+      "diagnosis": "Angina Pectoris"
+    },
+    {
+      "code": "786",
+      "diagnosis": "Chest Pain"
+    },
+    {
+      "code": "786",
+      "diagnosis": "Dyspnea"
+    },
+    {
+      "code": "781",
+      "diagnosis": "Diaphoresis"
+    },
+    {
+      "code": "781",
+      "diagnosis": "Right Arm Numbness"
+    },
+    {
+      "code": "781",
+      "diagnosis": "Right-sided Extremity Weakness"
+    },
+    {
+      "code": "784",
+      "diagnosis": "Headache"
+    },
+    {
+      "code": "787",
+      "diagnosis": "Left Foot Pain"
+    }
+  ]
+}

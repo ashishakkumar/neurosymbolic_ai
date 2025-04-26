@@ -1,0 +1,36 @@
+{
+  "icd9_codes": [
+    {
+      "code": "571",
+      "diagnosis": "Liver Disease"
+    },
+    {
+      "code": "780",
+      "diagnosis": "General Symptoms"
+    },
+    {
+      "code": "787",
+      "diagnosis": "Symptoms Involving Digestive System"
+    },
+    {
+      "code": "786",
+      "diagnosis": "Symptoms Involving Respiratory System and Other Chest Symptoms"
+    },
+    {
+      "code": "784",
+      "diagnosis": "Symptoms Involving Nervous System and Special Senses"
+    },
+    {
+      "code": "786",
+      "diagnosis": "Symptoms Involving Respiratory System and Other Chest Symptoms"
+    },
+    {
+      "code": "789",
+      "diagnosis": "Other Symptoms Involving the Digestive System"
+    },
+    {
+      "code": "788",
+      "diagnosis": "Symptoms Involving the Urinary System"
+    }
+  ]
+}

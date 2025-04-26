@@ -1,0 +1,64 @@
+{
+  "icd9_codes": [
+    {
+      "code": "486",
+      "diagnosis": "aspiration pneumonia"
+    },
+    {
+      "code": "780",
+      "diagnosis": "fevers"
+    },
+    {
+      "code": "786",
+      "diagnosis": "coarse breath sounds bilaterally"
+    },
+    {
+      "code": "786",
+      "diagnosis": "mild diffuse wheezes"
+    },
+    {
+      "code": "345",
+      "diagnosis": "seizure disorder"
+    },
+    {
+      "code": "311",
+      "diagnosis": "depression"
+    },
+    {
+      "code": "482",
+      "diagnosis": "pneumonia"
+    },
+    {
+      "code": "295",
+      "diagnosis": "schizophrenia"
+    },
+    {
+      "code": "507",
+      "diagnosis": "respiratory failure"
+    },
+    {
+      "code": "296",
+      "diagnosis": "major depressive disorder"
+    },
+    {
+      "code": "969",
+      "diagnosis": "poisoning by antiepileptic drugs"
+    },
+    {
+      "code": "518",
+      "diagnosis": "pulmonary insufficiency"
+    },
+    {
+      "code": "493",
+      "diagnosis": "asthma"
+    },
+    {
+      "code": "780",
+      "diagnosis": "fever"
+    },
+    {
+      "code": "291",
+      "diagnosis": "alcohol dependence"
+    }
+  ]
+}

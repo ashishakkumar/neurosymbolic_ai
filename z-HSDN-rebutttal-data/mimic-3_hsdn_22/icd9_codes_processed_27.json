@@ -1,0 +1,28 @@
+{
+  "icd9_codes": [
+    {
+      "code": "914",
+      "diagnosis": "Open wound of head"
+    },
+    {
+      "code": "614",
+      "diagnosis": "Sinusitis"
+    },
+    {
+      "code": "462",
+      "diagnosis": "Acute pharyngitis"
+    },
+    {
+      "code": "780",
+      "diagnosis": "General symptoms"
+    },
+    {
+      "code": "780",
+      "diagnosis": "General symptoms"
+    },
+    {
+      "code": "780",
+      "diagnosis": "General symptoms"
+    }
+  ]
+}

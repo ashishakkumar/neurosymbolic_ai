@@ -1,0 +1,68 @@
+{
+  "icd9_codes": [
+    {
+      "code": "093",
+      "diagnosis": "Mumps"
+    },
+    {
+      "code": "446",
+      "diagnosis": "Raynaud's disease"
+    },
+    {
+      "code": "009",
+      "diagnosis": "Viral hepatitis"
+    },
+    {
+      "code": "771",
+      "diagnosis": "Neonatal jaundice"
+    },
+    {
+      "code": "774",
+      "diagnosis": "Neonatal respiratory distress syndrome"
+    },
+    {
+      "code": "038",
+      "diagnosis": "Leptospirosis"
+    },
+    {
+      "code": "751",
+      "diagnosis": "Congenital anomalies of the nervous system"
+    },
+    {
+      "code": "723",
+      "diagnosis": "Other and unspecified disorders of the shoulder region"
+    },
+    {
+      "code": "576",
+      "diagnosis": "Gastroenteritis and colitis of infectious origin"
+    },
+    {
+      "code": "323",
+      "diagnosis": "Encephalitis, myalgia, and encephalomyelitis"
+    },
+    {
+      "code": "976",
+      "diagnosis": "Poisoning by other and unspecified drugs and biological substances"
+    },
+    {
+      "code": "583",
+      "diagnosis": "Acute glomerulonephritis"
+    },
+    {
+      "code": "052",
+      "diagnosis": "Varicella"
+    },
+    {
+      "code": "723",
+      "diagnosis": "Other and unspecified disorders of the shoulder region"
+    },
+    {
+      "code": "558",
+      "diagnosis": "Other specified noninfective gastroenteritis and colitis"
+    },
+    {
+      "code": "323",
+      "diagnosis": "Encephalitis, myalgia, and encephalomyelitis"
+    }
+  ]
+}

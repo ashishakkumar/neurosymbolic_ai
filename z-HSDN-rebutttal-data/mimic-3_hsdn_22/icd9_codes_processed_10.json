@@ -1,0 +1,44 @@
+{
+  "icd9_codes": [
+    {
+      "code": "789",
+      "diagnosis": "Abdominal Pain"
+    },
+    {
+      "code": "787",
+      "diagnosis": "Nausea"
+    },
+    {
+      "code": "780",
+      "diagnosis": "Diaphoresis"
+    },
+    {
+      "code": "780",
+      "diagnosis": "Chills"
+    },
+    {
+      "code": "574",
+      "diagnosis": "Biliary Disorders"
+    },
+    {
+      "code": "783",
+      "diagnosis": "Anorexia"
+    },
+    {
+      "code": "783",
+      "diagnosis": "Weight Loss"
+    },
+    {
+      "code": "073",
+      "diagnosis": "Viral Hepatitis"
+    },
+    {
+      "code": "446",
+      "diagnosis": "Peripheral Vascular Disease"
+    },
+    {
+      "code": "073",
+      "diagnosis": "Viral Hepatitis"
+    }
+  ]
+}

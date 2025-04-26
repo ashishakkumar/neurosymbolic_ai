@@ -1,0 +1,24 @@
+{
+  "icd9_codes": [
+    {
+      "code": "729",
+      "diagnosis": "Other and unspecified disorders of muscle, ligament, and fascia"
+    },
+    {
+      "code": "338",
+      "diagnosis": "Other disorders of nervous system"
+    },
+    {
+      "code": "156",
+      "diagnosis": "Malignant neoplasm of colon"
+    },
+    {
+      "code": "780",
+      "diagnosis": "General symptoms"
+    },
+    {
+      "code": "782",
+      "diagnosis": "Symptoms involving head and neck"
+    }
+  ]
+}

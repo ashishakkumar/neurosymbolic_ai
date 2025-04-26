@@ -1,0 +1,64 @@
+{
+  "icd9_codes": [
+    {
+      "code": "783",
+      "diagnosis": "Chest pain"
+    },
+    {
+      "code": "786",
+      "diagnosis": "Shortness of breath"
+    },
+    {
+      "code": "787",
+      "diagnosis": "Nausea and vomiting"
+    },
+    {
+      "code": "787",
+      "diagnosis": "Diarrhea"
+    },
+    {
+      "code": "789",
+      "diagnosis": "Abdominal pain"
+    },
+    {
+      "code": "787",
+      "diagnosis": "Dysphagia"
+    },
+    {
+      "code": "780",
+      "diagnosis": "Orthostatic hypotension"
+    },
+    {
+      "code": "276",
+      "diagnosis": "Hyponatremia"
+    },
+    {
+      "code": "783",
+      "diagnosis": "Failure to thrive"
+    },
+    {
+      "code": "726",
+      "diagnosis": "Pain in left elbow"
+    },
+    {
+      "code": "589",
+      "diagnosis": "Diarrhea"
+    },
+    {
+      "code": "783",
+      "diagnosis": "Epigastric abdominal pain"
+    },
+    {
+      "code": "787",
+      "diagnosis": "Dysphagia"
+    },
+    {
+      "code": "780",
+      "diagnosis": "Orthostatic hypotension"
+    },
+    {
+      "code": "276",
+      "diagnosis": "Hyponatremia"
+    }
+  ]
+}

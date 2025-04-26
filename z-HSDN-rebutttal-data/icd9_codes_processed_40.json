@@ -1,0 +1,76 @@
+{
+  "icd9_codes": [
+    {
+      "code": "780",
+      "diagnosis": "Fever"
+    },
+    {
+      "code": "780",
+      "diagnosis": "Chills"
+    },
+    {
+      "code": "784",
+      "diagnosis": "Headache"
+    },
+    {
+      "code": "780",
+      "diagnosis": "Rigors"
+    },
+    {
+      "code": "723",
+      "diagnosis": "Neck pain"
+    },
+    {
+      "code": "729",
+      "diagnosis": "Myalgias"
+    },
+    {
+      "code": "719",
+      "diagnosis": "Arthralgias"
+    },
+    {
+      "code": "462",
+      "diagnosis": "Nasal congestion"
+    },
+    {
+      "code": "786",
+      "diagnosis": "Non-productive cough"
+    },
+    {
+      "code": "780",
+      "diagnosis": "Fever"
+    },
+    {
+      "code": "780",
+      "diagnosis": "Chills"
+    },
+    {
+      "code": "784",
+      "diagnosis": "Headache"
+    },
+    {
+      "code": "780",
+      "diagnosis": "Rigors"
+    },
+    {
+      "code": "723",
+      "diagnosis": "Neck pain"
+    },
+    {
+      "code": "729",
+      "diagnosis": "Myalgias"
+    },
+    {
+      "code": "719",
+      "diagnosis": "Arthralgias"
+    },
+    {
+      "code": "462",
+      "diagnosis": "Nasal congestion"
+    },
+    {
+      "code": "786",
+      "diagnosis": "Non-productive cough"
+    }
+  ]
+}

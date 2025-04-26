@@ -1,0 +1,84 @@
+{
+  "icd9_codes": [
+    {
+      "code": "518",
+      "diagnosis": "Shortness of Breath"
+    },
+    {
+      "code": "786",
+      "diagnosis": "Orthopnea"
+    },
+    {
+      "code": "786",
+      "diagnosis": "Paroxysmal Nocturnal Dyspnea"
+    },
+    {
+      "code": "786",
+      "diagnosis": "Non-productive Cough"
+    },
+    {
+      "code": "787",
+      "diagnosis": "Diarrhea"
+    },
+    {
+      "code": "564",
+      "diagnosis": "Constipation"
+    },
+    {
+      "code": "009",
+      "diagnosis": "Infectious Diarrhea"
+    },
+    {
+      "code": "558",
+      "diagnosis": "Irritable Bowel Syndrome"
+    },
+    {
+      "code": "713",
+      "diagnosis": "Arthritis"
+    },
+    {
+      "code": "723",
+      "diagnosis": "Spinal Disorders"
+    },
+    {
+      "code": "793",
+      "diagnosis": "Other Symptoms Involving the Nervous System"
+    },
+    {
+      "code": "771",
+      "diagnosis": "Respiratory Distress of Newborn"
+    },
+    {
+      "code": "038",
+      "diagnosis": "Streptococcal Infection"
+    },
+    {
+      "code": "556",
+      "diagnosis": "Gastroenteritis"
+    },
+    {
+      "code": "583",
+      "diagnosis": "Acute Glomerulonephritis"
+    },
+    {
+      "code": "723",
+      "diagnosis": "Spinal Disorders"
+    },
+    {
+      "code": "576",
+      "diagnosis": "Liver Disease"
+    },
+    {
+      "code": "793",
+      "diagnosis": "Other Symptoms Involving the Nervous System"
+    },
+    {
+      "code": "976",
+      "diagnosis": "Adverse Effect of Drug"
+    },
+    {
+      "code": "052",
+      "diagnosis": "Varicella"
+    }
+  ]
+}

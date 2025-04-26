@@ -1,0 +1,16 @@
+{
+  "icd9_codes": [
+    {
+      "code": "787",
+      "diagnosis": "Symptoms involving digestive system"
+    },
+    {
+      "code": "789",
+      "diagnosis": "Abdominal pain"
+    },
+    {
+      "code": "562",
+      "diagnosis": "Other and unspecified hernia of abdominal wall"
+    }
+  ]
+}

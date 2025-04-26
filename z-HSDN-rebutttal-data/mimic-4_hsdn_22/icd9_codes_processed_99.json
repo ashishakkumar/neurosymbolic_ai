@@ -1,0 +1,36 @@
+{
+  "icd9_codes": [
+    {
+      "code": "917",
+      "diagnosis": "Open wound of head"
+    },
+    {
+      "code": "723",
+      "diagnosis": "Dorsalgia"
+    },
+    {
+      "code": "558",
+      "diagnosis": "Other specified disorders of intestine"
+    },
+    {
+      "code": "787",
+      "diagnosis": "Symptoms involving digestive system"
+    },
+    {
+      "code": "789",
+      "diagnosis": "Abdominal pain"
+    },
+    {
+      "code": "784",
+      "diagnosis": "Nausea and vomiting"
+    },
+    {
+      "code": "786",
+      "diagnosis": "Symptoms concerning nutrition, metabolism, and development"
+    },
+    {
+      "code": "780",
+      "diagnosis": "General symptoms"
+    }
+  ]
+}

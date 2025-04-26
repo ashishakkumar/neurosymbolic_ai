@@ -1,0 +1,32 @@
+{
+  "icd9_codes": [
+    {
+      "code": "780",
+      "diagnosis": "General symptoms"
+    },
+    {
+      "code": "784",
+      "diagnosis": "Headache"
+    },
+    {
+      "code": "473",
+      "diagnosis": "Chronic sinusitis"
+    },
+    {
+      "code": "784",
+      "diagnosis": "Headache"
+    },
+    {
+      "code": "786",
+      "diagnosis": "Sore throat"
+    },
+    {
+      "code": "780",
+      "diagnosis": "General symptoms"
+    },
+    {
+      "code": "780",
+      "diagnosis": "General symptoms"
+    }
+  ]
+}

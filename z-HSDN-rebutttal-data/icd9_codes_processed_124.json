@@ -1,0 +1,52 @@
+{
+  "icd9_codes": [
+    {
+      "code": "780",
+      "diagnosis": "Fevers"
+    },
+    {
+      "code": "780",
+      "diagnosis": "Chills"
+    },
+    {
+      "code": "787",
+      "diagnosis": "Diarrhea"
+    },
+    {
+      "code": "729",
+      "diagnosis": "Pain in bilateral antecubital fossas"
+    },
+    {
+      "code": "695",
+      "diagnosis": "Rash"
+    },
+    {
+      "code": "782",
+      "diagnosis": "Arm swelling"
+    },
+    {
+      "code": "780",
+      "diagnosis": "Fevers"
+    },
+    {
+      "code": "780",
+      "diagnosis": "Chills"
+    },
+    {
+      "code": "787",
+      "diagnosis": "Diarrhea"
+    },
+    {
+      "code": "729",
+      "diagnosis": "Pain in bilateral antecubital fossas"
+    },
+    {
+      "code": "695",
+      "diagnosis": "Rash"
+    },
+    {
+      "code": "782",
+      "diagnosis": "Arm swelling"
+    }
+  ]
+}

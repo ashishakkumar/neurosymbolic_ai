@@ -1,0 +1,96 @@
+{
+  "icd9_codes": [
+    {
+      "code": "381",
+      "diagnosis": "Tinnitus"
+    },
+    {
+      "code": "754",
+      "diagnosis": "Congenital anomalies"
+    },
+    {
+      "code": "971",
+      "diagnosis": "Poisoning by antineoplastic and immunosuppressive drugs"
+    },
+    {
+      "code": "907",
+      "diagnosis": "Late effects of injury"
+    },
+    {
+      "code": "754",
+      "diagnosis": "Congenital anomalies"
+    },
+    {
+      "code": "323",
+      "diagnosis": "Meningitis"
+    },
+    {
+      "code": "616",
+      "diagnosis": "Inflammatory disease of female pelvic organs"
+    },
+    {
+      "code": "325",
+      "diagnosis": "Encephalitis"
+    },
+    {
+      "code": "338",
+      "diagnosis": "Other disorders of the nervous system"
+    },
+    {
+      "code": "729",
+      "diagnosis": "Other and unspecified disorders of the musculoskeletal system"
+    },
+    {
+      "code": "871",
+      "diagnosis": "Open wound of head"
+    },
+    {
+      "code": "453",
+      "diagnosis": "Varicose veins of lower extremities"
+    },
+    {
+      "code": "326",
+      "diagnosis": "Intracranial abscess and granuloma"
+    },
+    {
+      "code": "639",
+      "diagnosis": "Other complications of pregnancy"
+    },
+    {
+      "code": "614",
+      "diagnosis": "Inflammatory disease of female pelvic organs"
+    },
+    {
+      "code": "432",
+      "diagnosis": "Occlusion of cerebral arteries"
+    },
+    {
+      "code": "784",
+      "diagnosis": "Symptoms involving head and neck"
+    },
+    {
+      "code": "781",
+      "diagnosis": "Symptoms involving nervous and musculoskeletal systems"
+    },
+    {
+      "code": "784",
+      "diagnosis": "Symptoms involving head and neck"
+    },
+    {
+      "code": "781",
+      "diagnosis": "Symptoms involving nervous and musculoskeletal systems"
+    },
+    {
+      "code": "781",
+      "diagnosis": "Symptoms involving nervous and musculoskeletal systems"
+    },
+    {
+      "code": "784",
+      "diagnosis": "Symptoms involving head and neck"
+    },
+    {
+      "code": "781",
+      "diagnosis": "Symptoms involving nervous and musculoskeletal systems"
+    }
+  ]
+}

@@ -1,0 +1,80 @@
+{
+  "icd9_codes": [
+    {
+      "code": "091",
+      "diagnosis": "Measles"
+    },
+    {
+      "code": "775",
+      "diagnosis": "Fetal distress"
+    },
+    {
+      "code": "677",
+      "diagnosis": "False labor"
+    },
+    {
+      "code": "413",
+      "diagnosis": "Hypertensive heart disease"
+    },
+    {
+      "code": "748",
+      "diagnosis": "Other congenital anomalies"
+    },
+    {
+      "code": "774",
+      "diagnosis": "Fetal and neonatal effects of maternal complications"
+    },
+    {
+      "code": "323",
+      "diagnosis": "Pneumonia in bacterial diseases classified elsewhere"
+    },
+    {
+      "code": "435",
+      "diagnosis": "Hypertensive encephalopathy"
+    },
+    {
+      "code": "779",
+      "diagnosis": "Other respiratory and cardiovascular disorders originating in the perinatal period"
+    },
+    {
+      "code": "338",
+      "diagnosis": "Other and unspecified disorders of the nervous system"
+    },
+    {
+      "code": "427",
+      "diagnosis": "Cardiac dysrhythmias"
+    },
+    {
+      "code": "564",
+      "diagnosis": "Other constipation"
+    },
+    {
+      "code": "556",
+      "diagnosis": "Diverticular disease of intestine"
+    },
+    {
+      "code": "786",
+      "diagnosis": "Symptoms involving respiratory system and other chest symptoms"
+    },
+    {
+      "code": "455",
+      "diagnosis": "Thrombophlebitis and thrombophlebitic conditions"
+    },
+    {
+      "code": "639",
+      "diagnosis": "Other complications of pregnancy, childbirth, and the puerperium"
+    },
+    {
+      "code": "614",
+      "diagnosis": "Inflammatory disease of ovary, fallopian tube, pelvic cellular tissue, and peritoneum"
+    },
+    {
+      "code": "721",
+      "diagnosis": "Other and unspecified disorders of bone and cartilage of spine"
+    },
+    {
+      "code": "639",
+      "diagnosis": "Other complications of pregnancy, childbirth, and the puerperium"
+    }
+  ]
+}

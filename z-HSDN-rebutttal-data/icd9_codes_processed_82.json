@@ -1,0 +1,24 @@
+{
+  "icd9_codes": [
+    {
+      "code": "564",
+      "diagnosis": "Constipation"
+    },
+    {
+      "code": "789",
+      "diagnosis": "Abdominal Pain"
+    },
+    {
+      "code": "784",
+      "diagnosis": "Back Pain"
+    },
+    {
+      "code": "618",
+      "diagnosis": "Pelvic Pain"
+    },
+    {
+      "code": "788",
+      "diagnosis": "Urinary Frequency"
+    }
+  ]
+}

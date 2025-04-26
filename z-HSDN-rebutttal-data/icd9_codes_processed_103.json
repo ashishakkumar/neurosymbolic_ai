@@ -1,0 +1,40 @@
+{
+  "icd9_codes": [
+    {
+      "code": "091",
+      "diagnosis": "Amebiasis"
+    },
+    {
+      "code": "558",
+      "diagnosis": "Irritable bowel syndrome"
+    },
+    {
+      "code": "787",
+      "diagnosis": "Symptoms involving digestive system"
+    },
+    {
+      "code": "323",
+      "diagnosis": "Convulsions"
+    },
+    {
+      "code": "780",
+      "diagnosis": "General symptoms"
+    },
+    {
+      "code": "786",
+      "diagnosis": "Symptoms concerning nutrition, metabolism, and development"
+    },
+    {
+      "code": "300",
+      "diagnosis": "Anxiety states"
+    },
+    {
+      "code": "780",
+      "diagnosis": "General symptoms"
+    },
+    {
+      "code": "786",
+      "diagnosis": "Symptoms concerning nutrition, metabolism, and development"
+    }
+  ]
+}

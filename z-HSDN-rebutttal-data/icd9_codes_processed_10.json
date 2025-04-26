@@ -1,0 +1,64 @@
+{
+  "icd9_codes": [
+    {
+      "code": "789",
+      "diagnosis": "Abdominal Pain"
+    },
+    {
+      "code": "787",
+      "diagnosis": "Nausea"
+    },
+    {
+      "code": "780",
+      "diagnosis": "Diaphoresis"
+    },
+    {
+      "code": "780",
+      "diagnosis": "Chills"
+    },
+    {
+      "code": "578",
+      "diagnosis": "Bilious Output"
+    },
+    {
+      "code": "789",
+      "diagnosis": "Abdominal Pain"
+    },
+    {
+      "code": "783",
+      "diagnosis": "Anorexia"
+    },
+    {
+      "code": "783",
+      "diagnosis": "Weight Loss"
+    },
+    {
+      "code": "250",
+      "diagnosis": "Diabetes Mellitus"
+    },
+    {
+      "code": "518",
+      "diagnosis": "Pneumonia"
+    },
+    {
+      "code": "038",
+      "diagnosis": "Septicemia"
+    },
+    {
+      "code": "496",
+      "diagnosis": "Chronic Bronchitis"
+    },
+    {
+      "code": "569",
+      "diagnosis": "Gastrointestinal Hemorrhage"
+    },
+    {
+      "code": "562",
+      "diagnosis": "Intestinal Obstruction"
+    },
+    {
+      "code": "567",
+      "diagnosis": "Diverticulosis"
+    }
+  ]
+}

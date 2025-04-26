@@ -1,0 +1,16 @@
+{
+  "icd9_codes": [
+    {
+      "code": "782",
+      "diagnosis": "Pain"
+    },
+    {
+      "code": "784",
+      "diagnosis": "Sore"
+    },
+    {
+      "code": "784",
+      "diagnosis": "Dull pain"
+    }
+  ]
+}

@@ -1,0 +1,112 @@
+{
+  "icd9_codes": [
+    {
+      "code": "493",
+      "diagnosis": "Asthma"
+    },
+    {
+      "code": "786",
+      "diagnosis": "Hypoxia"
+    },
+    {
+      "code": "786",
+      "diagnosis": "Tachypnea"
+    },
+    {
+      "code": "789",
+      "diagnosis": "Pain over posterior lower ribs"
+    },
+    {
+      "code": "780",
+      "diagnosis": "Fever"
+    },
+    {
+      "code": "787",
+      "diagnosis": "Nausea"
+    },
+    {
+      "code": "780",
+      "diagnosis": "Shake occasionally"
+    },
+    {
+      "code": "786",
+      "diagnosis": "SOB"
+    },
+    {
+      "code": "780",
+      "diagnosis": "Night sweats"
+    },
+    {
+      "code": "783",
+      "diagnosis": "Weight loss"
+    },
+    {
+      "code": "585",
+      "diagnosis": "Chronic kidney disease"
+    },
+    {
+      "code": "599",
+      "diagnosis": "Urinary tract infection"
+    },
+    {
+      "code": "276",
+      "diagnosis": "Electrolyte imbalance"
+    },
+    {
+      "code": "518",
+      "diagnosis": "Pneumonia"
+    },
+    {
+      "code": "038",
+      "diagnosis": "Sepsis"
+    },
+    {
+      "code": "280",
+      "diagnosis": "Anemia"
+    },
+    {
+      "code": "493",
+      "diagnosis": "Asthma"
+    },
+    {
+      "code": "784",
+      "diagnosis": "Dyspnea"
+    },
+    {
+      "code": "782",
+      "diagnosis": "Chest pain"
+    },
+    {
+      "code": "786",
+      "diagnosis": "Shortness of breath"
+    },
+    {
+      "code": "780",
+      "diagnosis": "Fever"
+    },
+    {
+      "code": "787",
+      "diagnosis": "Nausea"
+    },
+    {
+      "code": "786",
+      "diagnosis": "Tachypnea"
+    },
+    {
+      "code": "789",
+      "diagnosis": "Pain over posterior lower ribs"
+    },
+    {
+      "code": "786",
+      "diagnosis": "SOB"
+    },
+    {
+      "code": "780",
+      "diagnosis": "Night sweats"
+    },
+    {
+      "code": "783",
+      "diagnosis": "Weight loss"
+    }
+  ]
+}

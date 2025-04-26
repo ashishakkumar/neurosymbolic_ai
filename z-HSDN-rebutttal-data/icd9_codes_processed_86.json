@@ -1,0 +1,24 @@
+{
+  "icd9_codes": [
+    {
+      "code": "091",
+      "diagnosis": "Infectious mononucleosis"
+    },
+    {
+      "code": "558",
+      "diagnosis": "Gastrointestinal disorders"
+    },
+    {
+      "code": "780",
+      "diagnosis": "General symptoms"
+    },
+    {
+      "code": "786",
+      "diagnosis": "Symptoms involving nervous system and sense organs"
+    },
+    {
+      "code": "787",
+      "diagnosis": "Symptoms involving digestive system"
+    }
+  ]
+}

@@ -1,0 +1,32 @@
+{
+  "icd9_codes": [
+    {
+      "code": "786",
+      "diagnosis": "Chest Pain"
+    },
+    {
+      "code": "729",
+      "diagnosis": "Pain in Limb"
+    },
+    {
+      "code": "786",
+      "diagnosis": "Dyspnea"
+    },
+    {
+      "code": "780",
+      "diagnosis": "Fevers"
+    },
+    {
+      "code": "780",
+      "diagnosis": "Chills"
+    },
+    {
+      "code": "729",
+      "diagnosis": "Myalgia"
+    },
+    {
+      "code": "786",
+      "diagnosis": "Pleuritic Chest Pain"
+    }
+  ]
+}

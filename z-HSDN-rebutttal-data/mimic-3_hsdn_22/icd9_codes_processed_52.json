@@ -1,0 +1,80 @@
+{
+  "icd9_codes": [
+    {
+      "code": "414",
+      "diagnosis": "Other forms of chronic ischemic heart disease"
+    },
+    {
+      "code": "338",
+      "diagnosis": "Other symptoms involving the nervous system and special senses"
+    },
+    {
+      "code": "455",
+      "diagnosis": "Raynaud's disease"
+    },
+    {
+      "code": "723",
+      "diagnosis": "Other and unspecified disorders of back"
+    },
+    {
+      "code": "413",
+      "diagnosis": "Angina pectoris"
+    },
+    {
+      "code": "639",
+      "diagnosis": "Other complications of pregnancy"
+    },
+    {
+      "code": "413",
+      "diagnosis": "Angina pectoris"
+    },
+    {
+      "code": "614",
+      "diagnosis": "Inflammatory disease of female pelvic organs"
+    },
+    {
+      "code": "038",
+      "diagnosis": "Streptococcal infection, unspecified"
+    },
+    {
+      "code": "721",
+      "diagnosis": "Intervertebral disc disorders"
+    },
+    {
+      "code": "778",
+      "diagnosis": "Other respiratory conditions of newborn"
+    },
+    {
+      "code": "971",
+      "diagnosis": "Poisoning by antineoplastic and immunosuppressive drugs"
+    },
+    {
+      "code": "156",
+      "diagnosis": "Malignant neoplasm of colon"
+    },
+    {
+      "code": "377",
+      "diagnosis": "Disorders of conjunctiva"
+    },
+    {
+      "code": "793",
+      "diagnosis": "Nonspecific abnormal findings in blood"
+    },
+    {
+      "code": "729",
+      "diagnosis": "Other and unspecified disorders of musculoskeletal system and connective tissue"
+    },
+    {
+      "code": "411",
+      "diagnosis": "Intermediate coronary syndrome"
+    },
+    {
+      "code": "435",
+      "diagnosis": "Transient cerebral ischemia"
+    },
+    {
+      "code": "658",
+      "diagnosis": "Other complications of pregnancy"
+    }
+  ]
+}

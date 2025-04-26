@@ -1,0 +1,20 @@
+{
+  "icd9_codes": [
+    {
+      "code": "413",
+      "diagnosis": "Angina Pectoris"
+    },
+    {
+      "code": "721",
+      "diagnosis": "Intervertebral Disc Disorders"
+    },
+    {
+      "code": "455",
+      "diagnosis": "Phlebitis and Thrombophlebitis"
+    },
+    {
+      "code": "786",
+      "diagnosis": "Chest Pain"
+    }
+  ]
+}

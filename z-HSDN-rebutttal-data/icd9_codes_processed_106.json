@@ -1,0 +1,16 @@
+{
+  "icd9_codes": [
+    {
+      "code": "491",
+      "diagnosis": "Chronic Obstructive Pulmonary Disease"
+    },
+    {
+      "code": "413",
+      "diagnosis": "Angina Pectoris"
+    },
+    {
+      "code": "455",
+      "diagnosis": "Varicose Veins of Lower Extremities"
+    }
+  ]
+}

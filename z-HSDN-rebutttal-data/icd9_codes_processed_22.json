@@ -1,0 +1,92 @@
+{
+  "icd9_codes": [
+    {
+      "code": "729",
+      "diagnosis": "Pain in limb"
+    },
+    {
+      "code": "786",
+      "diagnosis": "Chest pain"
+    },
+    {
+      "code": "789",
+      "diagnosis": "Abdominal pain"
+    },
+    {
+      "code": "458",
+      "diagnosis": "Chronic venous hypertension"
+    },
+    {
+      "code": "285",
+      "diagnosis": "Anemia"
+    },
+    {
+      "code": "338",
+      "diagnosis": "Meniere's disease"
+    },
+    {
+      "code": "305",
+      "diagnosis": "Nondependent abuse of drugs"
+    },
+    {
+      "code": "998",
+      "diagnosis": "Other complications of surgical and medical care, not elsewhere classified"
+    },
+    {
+      "code": "493",
+      "diagnosis": "Asthma"
+    },
+    {
+      "code": "311",
+      "diagnosis": "Depressive disorder, not elsewhere classified"
+    },
+    {
+      "code": "304",
+      "diagnosis": "Dependence on opiates"
+    },
+    {
+      "code": "300",
+      "diagnosis": "Anxiety states"
+    },
+    {
+      "code": "861",
+      "diagnosis": "Injury to blood vessels of head"
+    },
+    {
+      "code": "807",
+      "diagnosis": "Fracture of skull and facial bones"
+    },
+    {
+      "code": "860",
+      "diagnosis": "Injury to blood vessels of head"
+    },
+    {
+      "code": "805",
+      "diagnosis": "Fracture of skull and facial bones"
+    },
+    {
+      "code": "733",
+      "diagnosis": "Other and unspecified disorders of bone and cartilage"
+    },
+    {
+      "code": "824",
+      "diagnosis": "Fracture of hand bones"
+    },
+    {
+      "code": "882",
+      "diagnosis": "Open wound of head"
+    },
+    {
+      "code": "868",
+      "diagnosis": "Injury to blood vessels of head"
+    },
+    {
+      "code": "825",
+      "diagnosis": "Fracture of hand bones"
+    },
+    {
+      "code": "965",
+      "diagnosis": "Toxic effect of other and unspecified substances"
+    }
+  ]
+}

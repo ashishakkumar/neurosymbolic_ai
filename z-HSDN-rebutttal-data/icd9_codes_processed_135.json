@@ -1,0 +1,12 @@
+{
+  "icd9_codes": [
+    {
+      "code": "719",
+      "diagnosis": "Pain in joint"
+    },
+    {
+      "code": "726",
+      "diagnosis": "Other disorders of knee"
+    }
+  ]
+}

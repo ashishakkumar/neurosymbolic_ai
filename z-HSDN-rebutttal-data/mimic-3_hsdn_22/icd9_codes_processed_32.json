@@ -1,0 +1,20 @@
+{
+  "icd9_codes": [
+    {
+      "code": "786",
+      "diagnosis": "Shortness of breath"
+    },
+    {
+      "code": "323",
+      "diagnosis": "Encephalitis, Myelitis, and Encephalomyelitis"
+    },
+    {
+      "code": "427",
+      "diagnosis": "Cardiac Dysrhythmias"
+    },
+    {
+      "code": "942",
+      "diagnosis": "Burns and Scalds"
+    }
+  ]
+}

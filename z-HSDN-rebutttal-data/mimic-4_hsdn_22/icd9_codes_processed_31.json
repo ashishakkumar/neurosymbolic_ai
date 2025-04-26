@@ -1,0 +1,36 @@
+{
+  "icd9_codes": [
+    {
+      "code": "789",
+      "diagnosis": "Abdominal Pain"
+    },
+    {
+      "code": "786",
+      "diagnosis": "Cough"
+    },
+    {
+      "code": "729",
+      "diagnosis": "Musculoskeletal Pain"
+    },
+    {
+      "code": "784",
+      "diagnosis": "Abdominal Pain"
+    },
+    {
+      "code": "530",
+      "diagnosis": "Esophagitis"
+    },
+    {
+      "code": "659",
+      "diagnosis": "Pregnancy Complication"
+    },
+    {
+      "code": "748",
+      "diagnosis": "Other Congenital Anomalies"
+    },
+    {
+      "code": "338",
+      "diagnosis": "Other Disorders of the Nervous System"
+    }
+  ]
+}

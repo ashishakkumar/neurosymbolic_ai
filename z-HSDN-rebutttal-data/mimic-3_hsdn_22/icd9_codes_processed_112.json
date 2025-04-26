@@ -1,0 +1,64 @@
+{
+  "icd9_codes": [
+    {
+      "code": "786",
+      "diagnosis": "Chest Pain"
+    },
+    {
+      "code": "787",
+      "diagnosis": "Emesis"
+    },
+    {
+      "code": "792",
+      "diagnosis": "Nonspecific Abdominal Pain"
+    },
+    {
+      "code": "455",
+      "diagnosis": "Varicose Veins of Lower Extremities"
+    },
+    {
+      "code": "775",
+      "diagnosis": "Fetal Distress"
+    },
+    {
+      "code": "677",
+      "diagnosis": "Complications of Obstetrical Surgical Procedures"
+    },
+    {
+      "code": "639",
+      "diagnosis": "Other Complications of Pregnancy"
+    },
+    {
+      "code": "614",
+      "diagnosis": "Inflammatory Disease of Female Pelvic Organs"
+    },
+    {
+      "code": "413",
+      "diagnosis": "Other Forms of Chronic Ischemic Heart Disease"
+    },
+    {
+      "code": "721",
+      "diagnosis": "Spondylosis"
+    },
+    {
+      "code": "774",
+      "diagnosis": "Other Fetal and Newborn Respiratory Conditions"
+    },
+    {
+      "code": "564",
+      "diagnosis": "Irritable Bowel Syndrome"
+    },
+    {
+      "code": "639",
+      "diagnosis": "Other Complications of Pregnancy"
+    },
+    {
+      "code": "435",
+      "diagnosis": "Occlusion and Stenosis of Precerebral Arteries"
+    },
+    {
+      "code": "973",
+      "diagnosis": "Poisoning by Antineoplastic and Immunosuppressive Drugs"
+    }
+  ]
+}

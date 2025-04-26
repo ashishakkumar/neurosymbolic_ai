@@ -1,0 +1,60 @@
+{
+  "icd9_codes": [
+    {
+      "code": "090",
+      "diagnosis": "Scabies"
+    },
+    {
+      "code": "694",
+      "diagnosis": "Dermatitis and eczema"
+    },
+    {
+      "code": "691",
+      "diagnosis": "Contact dermatitis and other eczema"
+    },
+    {
+      "code": "690",
+      "diagnosis": "Psoriasis and similar disorders"
+    },
+    {
+      "code": "696",
+      "diagnosis": "Acne"
+    },
+    {
+      "code": "624",
+      "diagnosis": "Other female genital disorders"
+    },
+    {
+      "code": "008",
+      "diagnosis": "Intestinal infections due to other organisms"
+    },
+    {
+      "code": "692",
+      "diagnosis": "Seborrheic dermatitis"
+    },
+    {
+      "code": "493",
+      "diagnosis": "Asthma"
+    },
+    {
+      "code": "786",
+      "diagnosis": "Symptoms involving respiratory system and other chest symptoms"
+    },
+    {
+      "code": "786",
+      "diagnosis": "Symptoms involving respiratory system and other chest symptoms"
+    },
+    {
+      "code": "786",
+      "diagnosis": "Symptoms involving respiratory system and other chest symptoms"
+    },
+    {
+      "code": "564",
+      "diagnosis": "Functional intestinal disorders"
+    },
+    {
+      "code": "564",
+      "diagnosis": "Functional intestinal disorders"
+    }
+  ]
+}

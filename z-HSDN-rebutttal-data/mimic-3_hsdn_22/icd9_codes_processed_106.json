@@ -1,0 +1,28 @@
+{
+  "icd9_codes": [
+    {
+      "code": "413",
+      "diagnosis": "Angina Pectoris"
+    },
+    {
+      "code": "491",
+      "diagnosis": "Chronic Obstructive Pulmonary Disease"
+    },
+    {
+      "code": "492",
+      "diagnosis": "Other Chronic Obstructive Pulmonary Disease"
+    },
+    {
+      "code": "414",
+      "diagnosis": "Coronary Atherosclerosis"
+    },
+    {
+      "code": "453",
+      "diagnosis": "Varicose Veins of Lower Extremities"
+    },
+    {
+      "code": "721",
+      "diagnosis": "Intervertebral Disc Disorders"
+    }
+  ]
+}

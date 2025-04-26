@@ -1,0 +1,24 @@
+{
+  "icd9_codes": [
+    {
+      "code": "091",
+      "diagnosis": "Measles"
+    },
+    {
+      "code": "614",
+      "diagnosis": "Sinusitis"
+    },
+    {
+      "code": "462",
+      "diagnosis": "Pharyngitis"
+    },
+    {
+      "code": "780",
+      "diagnosis": "General symptoms"
+    },
+    {
+      "code": "780",
+      "diagnosis": "General symptoms"
+    }
+  ]
+}

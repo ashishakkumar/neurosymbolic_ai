@@ -1,0 +1,16 @@
+{
+  "icd9_codes": [
+    {
+      "code": "323",
+      "diagnosis": "Headache"
+    },
+    {
+      "code": "782",
+      "diagnosis": "Paresthesia"
+    },
+    {
+      "code": "784",
+      "diagnosis": "Tingling"
+    }
+  ]
+}

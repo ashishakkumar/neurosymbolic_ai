@@ -1,0 +1,24 @@
+{
+  "icd9_codes": [
+    {
+      "code": "780",
+      "diagnosis": "Fever"
+    },
+    {
+      "code": "787",
+      "diagnosis": "Nausea"
+    },
+    {
+      "code": "300",
+      "diagnosis": "Anxiety"
+    },
+    {
+      "code": "462",
+      "diagnosis": "Pharyngitis"
+    },
+    {
+      "code": "073",
+      "diagnosis": "Viral Exanthema"
+    }
+  ]
+}

@@ -1,0 +1,16 @@
+{
+  "icd9_codes": [
+    {
+      "code": "733",
+      "diagnosis": "Fracture of foot"
+    },
+    {
+      "code": "891",
+      "diagnosis": "Open wound of foot"
+    },
+    {
+      "code": "338",
+      "diagnosis": "Pain"
+    }
+  ]
+}

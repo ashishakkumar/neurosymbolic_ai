@@ -1,0 +1,32 @@
+{
+  "icd9_codes": [
+    {
+      "code": "786",
+      "diagnosis": "Shortness of breath"
+    },
+    {
+      "code": "786",
+      "diagnosis": "Dyspnea"
+    },
+    {
+      "code": "786",
+      "diagnosis": "Cough"
+    },
+    {
+      "code": "338",
+      "diagnosis": "Other symptoms involving nervous system and special senses"
+    },
+    {
+      "code": "748",
+      "diagnosis": "Other congenital anomalies of digestive system"
+    },
+    {
+      "code": "427",
+      "diagnosis": "Cardiac dysrhythmias"
+    },
+    {
+      "code": "323",
+      "diagnosis": "Meningitis due to other and unspecified cause"
+    }
+  ]
+}

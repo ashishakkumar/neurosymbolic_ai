@@ -1,0 +1,84 @@
+{
+  "icd9_codes": [
+    {
+      "code": "787",
+      "diagnosis": "Nausea and Vomiting"
+    },
+    {
+      "code": "784",
+      "diagnosis": "Headache"
+    },
+    {
+      "code": "386",
+      "diagnosis": "Otitis Media"
+    },
+    {
+      "code": "446",
+      "diagnosis": "Peripheral Vascular Disease"
+    },
+    {
+      "code": "381",
+      "diagnosis": "Otitis Media"
+    },
+    {
+      "code": "754",
+      "diagnosis": "Congenital Anomalies"
+    },
+    {
+      "code": "971",
+      "diagnosis": "Poisoning by Antineoplastic and Immunosuppressive Drugs"
+    },
+    {
+      "code": "907",
+      "diagnosis": "Late Effects of Injury"
+    },
+    {
+      "code": "754",
+      "diagnosis": "Congenital Anomalies"
+    },
+    {
+      "code": "323",
+      "diagnosis": "Meningitis"
+    },
+    {
+      "code": "616",
+      "diagnosis": "Female Genital Disorders"
+    },
+    {
+      "code": "325",
+      "diagnosis": "Encephalitis"
+    },
+    {
+      "code": "338",
+      "diagnosis": "Other Degenerative Diseases of Nervous System"
+    },
+    {
+      "code": "729",
+      "diagnosis": "Other and Unspecified Disorders of Muscles, Ligaments, and Fascia"
+    },
+    {
+      "code": "871",
+      "diagnosis": "Open Wound of Head"
+    },
+    {
+      "code": "453",
+      "diagnosis": "Varicose Veins of Lower Extremities"
+    },
+    {
+      "code": "326",
+      "diagnosis": "Other Disorders of Nervous System"
+    },
+    {
+      "code": "639",
+      "diagnosis": "Other Complications of Pregnancy"
+    },
+    {
+      "code": "614",
+      "diagnosis": "Female Genital Disorders"
+    },
+    {
+      "code": "432",
+      "diagnosis": "Occlusion and Stenosis of Precerebral Arteries"
+    }
+  ]
+}

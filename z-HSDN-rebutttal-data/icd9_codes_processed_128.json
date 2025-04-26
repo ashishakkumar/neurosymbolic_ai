@@ -1,0 +1,20 @@
+{
+  "icd9_codes": [
+    {
+      "code": "338",
+      "diagnosis": "Headache"
+    },
+    {
+      "code": "339",
+      "diagnosis": "Headache"
+    },
+    {
+      "code": "371",
+      "diagnosis": "Headache"
+    },
+    {
+      "code": "372",
+      "diagnosis": "Headache"
+    }
+  ]
+}

@@ -1,0 +1,24 @@
+{
+  "icd9_codes": [
+    {
+      "code": "518",
+      "diagnosis": "Other chronic obstructive pulmonary disease"
+    },
+    {
+      "code": "786",
+      "diagnosis": "Symptoms involving respiratory system and other chest symptoms"
+    },
+    {
+      "code": "491",
+      "diagnosis": "Chronic bronchitis"
+    },
+    {
+      "code": "493",
+      "diagnosis": "Asthma"
+    },
+    {
+      "code": "786",
+      "diagnosis": "Symptoms involving respiratory system and other chest symptoms"
+    }
+  ]
+}

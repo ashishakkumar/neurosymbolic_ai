@@ -1,0 +1,76 @@
+{
+  "icd9_codes": [
+    {
+      "code": "789",
+      "diagnosis": "Abdominal pain"
+    },
+    {
+      "code": "784",
+      "diagnosis": "Headache"
+    },
+    {
+      "code": "787",
+      "diagnosis": "Nausea"
+    },
+    {
+      "code": "787",
+      "diagnosis": "Vomiting"
+    },
+    {
+      "code": "789",
+      "diagnosis": "Epigastric pain"
+    },
+    {
+      "code": "780",
+      "diagnosis": "Fevers"
+    },
+    {
+      "code": "787",
+      "diagnosis": "Diarrhea"
+    },
+    {
+      "code": "783",
+      "diagnosis": "Weight gain"
+    },
+    {
+      "code": "391",
+      "diagnosis": "Rheumatic fever with heart involvement"
+    },
+    {
+      "code": "156",
+      "diagnosis": "Malignant neoplasm of colon"
+    },
+    {
+      "code": "038",
+      "diagnosis": "Streptococcal sore throat"
+    },
+    {
+      "code": "052",
+      "diagnosis": "Herpes zoster"
+    },
+    {
+      "code": "446",
+      "diagnosis": "Raynaud's disease"
+    },
+    {
+      "code": "751",
+      "diagnosis": "Congenital anomalies"
+    },
+    {
+      "code": "338",
+      "diagnosis": "Other disorders of nervous system"
+    },
+    {
+      "code": "723",
+      "diagnosis": "Other disorders of back"
+    },
+    {
+      "code": "323",
+      "diagnosis": "Encephalitis, myelitis, and encephalomyelitis"
+    },
+    {
+      "code": "009",
+      "diagnosis": "Intestinal infectious diseases"
+    }
+  ]
+}

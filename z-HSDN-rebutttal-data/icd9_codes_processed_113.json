@@ -1,0 +1,44 @@
+{
+  "icd9_codes": [
+    {
+      "code": "493",
+      "diagnosis": "Asthma"
+    },
+    {
+      "code": "786",
+      "diagnosis": "Chest pain"
+    },
+    {
+      "code": "786",
+      "diagnosis": "Chest tightness"
+    },
+    {
+      "code": "786",
+      "diagnosis": "Shortness of breath"
+    },
+    {
+      "code": "786",
+      "diagnosis": "Dyspnea"
+    },
+    {
+      "code": "786",
+      "diagnosis": "Cough"
+    },
+    {
+      "code": "780",
+      "diagnosis": "Low grade fevers"
+    },
+    {
+      "code": "787",
+      "diagnosis": "Vomiting"
+    },
+    {
+      "code": "465",
+      "diagnosis": "Green mucus"
+    },
+    {
+      "code": "564",
+      "diagnosis": "Chronic constipation"
+    }
+  ]
+}

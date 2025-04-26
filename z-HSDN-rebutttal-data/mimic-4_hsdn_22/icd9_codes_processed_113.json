@@ -1,0 +1,76 @@
+{
+  "icd9_codes": [
+    {
+      "code": "091",
+      "diagnosis": "Measles"
+    },
+    {
+      "code": "775",
+      "diagnosis": "Fetal distress"
+    },
+    {
+      "code": "677",
+      "diagnosis": "False labor"
+    },
+    {
+      "code": "413",
+      "diagnosis": "Hypertensive heart disease"
+    },
+    {
+      "code": "748",
+      "diagnosis": "Other congenital anomalies of digestive system"
+    },
+    {
+      "code": "774",
+      "diagnosis": "Fetal and neonatal effects of maternal complications of pregnancy"
+    },
+    {
+      "code": "323",
+      "diagnosis": "Pneumonia in bacterial diseases classified elsewhere"
+    },
+    {
+      "code": "435",
+      "diagnosis": "Hypertensive encephalopathy"
+    },
+    {
+      "code": "779",
+      "diagnosis": "Other fetal and neonatal disorders originating in the perinatal period"
+    },
+    {
+      "code": "338",
+      "diagnosis": "Other disorders of the autonomic nervous system"
+    },
+    {
+      "code": "427",
+      "diagnosis": "Cardiac dysrhythmias"
+    },
+    {
+      "code": "564",
+      "diagnosis": "Irritable bowel syndrome"
+    },
+    {
+      "code": "556",
+      "diagnosis": "Diverticular disease of intestine"
+    },
+    {
+      "code": "786",
+      "diagnosis": "Symptoms involving respiratory system and other chest symptoms"
+    },
+    {
+      "code": "493",
+      "diagnosis": "Asthma"
+    },
+    {
+      "code": "614",
+      "diagnosis": "Inflammatory disease of vagina and vulva"
+    },
+    {
+      "code": "721",
+      "diagnosis": "Spondylosis"
+    },
+    {
+      "code": "784",
+      "diagnosis": "Other symptoms involving the digestive system"
+    }
+  ]
+}

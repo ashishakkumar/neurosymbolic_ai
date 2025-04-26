@@ -1,0 +1,84 @@
+{
+  "icd9_codes": [
+    {
+      "code": "091",
+      "diagnosis": "Amebiasis"
+    },
+    {
+      "code": "775",
+      "diagnosis": "Other fetal and neonatal respiratory conditions"
+    },
+    {
+      "code": "558",
+      "diagnosis": "Other specified diseases of intestine"
+    },
+    {
+      "code": "446",
+      "diagnosis": "Peripheral vascular disease"
+    },
+    {
+      "code": "907",
+      "diagnosis": "Late effects of other injuries"
+    },
+    {
+      "code": "751",
+      "diagnosis": "Other congenital anomalies of digestive system"
+    },
+    {
+      "code": "323",
+      "diagnosis": "Encephalitis, myelitis, and encephalomyelitis"
+    },
+    {
+      "code": "009",
+      "diagnosis": "Intestinal infections due to other organisms"
+    },
+    {
+      "code": "771",
+      "diagnosis": "Respiratory distress of newborn"
+    },
+    {
+      "code": "774",
+      "diagnosis": "Other respiratory conditions originating in the perinatal period"
+    },
+    {
+      "code": "038",
+      "diagnosis": "Septicemia"
+    },
+    {
+      "code": "583",
+      "diagnosis": "Acute glomerulonephritis"
+    },
+    {
+      "code": "723",
+      "diagnosis": "Other and unspecified disorders of back"
+    },
+    {
+      "code": "323",
+      "diagnosis": "Encephalitis, myelitis, and encephalomyelitis"
+    },
+    {
+      "code": "639",
+      "diagnosis": "Other complications of pregnancy"
+    },
+    {
+      "code": "614",
+      "diagnosis": "Inflammatory disease of female pelvic organs"
+    },
+    {
+      "code": "063",
+      "diagnosis": "Viral hepatitis"
+    },
+    {
+      "code": "576",
+      "diagnosis": "Other disorders of liver"
+    },
+    {
+      "code": "976",
+      "diagnosis": "Toxic effect of other and unspecified substances"
+    },
+    {
+      "code": "052",
+      "diagnosis": "Varicella"
+    }
+  ]
+}

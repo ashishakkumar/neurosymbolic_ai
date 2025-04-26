@@ -1,0 +1,16 @@
+{
+  "icd9_codes": [
+    {
+      "code": "786",
+      "diagnosis": "Dyspnea and respiratory abnormalities"
+    },
+    {
+      "code": "491",
+      "diagnosis": "Bronchitis, not specified as acute or chronic"
+    },
+    {
+      "code": "786",
+      "diagnosis": "Dyspnea and respiratory abnormalities"
+    }
+  ]
+}

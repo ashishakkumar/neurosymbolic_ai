@@ -1,0 +1,108 @@
+{
+  "icd9_codes": [
+    {
+      "code": "428",
+      "diagnosis": "Heart failure"
+    },
+    {
+      "code": "786",
+      "diagnosis": "Shortness of breath"
+    },
+    {
+      "code": "780",
+      "diagnosis": "Fever"
+    },
+    {
+      "code": "508",
+      "diagnosis": "Atelectasis"
+    },
+    {
+      "code": "789",
+      "diagnosis": "Pain"
+    },
+    {
+      "code": "425",
+      "diagnosis": "Chronic ischemic heart disease"
+    },
+    {
+      "code": "458",
+      "diagnosis": "Acute pulmonary edema"
+    },
+    {
+      "code": "410",
+      "diagnosis": "Acute myocardial infarction"
+    },
+    {
+      "code": "414",
+      "diagnosis": "Coronary atherosclerosis"
+    },
+    {
+      "code": "530",
+      "diagnosis": "Esophageal disorders"
+    },
+    {
+      "code": "272",
+      "diagnosis": "Disorders of lipid metabolism"
+    },
+    {
+      "code": "424",
+      "diagnosis": "Other forms of heart disease"
+    },
+    {
+      "code": "599",
+      "diagnosis": "Urinary tract infection"
+    },
+    {
+      "code": "428",
+      "diagnosis": "Heart failure"
+    },
+    {
+      "code": "401",
+      "diagnosis": "Hypertension"
+    },
+    {
+      "code": "427",
+      "diagnosis": "Cardiac dysrhythmias"
+    },
+    {
+      "code": "433",
+      "diagnosis": "Occlusion of cerebral arteries"
+    },
+    {
+      "code": "416",
+      "diagnosis": "Chronic pulmonary heart disease"
+    },
+    {
+      "code": "780",
+      "diagnosis": "Fever"
+    },
+    {
+      "code": "443",
+      "diagnosis": "Peripheral vascular disease"
+    },
+    {
+      "code": "426",
+      "diagnosis": "Conduction disorders"
+    },
+    {
+      "code": "785",
+      "diagnosis": "Symptoms, signs, and ill-defined conditions"
+    },
+    {
+      "code": "438",
+      "diagnosis": "Late effects of cerebrovascular disease"
+    },
+    {
+      "code": "412",
+      "diagnosis": "Old myocardial infarction"
+    },
+    {
+      "code": "434",
+      "diagnosis": "Occlusion of cerebral arteries"
+    },
+    {
+      "code": "429",
+      "diagnosis": "Cardiac arrhythmia"
+    }
+  ]
+}

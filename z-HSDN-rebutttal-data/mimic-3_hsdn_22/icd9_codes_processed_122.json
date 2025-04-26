@@ -1,0 +1,72 @@
+{
+  "icd9_codes": [
+    {
+      "code": "414",
+      "diagnosis": "Other forms of chronic ischemic heart disease"
+    },
+    {
+      "code": "338",
+      "diagnosis": "Other symptoms involving the nervous system and sense organs"
+    },
+    {
+      "code": "455",
+      "diagnosis": "Raynaud's disease"
+    },
+    {
+      "code": "723",
+      "diagnosis": "Other and unspecified disorders of joint"
+    },
+    {
+      "code": "413",
+      "diagnosis": "Other forms of acute and subacute endocarditis"
+    },
+    {
+      "code": "639",
+      "diagnosis": "Unspecified complication of pregnancy, childbirth, and the puerperium"
+    },
+    {
+      "code": "614",
+      "diagnosis": "Inflammatory disease of female pelvic organs"
+    },
+    {
+      "code": "038",
+      "diagnosis": "Streptococcal sore throat"
+    },
+    {
+      "code": "721",
+      "diagnosis": "Arthropathy, not elsewhere classified"
+    },
+    {
+      "code": "778",
+      "diagnosis": "Other and unspecified respiratory conditions of newborn"
+    },
+    {
+      "code": "971",
+      "diagnosis": "Poisoning by, adverse effect of and underdosing of antineoplastic and immunosuppressive drugs"
+    },
+    {
+      "code": "156",
+      "diagnosis": "Malignant neoplasm of rectum"
+    },
+    {
+      "code": "377",
+      "diagnosis": "Disorders of conjunctiva"
+    },
+    {
+      "code": "793",
+      "diagnosis": "Nonspecific abnormal findings in blood"
+    },
+    {
+      "code": "729",
+      "diagnosis": "Other and unspecified disorders of musculoskeletal system and connective tissue"
+    },
+    {
+      "code": "411",
+      "diagnosis": "Intermediate coronary syndrome"
+    },
+    {
+      "code": "435",
+      "diagnosis": "Transient cerebral ischemia"
+    }
+  ]
+}

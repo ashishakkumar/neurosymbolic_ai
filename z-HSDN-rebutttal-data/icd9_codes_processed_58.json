@@ -1,0 +1,144 @@
+{
+  "icd9_codes": [
+    {
+      "code": "853",
+      "diagnosis": "Subdural Hemorrhage"
+    },
+    {
+      "code": "800",
+      "diagnosis": "Fracture of Skull"
+    },
+    {
+      "code": "807",
+      "diagnosis": "Fracture of Wrist"
+    },
+    {
+      "code": "824",
+      "diagnosis": "Fracture of Lower Leg"
+    },
+    {
+      "code": "812",
+      "diagnosis": "Fracture of Hand"
+    },
+    {
+      "code": "802",
+      "diagnosis": "Fracture of Ribs"
+    },
+    {
+      "code": "813",
+      "diagnosis": "Fracture of Spine"
+    },
+    {
+      "code": "801",
+      "diagnosis": "Fracture of Skull"
+    },
+    {
+      "code": "811",
+      "diagnosis": "Fracture of Shoulder"
+    },
+    {
+      "code": "823",
+      "diagnosis": "Fracture of Ankle"
+    },
+    {
+      "code": "808",
+      "diagnosis": "Fracture of Pelvis"
+    },
+    {
+      "code": "810",
+      "diagnosis": "Fracture of Clavicle"
+    },
+    {
+      "code": "805",
+      "diagnosis": "Fracture of Spine"
+    },
+    {
+      "code": "860",
+      "diagnosis": "Intracranial Injury"
+    },
+    {
+      "code": "861",
+      "diagnosis": "Intracranial Injury"
+    },
+    {
+      "code": "851",
+      "diagnosis": "Intracranial Injury"
+    },
+    {
+      "code": "852",
+      "diagnosis": "Intracranial Injury"
+    },
+    {
+      "code": "873",
+      "diagnosis": "Open Wound of Head"
+    },
+    {
+      "code": "348",
+      "diagnosis": "Disorders of the Nervous System"
+    },
+    {
+      "code": "800",
+      "diagnosis": "Fracture of Skull"
+    },
+    {
+      "code": "853",
+      "diagnosis": "Subdural Hemorrhage"
+    },
+    {
+      "code": "861",
+      "diagnosis": "Intracranial Injury"
+    },
+    {
+      "code": "851",
+      "diagnosis": "Intracranial Injury"
+    },
+    {
+      "code": "807",
+      "diagnosis": "Fracture of Wrist"
+    },
+    {
+      "code": "860",
+      "diagnosis": "Intracranial Injury"
+    },
+    {
+      "code": "805",
+      "diagnosis": "Fracture of Spine"
+    },
+    {
+      "code": "824",
+      "diagnosis": "Fracture of Lower Leg"
+    },
+    {
+      "code": "812",
+      "diagnosis": "Fracture of Hand"
+    },
+    {
+      "code": "802",
+      "diagnosis": "Fracture of Ribs"
+    },
+    {
+      "code": "823",
+      "diagnosis": "Fracture of Ankle"
+    },
+    {
+      "code": "808",
+      "diagnosis": "Fracture of Pelvis"
+    },
+    {
+      "code": "810",
+      "diagnosis": "Fracture of Clavicle"
+    },
+    {
+      "code": "813",
+      "diagnosis": "Fracture of Spine"
+    },
+    {
+      "code": "801",
+      "diagnosis": "Fracture of Skull"
+    },
+    {
+      "code": "811",
+      "diagnosis": "Fracture of Shoulder"
+    }
+  ]
+}

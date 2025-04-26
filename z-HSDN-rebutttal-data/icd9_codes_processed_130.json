@@ -1,0 +1,60 @@
+{
+  "icd9_codes": [
+    {
+      "code": "786",
+      "diagnosis": "Shortness of breath"
+    },
+    {
+      "code": "786",
+      "diagnosis": "Orthopnea"
+    },
+    {
+      "code": "786",
+      "diagnosis": "Paroxysmal nocturnal dyspnea"
+    },
+    {
+      "code": "786",
+      "diagnosis": "Non-productive cough"
+    },
+    {
+      "code": "787",
+      "diagnosis": "Diarrhea"
+    },
+    {
+      "code": "564",
+      "diagnosis": "Constipation"
+    },
+    {
+      "code": "323",
+      "diagnosis": "Viral infection"
+    },
+    {
+      "code": "038",
+      "diagnosis": "Septicemia"
+    },
+    {
+      "code": "793",
+      "diagnosis": "Nonspecific abnormal findings"
+    },
+    {
+      "code": "713",
+      "diagnosis": "Arthritis"
+    },
+    {
+      "code": "556",
+      "diagnosis": "Diverticular disease of intestine"
+    },
+    {
+      "code": "618",
+      "diagnosis": "Disorders of female genital tract"
+    },
+    {
+      "code": "446",
+      "diagnosis": "Peripheral vascular disease"
+    },
+    {
+      "code": "564",
+      "diagnosis": "Constipation"
+    }
+  ]
+}

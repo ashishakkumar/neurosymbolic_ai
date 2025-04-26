@@ -1,0 +1,92 @@
+{
+  "icd9_codes": [
+    {
+      "code": "401",
+      "diagnosis": "Hypertensive urgency"
+    },
+    {
+      "code": "599",
+      "diagnosis": "Hematuria"
+    },
+    {
+      "code": "780",
+      "diagnosis": "Decreased energy"
+    },
+    {
+      "code": "339",
+      "diagnosis": "Headache"
+    },
+    {
+      "code": "386",
+      "diagnosis": "Hearing loss"
+    },
+    {
+      "code": "446",
+      "diagnosis": "Peripheral vascular disease"
+    },
+    {
+      "code": "381",
+      "diagnosis": "Otitis media"
+    },
+    {
+      "code": "754",
+      "diagnosis": "Congenital anomalies"
+    },
+    {
+      "code": "971",
+      "diagnosis": "Poisoning by antineoplastic and immunosuppressive drugs"
+    },
+    {
+      "code": "907",
+      "diagnosis": "Late effects of injury"
+    },
+    {
+      "code": "754",
+      "diagnosis": "Congenital anomalies"
+    },
+    {
+      "code": "323",
+      "diagnosis": "Meningitis"
+    },
+    {
+      "code": "616",
+      "diagnosis": "Female genital organ disorders"
+    },
+    {
+      "code": "325",
+      "diagnosis": "Encephalitis"
+    },
+    {
+      "code": "338",
+      "diagnosis": "Dizziness and giddiness"
+    },
+    {
+      "code": "729",
+      "diagnosis": "Other and unspecified disorders of back"
+    },
+    {
+      "code": "871",
+      "diagnosis": "Open wound of head"
+    },
+    {
+      "code": "453",
+      "diagnosis": "Varicose veins of lower extremities"
+    },
+    {
+      "code": "326",
+      "diagnosis": "Intracranial abscess and granuloma"
+    },
+    {
+      "code": "639",
+      "diagnosis": "Complications of pregnancy"
+    },
+    {
+      "code": "614",
+      "diagnosis": "Female genital organ disorders"
+    },
+    {
+      "code": "432",
+      "diagnosis": "Occlusion and stenosis of precerebral arteries"
+    }
+  ]
+}

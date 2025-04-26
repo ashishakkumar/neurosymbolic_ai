@@ -1,0 +1,76 @@
+{
+  "icd9_codes": [
+    {
+      "code": "414",
+      "diagnosis": "Other forms of chronic ischemic heart disease"
+    },
+    {
+      "code": "338",
+      "diagnosis": "Other disorders of the autonomic nervous system"
+    },
+    {
+      "code": "455",
+      "diagnosis": "Phlebitis and thrombophlebitis of other veins"
+    },
+    {
+      "code": "723",
+      "diagnosis": "Other and unspecified disorders of shoulder"
+    },
+    {
+      "code": "413",
+      "diagnosis": "Other acute and subacute endocarditis"
+    },
+    {
+      "code": "639",
+      "diagnosis": "Other complications of pregnancy, childbirth, and the puerperium"
+    },
+    {
+      "code": "413",
+      "diagnosis": "Other acute and subacute endocarditis"
+    },
+    {
+      "code": "614",
+      "diagnosis": "Inflammatory disease of female pelvic organs"
+    },
+    {
+      "code": "038",
+      "diagnosis": "Septicemia"
+    },
+    {
+      "code": "721",
+      "diagnosis": "Spondylosis"
+    },
+    {
+      "code": "778",
+      "diagnosis": "Other respiratory conditions originating in the perinatal period"
+    },
+    {
+      "code": "971",
+      "diagnosis": "Poisoning by antineoplastic and immunosuppressive drugs"
+    },
+    {
+      "code": "156",
+      "diagnosis": "Malignant neoplasm of colon"
+    },
+    {
+      "code": "377",
+      "diagnosis": "Other disorders of conjunctiva"
+    },
+    {
+      "code": "793",
+      "diagnosis": "Nonspecific abnormal findings in blood"
+    },
+    {
+      "code": "729",
+      "diagnosis": "Other and unspecified disorders of musculoskeletal system and connective tissue"
+    },
+    {
+      "code": "411",
+      "diagnosis": "Intermediate coronary syndrome"
+    },
+    {
+      "code": "435",
+      "diagnosis": "Transient cerebral ischemia"
+    }
+  ]
+}

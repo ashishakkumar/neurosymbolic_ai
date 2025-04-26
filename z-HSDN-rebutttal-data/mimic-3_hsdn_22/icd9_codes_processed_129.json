@@ -1,0 +1,84 @@
+{
+  "icd9_codes": [
+    {
+      "code": "784",
+      "diagnosis": "Hoarseness"
+    },
+    {
+      "code": "786",
+      "diagnosis": "Sensation of throat closing"
+    },
+    {
+      "code": "787",
+      "diagnosis": "Nausea"
+    },
+    {
+      "code": "787",
+      "diagnosis": "Vomiting"
+    },
+    {
+      "code": "786",
+      "diagnosis": "Shortness of breath"
+    },
+    {
+      "code": "784",
+      "diagnosis": "Sore throat"
+    },
+    {
+      "code": "779",
+      "diagnosis": "Associated with the first line of the note"
+    },
+    {
+      "code": "775",
+      "diagnosis": "Associated with the first line of the note"
+    },
+    {
+      "code": "677",
+      "diagnosis": "Associated with the first line of the note"
+    },
+    {
+      "code": "639",
+      "diagnosis": "Associated with the first line of the note"
+    },
+    {
+      "code": "614",
+      "diagnosis": "Associated with the first line of the note"
+    },
+    {
+      "code": "462",
+      "diagnosis": "Associated with the first line of the note"
+    },
+    {
+      "code": "427",
+      "diagnosis": "Associated with the first line of the note"
+    },
+    {
+      "code": "907",
+      "diagnosis": "Associated with the first line of the note"
+    },
+    {
+      "code": "774",
+      "diagnosis": "Associated with the first line of the note"
+    },
+    {
+      "code": "564",
+      "diagnosis": "Associated with the first line of the note"
+    },
+    {
+      "code": "639",
+      "diagnosis": "Associated with the first line of the note"
+    },
+    {
+      "code": "323",
+      "diagnosis": "Associated with the first line of the note"
+    },
+    {
+      "code": "227",
+      "diagnosis": "Associated with the first line of the note"
+    },
+    {
+      "code": "973",
+      "diagnosis": "Associated with the first line of the note"
+    }
+  ]
+}

@@ -1,0 +1,32 @@
+{
+  "icd9_codes": [
+    {
+      "code": "091",
+      "diagnosis": "Measles"
+    },
+    {
+      "code": "558",
+      "diagnosis": "Gastroenteritis"
+    },
+    {
+      "code": "780",
+      "diagnosis": "General symptoms"
+    },
+    {
+      "code": "783",
+      "diagnosis": "Symptoms involving head and neck"
+    },
+    {
+      "code": "786",
+      "diagnosis": "Symptoms involving digestive system"
+    },
+    {
+      "code": "787",
+      "diagnosis": "Symptoms involving nervous system and sense organs"
+    },
+    {
+      "code": "789",
+      "diagnosis": "Other symptoms involving the circulatory and respiratory systems"
+    }
+  ]
+}

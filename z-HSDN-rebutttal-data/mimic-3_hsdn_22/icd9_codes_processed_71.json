@@ -1,0 +1,124 @@
+{
+  "icd9_codes": [
+    {
+      "code": "786",
+      "diagnosis": "Altered mental status"
+    },
+    {
+      "code": "786",
+      "diagnosis": "Shortness of breath (SOB)"
+    },
+    {
+      "code": "786",
+      "diagnosis": "Dull chest pain"
+    },
+    {
+      "code": "787",
+      "diagnosis": "Nausea (n/v)"
+    },
+    {
+      "code": "787",
+      "diagnosis": "Vomiting (n/v)"
+    },
+    {
+      "code": "787",
+      "diagnosis": "Diarrhea (d)"
+    },
+    {
+      "code": "786",
+      "diagnosis": "Cough"
+    },
+    {
+      "code": "782",
+      "diagnosis": "Increased swelling"
+    },
+    {
+      "code": "692",
+      "diagnosis": "Itching"
+    },
+    {
+      "code": "311",
+      "diagnosis": "Feeling of hopelessness"
+    },
+    {
+      "code": "783",
+      "diagnosis": "Loss of appetite"
+    },
+    {
+      "code": "692",
+      "diagnosis": "Itching"
+    },
+    {
+      "code": "786",
+      "diagnosis": "Shortness of breath (SOB)"
+    },
+    {
+      "code": "786",
+      "diagnosis": "Dull chest pain"
+    },
+    {
+      "code": "787",
+      "diagnosis": "Nausea (n/v)"
+    },
+    {
+      "code": "787",
+      "diagnosis": "Vomiting (n/v)"
+    },
+    {
+      "code": "787",
+      "diagnosis": "Diarrhea (d)"
+    },
+    {
+      "code": "786",
+      "diagnosis": "Cough"
+    },
+    {
+      "code": "782",
+      "diagnosis": "Increased swelling"
+    },
+    {
+      "code": "786",
+      "diagnosis": "Altered mental status"
+    },
+    {
+      "code": "786",
+      "diagnosis": "Shortness of breath (SOB)"
+    },
+    {
+      "code": "786",
+      "diagnosis": "Dull chest pain"
+    },
+    {
+      "code": "787",
+      "diagnosis": "Nausea (n/v)"
+    },
+    {
+      "code": "787",
+      "diagnosis": "Vomiting (n/v)"
+    },
+    {
+      "code": "787",
+      "diagnosis": "Diarrhea (d)"
+    },
+    {
+      "code": "786",
+      "diagnosis": "Cough"
+    },
+    {
+      "code": "782",
+      "diagnosis": "Increased swelling"
+    },
+    {
+      "code": "692",
+      "diagnosis": "Itching"
+    },
+    {
+      "code": "311",
+      "diagnosis": "Feeling of hopelessness"
+    },
+    {
+      "code": "783",
+      "diagnosis": "Loss of appetite"
+    }
+  ]
+}

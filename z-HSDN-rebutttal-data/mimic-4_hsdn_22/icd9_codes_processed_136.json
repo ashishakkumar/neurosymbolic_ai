@@ -1,0 +1,76 @@
+{
+  "icd9_codes": [
+    {
+      "code": "786",
+      "diagnosis": "Chest Pain"
+    },
+    {
+      "code": "786",
+      "diagnosis": "Dyspnea"
+    },
+    {
+      "code": "786",
+      "diagnosis": "Shortness of breath"
+    },
+    {
+      "code": "786",
+      "diagnosis": "Discomfort with deep breath or cough"
+    },
+    {
+      "code": "786",
+      "diagnosis": "Slightly short of breath"
+    },
+    {
+      "code": "786",
+      "diagnosis": "Pleuritic chest pain"
+    },
+    {
+      "code": "780",
+      "diagnosis": "Muscle aches"
+    },
+    {
+      "code": "724",
+      "diagnosis": "Sore back and neck"
+    },
+    {
+      "code": "427",
+      "diagnosis": "Narrow-complex tachycardia"
+    },
+    {
+      "code": "427",
+      "diagnosis": "Atrial flutter"
+    },
+    {
+      "code": "427",
+      "diagnosis": "Heart racing"
+    },
+    {
+      "code": "780",
+      "diagnosis": "Feeling of getting over the flu"
+    },
+    {
+      "code": "455",
+      "diagnosis": "ICD-9 code 455"
+    },
+    {
+      "code": "413",
+      "diagnosis": "ICD-9 code 413"
+    },
+    {
+      "code": "427",
+      "diagnosis": "ICD-9 code 427"
+    },
+    {
+      "code": "721",
+      "diagnosis": "ICD-9 code 721"
+    },
+    {
+      "code": "323",
+      "diagnosis": "ICD-9 code 323"
+    },
+    {
+      "code": "435",
+      "diagnosis": "ICD-9 code 435"
+    }
+  ]
+}

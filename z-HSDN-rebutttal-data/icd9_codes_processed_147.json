@@ -1,0 +1,16 @@
+{
+  "icd9_codes": [
+    {
+      "code": "784",
+      "diagnosis": "Headache"
+    },
+    {
+      "code": "338",
+      "diagnosis": "Weakness"
+    },
+    {
+      "code": "323",
+      "diagnosis": "Pressure sensation"
+    }
+  ]
+}

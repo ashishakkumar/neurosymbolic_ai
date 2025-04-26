@@ -1,0 +1,104 @@
+{
+  "icd9_codes": [
+    {
+      "code": "091",
+      "diagnosis": "Infectious enterocolitis"
+    },
+    {
+      "code": "723",
+      "diagnosis": "Low back pain"
+    },
+    {
+      "code": "558",
+      "diagnosis": "Other specified noninfectious gastroenteritis and colitis"
+    },
+    {
+      "code": "780",
+      "diagnosis": "Fever"
+    },
+    {
+      "code": "786",
+      "diagnosis": "General symptoms"
+    },
+    {
+      "code": "787",
+      "diagnosis": "Symptoms involving nervous and musculoskeletal systems"
+    },
+    {
+      "code": "789",
+      "diagnosis": "Other symptoms involving digestive system"
+    },
+    {
+      "code": "786",
+      "diagnosis": "General symptoms"
+    },
+    {
+      "code": "787",
+      "diagnosis": "Symptoms involving nervous and musculoskeletal systems"
+    },
+    {
+      "code": "789",
+      "diagnosis": "Other symptoms involving digestive system"
+    },
+    {
+      "code": "786",
+      "diagnosis": "General symptoms"
+    },
+    {
+      "code": "787",
+      "diagnosis": "Symptoms involving nervous and musculoskeletal systems"
+    },
+    {
+      "code": "789",
+      "diagnosis": "Other symptoms involving digestive system"
+    },
+    {
+      "code": "786",
+      "diagnosis": "General symptoms"
+    },
+    {
+      "code": "787",
+      "diagnosis": "Symptoms involving nervous and musculoskeletal systems"
+    },
+    {
+      "code": "789",
+      "diagnosis": "Other symptoms involving digestive system"
+    },
+    {
+      "code": "786",
+      "diagnosis": "General symptoms"
+    },
+    {
+      "code": "787",
+      "diagnosis": "Symptoms involving nervous and musculoskeletal systems"
+    },
+    {
+      "code": "789",
+      "diagnosis": "Other symptoms involving digestive system"
+    },
+    {
+      "code": "786",
+      "diagnosis": "General symptoms"
+    },
+    {
+      "code": "787",
+      "diagnosis": "Symptoms involving nervous and musculoskeletal systems"
+    },
+    {
+      "code": "789",
+      "diagnosis": "Other symptoms involving digestive system"
+    },
+    {
+      "code": "786",
+      "diagnosis": "General symptoms"
+    },
+    {
+      "code": "787",
+      "diagnosis": "Symptoms involving nervous and musculoskeletal systems"
+    },
+    {
+      "code": "789",
+      "diagnosis": "Other symptoms involving digestive system"
+    }
+  ]
+}

@@ -1,0 +1,16 @@
+{
+  "icd9_codes": [
+    {
+      "code": "789",
+      "diagnosis": "Abdominal Pain"
+    },
+    {
+      "code": "787",
+      "diagnosis": "Emesis"
+    },
+    {
+      "code": "783",
+      "diagnosis": "Nausea and Vomiting"
+    }
+  ]
+}

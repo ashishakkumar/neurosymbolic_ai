@@ -1,0 +1,64 @@
+{
+  "icd9_codes": [
+    {
+      "code": "790",
+      "diagnosis": "Fatigue"
+    },
+    {
+      "code": "272",
+      "diagnosis": "Disorders of Lipoprotein Metabolism and Other Lipidemias"
+    },
+    {
+      "code": "424",
+      "diagnosis": "Other Chronic Rheumatic Heart Diseases"
+    },
+    {
+      "code": "998",
+      "diagnosis": "Other Complications of Procedures, Not Elsewhere Classified"
+    },
+    {
+      "code": "428",
+      "diagnosis": "Heart Failure"
+    },
+    {
+      "code": "401",
+      "diagnosis": "Hypertensive Heart Disease"
+    },
+    {
+      "code": "441",
+      "diagnosis": "Atherosclerosis"
+    },
+    {
+      "code": "997",
+      "diagnosis": "Complications of Surgical and Medical Care, Not Elsewhere Classified"
+    },
+    {
+      "code": "427",
+      "diagnosis": "Cardiac Dysrhythmias"
+    },
+    {
+      "code": "996",
+      "diagnosis": "Complications of Surgical and Medical Care, Not Elsewhere Classified"
+    },
+    {
+      "code": "433",
+      "diagnosis": "Occlusion and Stenosis of Precerebral Arteries"
+    },
+    {
+      "code": "878",
+      "diagnosis": "Open Wound of Head"
+    },
+    {
+      "code": "450",
+      "diagnosis": "Thrombophlebitis and Thrombosis of Superficial Veins of Extremities"
+    },
+    {
+      "code": "934",
+      "diagnosis": "Other Complications of Surgical and Medical Care, Not Elsewhere Classified"
+    },
+    {
+      "code": "422",
+      "diagnosis": "Other Acute and Subacute Endocarditis"
+    }
+  ]
+}

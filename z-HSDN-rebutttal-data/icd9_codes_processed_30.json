@@ -1,0 +1,16 @@
+{
+  "icd9_codes": [
+    {
+      "code": "787",
+      "diagnosis": "Nausea and Vomiting"
+    },
+    {
+      "code": "784",
+      "diagnosis": "Headache"
+    },
+    {
+      "code": "780",
+      "diagnosis": "General Symptoms"
+    }
+  ]
+}

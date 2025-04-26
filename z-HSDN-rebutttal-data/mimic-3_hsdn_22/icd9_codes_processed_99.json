@@ -1,0 +1,104 @@
+{
+  "icd9_codes": [
+    {
+      "code": "789",
+      "diagnosis": "Abdominal pain"
+    },
+    {
+      "code": "784",
+      "diagnosis": "Headache"
+    },
+    {
+      "code": "787",
+      "diagnosis": "Nausea"
+    },
+    {
+      "code": "787",
+      "diagnosis": "Vomiting"
+    },
+    {
+      "code": "789",
+      "diagnosis": "Epigastric pain"
+    },
+    {
+      "code": "780",
+      "diagnosis": "Fevers"
+    },
+    {
+      "code": "787",
+      "diagnosis": "Diarrhea"
+    },
+    {
+      "code": "783",
+      "diagnosis": "Weight gain"
+    },
+    {
+      "code": "009",
+      "diagnosis": "Infectious disease"
+    },
+    {
+      "code": "723",
+      "diagnosis": "Dorsalgia"
+    },
+    {
+      "code": "558",
+      "diagnosis": "Gastrointestinal disorder"
+    },
+    {
+      "code": "446",
+      "diagnosis": "Peripheral vascular disease"
+    },
+    {
+      "code": "751",
+      "diagnosis": "Other congenital anomalies"
+    },
+    {
+      "code": "323",
+      "diagnosis": "Encephalitis, myelitis, and encephalomyelitis"
+    },
+    {
+      "code": "338",
+      "diagnosis": "Other disorders of nervous system"
+    },
+    {
+      "code": "771",
+      "diagnosis": "Respiratory distress of newborn"
+    },
+    {
+      "code": "774",
+      "diagnosis": "Other and unspecified respiratory conditions of newborn"
+    },
+    {
+      "code": "038",
+      "diagnosis": "Septicemia"
+    },
+    {
+      "code": "583",
+      "diagnosis": "Acute glomerulonephritis"
+    },
+    {
+      "code": "723",
+      "diagnosis": "Dorsalgia"
+    },
+    {
+      "code": "323",
+      "diagnosis": "Encephalitis, myelitis, and encephalomyelitis"
+    },
+    {
+      "code": "576",
+      "diagnosis": "Disorders of liver"
+    },
+    {
+      "code": "156",
+      "diagnosis": "Malignant neoplasm of colon"
+    },
+    {
+      "code": "976",
+      "diagnosis": "Toxic effect of other and unspecified substances"
+    },
+    {
+      "code": "052",
+      "diagnosis": "Varicella"
+    }
+  ]
+}

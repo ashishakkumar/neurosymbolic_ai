@@ -1,0 +1,40 @@
+{
+  "icd9_codes": [
+    {
+      "code": "338",
+      "diagnosis": "Paralytic Syndrome"
+    },
+    {
+      "code": "724",
+      "diagnosis": "Backache"
+    },
+    {
+      "code": "344",
+      "diagnosis": "Paralysis"
+    },
+    {
+      "code": "784",
+      "diagnosis": "Pain"
+    },
+    {
+      "code": "788",
+      "diagnosis": "Urinary Incontinence"
+    },
+    {
+      "code": "787",
+      "diagnosis": "Fecal Incontinence"
+    },
+    {
+      "code": "355",
+      "diagnosis": "Mononeuritis of Lower Limb"
+    },
+    {
+      "code": "781",
+      "diagnosis": "Abnormal Sensation"
+    },
+    {
+      "code": "343",
+      "diagnosis": "Other Paralytic Syndrome"
+    }
+  ]
+}

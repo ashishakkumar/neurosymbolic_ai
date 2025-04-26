@@ -1,0 +1,104 @@
+{
+  "icd9_codes": [
+    {
+      "code": "518",
+      "diagnosis": "Shortness of Breath"
+    },
+    {
+      "code": "786",
+      "diagnosis": "Orthopnea"
+    },
+    {
+      "code": "786",
+      "diagnosis": "Paroxysmal Nocturnal Dyspnea"
+    },
+    {
+      "code": "786",
+      "diagnosis": "Non-productive Cough"
+    },
+    {
+      "code": "787",
+      "diagnosis": "Diarrhea"
+    },
+    {
+      "code": "564",
+      "diagnosis": "Constipation"
+    },
+    {
+      "code": "009",
+      "diagnosis": "Infectious Disease"
+    },
+    {
+      "code": "618",
+      "diagnosis": "Female Genital Disease"
+    },
+    {
+      "code": "713",
+      "diagnosis": "Arthritis"
+    },
+    {
+      "code": "558",
+      "diagnosis": "Gastrointestinal Disease"
+    },
+    {
+      "code": "751",
+      "diagnosis": "Congenital Anomalies"
+    },
+    {
+      "code": "446",
+      "diagnosis": "Peripheral Vascular Disease"
+    },
+    {
+      "code": "751",
+      "diagnosis": "Congenital Anomalies"
+    },
+    {
+      "code": "323",
+      "diagnosis": "Diseases of the Nervous System"
+    },
+    {
+      "code": "009",
+      "diagnosis": "Infectious Disease"
+    },
+    {
+      "code": "771",
+      "diagnosis": "Neonatal and Other Perinatal Problems"
+    },
+    {
+      "code": "038",
+      "diagnosis": "Streptococcal Infection"
+    },
+    {
+      "code": "556",
+      "diagnosis": "Gastrointestinal Disease"
+    },
+    {
+      "code": "583",
+      "diagnosis": "Kidney Disease"
+    },
+    {
+      "code": "723",
+      "diagnosis": "Diseases of the Musculoskeletal System"
+    },
+    {
+      "code": "323",
+      "diagnosis": "Diseases of the Nervous System"
+    },
+    {
+      "code": "576",
+      "diagnosis": "Gastrointestinal Disease"
+    },
+    {
+      "code": "793",
+      "diagnosis": "Symptoms"
+    },
+    {
+      "code": "976",
+      "diagnosis": "Poisoning"
+    },
+    {
+      "code": "052",
+      "diagnosis": "Varicella"
+    }
+  ]
+}

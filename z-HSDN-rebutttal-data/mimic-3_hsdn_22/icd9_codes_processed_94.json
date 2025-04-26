@@ -1,0 +1,32 @@
+{
+  "icd9_codes": [
+    {
+      "code": "784",
+      "diagnosis": "Sensory disturbances and other disturbances of special senses"
+    },
+    {
+      "code": "781",
+      "diagnosis": "Symptoms involving nervous and musculoskeletal systems"
+    },
+    {
+      "code": "307",
+      "diagnosis": "Mental disorders"
+    },
+    {
+      "code": "784",
+      "diagnosis": "Sensory disturbances and other disturbances of special senses"
+    },
+    {
+      "code": "784",
+      "diagnosis": "Sensory disturbances and other disturbances of special senses"
+    },
+    {
+      "code": "784",
+      "diagnosis": "Sensory disturbances and other disturbances of special senses"
+    },
+    {
+      "code": "787",
+      "diagnosis": "Symptoms involving digestive system"
+    }
+  ]
+}

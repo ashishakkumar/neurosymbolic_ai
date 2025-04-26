@@ -1,0 +1,60 @@
+{
+  "icd9_codes": [
+    {
+      "code": "786",
+      "diagnosis": "Chest Pain"
+    },
+    {
+      "code": "787",
+      "diagnosis": "Emesis"
+    },
+    {
+      "code": "721",
+      "diagnosis": "Intervertebral Disc Disorders"
+    },
+    {
+      "code": "639",
+      "diagnosis": "Complications of Pregnancy"
+    },
+    {
+      "code": "973",
+      "diagnosis": "Poisoning by Antineoplastic and Immunosuppressive Drugs"
+    },
+    {
+      "code": "564",
+      "diagnosis": "Intestinal Obstruction"
+    },
+    {
+      "code": "775",
+      "diagnosis": "Respiratory Distress of Newborn"
+    },
+    {
+      "code": "614",
+      "diagnosis": "Inflammatory Disease of Female Pelvic Organs"
+    },
+    {
+      "code": "413",
+      "diagnosis": "Other Forms of Chronic Ischemic Heart Disease"
+    },
+    {
+      "code": "455",
+      "diagnosis": "Phlebitis and Thrombophlebitis"
+    },
+    {
+      "code": "779",
+      "diagnosis": "Other and Unspecified Respiratory Conditions of Newborn"
+    },
+    {
+      "code": "639",
+      "diagnosis": "Complications of Pregnancy"
+    },
+    {
+      "code": "774",
+      "diagnosis": "Fetal Distress"
+    },
+    {
+      "code": "435",
+      "diagnosis": "Occlusion and Stenosis of Precerebral Arteries"
+    }
+  ]
+}

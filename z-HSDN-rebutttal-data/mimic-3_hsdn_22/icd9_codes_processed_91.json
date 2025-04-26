@@ -1,0 +1,84 @@
+{
+  "icd9_codes": [
+    {
+      "code": "386",
+      "diagnosis": "Otitis Media"
+    },
+    {
+      "code": "446",
+      "diagnosis": "Aortic Aneurysm"
+    },
+    {
+      "code": "381",
+      "diagnosis": "Mastoiditis"
+    },
+    {
+      "code": "754",
+      "diagnosis": "Congenital Anomalies of the Musculoskeletal System"
+    },
+    {
+      "code": "971",
+      "diagnosis": "Poisoning by Antineoplastic and Immunosuppressive Drugs"
+    },
+    {
+      "code": "907",
+      "diagnosis": "Late Effects of Injury"
+    },
+    {
+      "code": "754",
+      "diagnosis": "Congenital Anomalies of the Musculoskeletal System"
+    },
+    {
+      "code": "323",
+      "diagnosis": "Encephalitis"
+    },
+    {
+      "code": "616",
+      "diagnosis": "Inflammatory Disease of Female Pelvic Organs"
+    },
+    {
+      "code": "325",
+      "diagnosis": "Meningitis"
+    },
+    {
+      "code": "338",
+      "diagnosis": "Other Disorders of the Nervous System"
+    },
+    {
+      "code": "729",
+      "diagnosis": "Other and Unspecified Disorders of the Musculoskeletal System"
+    },
+    {
+      "code": "871",
+      "diagnosis": "Open Wound of Head"
+    },
+    {
+      "code": "453",
+      "diagnosis": "Varicose Veins of Lower Extremities"
+    },
+    {
+      "code": "326",
+      "diagnosis": "Other Disorders of the Nervous System"
+    },
+    {
+      "code": "639",
+      "diagnosis": "Other Complications of Pregnancy"
+    },
+    {
+      "code": "614",
+      "diagnosis": "Inflammatory Disease of Female Pelvic Organs"
+    },
+    {
+      "code": "432",
+      "diagnosis": "Occlusion and Stenosis of Precerebral Arteries"
+    },
+    {
+      "code": "789",
+      "diagnosis": "Abdominal Pain"
+    },
+    {
+      "code": "786",
+      "diagnosis": "Symptoms Involving Nervous System"
+    }
+  ]
+}

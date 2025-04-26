@@ -1,0 +1,40 @@
+{
+  "icd9_codes": [
+    {
+      "code": "786",
+      "diagnosis": "Dyspnea"
+    },
+    {
+      "code": "780",
+      "diagnosis": "Fatigue"
+    },
+    {
+      "code": "789",
+      "diagnosis": "Abdominal pain"
+    },
+    {
+      "code": "787",
+      "diagnosis": "Nausea"
+    },
+    {
+      "code": "785",
+      "diagnosis": "Palpitations"
+    },
+    {
+      "code": "427",
+      "diagnosis": "Tachycardia"
+    },
+    {
+      "code": "786",
+      "diagnosis": "Tachypnea"
+    },
+    {
+      "code": "786",
+      "diagnosis": "Shortness of breath"
+    },
+    {
+      "code": "789",
+      "diagnosis": "RUQ tenderness"
+    }
+  ]
+}

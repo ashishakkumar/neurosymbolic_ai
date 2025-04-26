@@ -1,0 +1,24 @@
+{
+  "icd9_codes": [
+    {
+      "code": "276",
+      "diagnosis": "Electrolyte disorders"
+    },
+    {
+      "code": "780",
+      "diagnosis": "General symptoms"
+    },
+    {
+      "code": "784",
+      "diagnosis": "Symptoms involving nervous system and sense organs"
+    },
+    {
+      "code": "275",
+      "diagnosis": "Disorders of fluid, electrolyte, and acid-base balance"
+    },
+    {
+      "code": "789",
+      "diagnosis": "Other symptoms involving the digestive system and abdomen"
+    }
+  ]
+}

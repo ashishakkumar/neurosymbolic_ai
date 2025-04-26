@@ -1,0 +1,28 @@
+{
+  "icd9_codes": [
+    {
+      "code": "789",
+      "diagnosis": "Abdominal pain"
+    },
+    {
+      "code": "786",
+      "diagnosis": "Cough"
+    },
+    {
+      "code": "729",
+      "diagnosis": "Pain in limb"
+    },
+    {
+      "code": "784",
+      "diagnosis": "Abdominal tenderness"
+    },
+    {
+      "code": "530",
+      "diagnosis": "Esophagitis"
+    },
+    {
+      "code": "651",
+      "diagnosis": "Premature labor"
+    }
+  ]
+}

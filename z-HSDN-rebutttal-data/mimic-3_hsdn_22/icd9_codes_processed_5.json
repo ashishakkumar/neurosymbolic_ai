@@ -1,0 +1,40 @@
+{
+  "icd9_codes": [
+    {
+      "code": "625",
+      "diagnosis": "Vaginal pain"
+    },
+    {
+      "code": "625",
+      "diagnosis": "Vaginal itch"
+    },
+    {
+      "code": "786",
+      "diagnosis": "Chest pain"
+    },
+    {
+      "code": "782",
+      "diagnosis": "Burning"
+    },
+    {
+      "code": "724",
+      "diagnosis": "Lower back pain"
+    },
+    {
+      "code": "392",
+      "diagnosis": "Endocarditis"
+    },
+    {
+      "code": "721",
+      "diagnosis": "Spinal disorders"
+    },
+    {
+      "code": "215",
+      "diagnosis": "Neoplasm of bone"
+    },
+    {
+      "code": "616",
+      "diagnosis": "Vulvovaginitis"
+    }
+  ]
+}

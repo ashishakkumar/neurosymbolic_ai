@@ -1,0 +1,80 @@
+{
+  "icd9_codes": [
+    {
+      "code": "091",
+      "diagnosis": "Amebiasis"
+    },
+    {
+      "code": "775",
+      "diagnosis": "Neonatal jaundice"
+    },
+    {
+      "code": "558",
+      "diagnosis": "Diverticular disease of intestine"
+    },
+    {
+      "code": "751",
+      "diagnosis": "Other congenital anomalies of digestive system"
+    },
+    {
+      "code": "323",
+      "diagnosis": "Encephalitis, myelitis and encephalomyelitis"
+    },
+    {
+      "code": "009",
+      "diagnosis": "Intestinal infectious disease"
+    },
+    {
+      "code": "771",
+      "diagnosis": "Respiratory distress of newborn"
+    },
+    {
+      "code": "774",
+      "diagnosis": "Other and unspecified respiratory conditions of newborn"
+    },
+    {
+      "code": "038",
+      "diagnosis": "Streptococcal infection"
+    },
+    {
+      "code": "583",
+      "diagnosis": "Acute glomerulonephritis"
+    },
+    {
+      "code": "723",
+      "diagnosis": "Other and unspecified disorders of back"
+    },
+    {
+      "code": "639",
+      "diagnosis": "Other complications of pregnancy"
+    },
+    {
+      "code": "614",
+      "diagnosis": "Inflammatory disease of female pelvic organs"
+    },
+    {
+      "code": "776",
+      "diagnosis": "Other and unspecified respiratory conditions of newborn"
+    },
+    {
+      "code": "052",
+      "diagnosis": "Varicella"
+    },
+    {
+      "code": "780",
+      "diagnosis": "General symptoms"
+    },
+    {
+      "code": "787",
+      "diagnosis": "Symptoms involving nervous and musculoskeletal systems"
+    },
+    {
+      "code": "789",
+      "diagnosis": "Other symptoms involving digestive system and abdomen"
+    },
+    {
+      "code": "786",
+      "diagnosis": "Symptoms involving skin and other integumentary tissue"
+    }
+  ]
+}

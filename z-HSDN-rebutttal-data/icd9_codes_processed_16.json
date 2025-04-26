@@ -1,0 +1,132 @@
+{
+  "icd9_codes": [
+    {
+      "code": "428",
+      "diagnosis": "Congestive Heart Failure"
+    },
+    {
+      "code": "250",
+      "diagnosis": "Diabetes Mellitus Type II"
+    },
+    {
+      "code": "401",
+      "diagnosis": "Hypertension"
+    },
+    {
+      "code": "414",
+      "diagnosis": "Coronary Artery Disease"
+    },
+    {
+      "code": "244",
+      "diagnosis": "Hypothyroidism"
+    },
+    {
+      "code": "290",
+      "diagnosis": "Dementia"
+    },
+    {
+      "code": "682",
+      "diagnosis": "Cellulitis"
+    },
+    {
+      "code": "707",
+      "diagnosis": "Decubitus Ulcer"
+    },
+    {
+      "code": "790",
+      "diagnosis": "Fever"
+    },
+    {
+      "code": "785",
+      "diagnosis": "Tachycardia"
+    },
+    {
+      "code": "780",
+      "diagnosis": "Decreased Responsiveness"
+    },
+    {
+      "code": "276",
+      "diagnosis": "Decreased P.O. Intake"
+    },
+    {
+      "code": "458",
+      "diagnosis": "Decreased P.O. Intake"
+    },
+    {
+      "code": "285",
+      "diagnosis": "Increased White Blood Cell Count"
+    },
+    {
+      "code": "790",
+      "diagnosis": "Fever"
+    },
+    {
+      "code": "785",
+      "diagnosis": "Tachycardia"
+    },
+    {
+      "code": "599",
+      "diagnosis": "Positive Nitrites"
+    },
+    {
+      "code": "792",
+      "diagnosis": "Moderate Leukocyte Esterase"
+    },
+    {
+      "code": "707",
+      "diagnosis": "Sacral Decubitus Ulcer"
+    },
+    {
+      "code": "707",
+      "diagnosis": "Foot Ulcers"
+    },
+    {
+      "code": "290",
+      "diagnosis": "Dementia with Psychosis"
+    },
+    {
+      "code": "847",
+      "diagnosis": "Toe Amputation Surgery"
+    },
+    {
+      "code": "682",
+      "diagnosis": "Cellulitis"
+    },
+    {
+      "code": "846",
+      "diagnosis": "Back Surgery"
+    },
+    {
+      "code": "815",
+      "diagnosis": "Right Total Knee Replacement"
+    },
+    {
+      "code": "244",
+      "diagnosis": "Hypothyroidism"
+    },
+    {
+      "code": "401",
+      "diagnosis": "Hypertension"
+    },
+    {
+      "code": "428",
+      "diagnosis": "Congestive Heart Failure"
+    },
+    {
+      "code": "250",
+      "diagnosis": "Diabetes Mellitus Type II"
+    },
+    {
+      "code": "414",
+      "diagnosis": "Coronary Artery Disease"
+    },
+    {
+      "code": "682",
+      "diagnosis": "History of Cellulitis"
+    },
+    {
+      "code": "815",
+      "diagnosis": "Status Post Right Total Knee Replacement"
+    }
+  ]
+}

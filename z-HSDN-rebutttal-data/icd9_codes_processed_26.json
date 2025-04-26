@@ -1,0 +1,32 @@
+{
+  "icd9_codes": [
+    {
+      "code": "411",
+      "diagnosis": "Intermediate coronary syndrome"
+    },
+    {
+      "code": "156",
+      "diagnosis": "Malignant neoplasm of colon"
+    },
+    {
+      "code": "793",
+      "diagnosis": "Nonspecific abnormal findings"
+    },
+    {
+      "code": "413",
+      "diagnosis": "Other forms of chronic ischemic heart disease"
+    },
+    {
+      "code": "338",
+      "diagnosis": "Other symptoms involving head and neck"
+    },
+    {
+      "code": "723",
+      "diagnosis": "Other and unspecified disorders of joint"
+    },
+    {
+      "code": "729",
+      "diagnosis": "Other and unspecified disorders of musculoskeletal system and connective tissue"
+    }
+  ]
+}

@@ -1,0 +1,116 @@
+{
+  "icd9_codes": [
+    {
+      "code": "780",
+      "diagnosis": "Fever"
+    },
+    {
+      "code": "780",
+      "diagnosis": "Chills"
+    },
+    {
+      "code": "784",
+      "diagnosis": "Headache"
+    },
+    {
+      "code": "780",
+      "diagnosis": "Rigors"
+    },
+    {
+      "code": "722",
+      "diagnosis": "Neck pain"
+    },
+    {
+      "code": "729",
+      "diagnosis": "Myalgias"
+    },
+    {
+      "code": "719",
+      "diagnosis": "Arthralgias"
+    },
+    {
+      "code": "462",
+      "diagnosis": "Nasal congestion"
+    },
+    {
+      "code": "466",
+      "diagnosis": "Non-productive cough"
+    },
+    {
+      "code": "446",
+      "diagnosis": "Peripheral vascular disease"
+    },
+    {
+      "code": "381",
+      "diagnosis": "Otitis media"
+    },
+    {
+      "code": "754",
+      "diagnosis": "Congenital anomalies"
+    },
+    {
+      "code": "971",
+      "diagnosis": "Toxic effect of carbon monoxide"
+    },
+    {
+      "code": "073",
+      "diagnosis": "Viral hepatitis"
+    },
+    {
+      "code": "754",
+      "diagnosis": "Congenital anomalies"
+    },
+    {
+      "code": "171",
+      "diagnosis": "Malignant neoplasm of skin of other and unspecified parts of face"
+    },
+    {
+      "code": "173",
+      "diagnosis": "Malignant neoplasm of skin of scalp and neck"
+    },
+    {
+      "code": "323",
+      "diagnosis": "Encephalitis, myelitis, and encephalomyelitis"
+    },
+    {
+      "code": "616",
+      "diagnosis": "Other female pelvic inflammatory disease"
+    },
+    {
+      "code": "325",
+      "diagnosis": "Meningitis"
+    },
+    {
+      "code": "338",
+      "diagnosis": "Other disorders of the nervous system"
+    },
+    {
+      "code": "729",
+      "diagnosis": "Other and unspecified disorders of soft tissues"
+    },
+    {
+      "code": "871",
+      "diagnosis": "Open wound of head"
+    },
+    {
+      "code": "453",
+      "diagnosis": "Varicose veins of lower extremities"
+    },
+    {
+      "code": "326",
+      "diagnosis": "Other disorders of brain"
+    },
+    {
+      "code": "639",
+      "diagnosis": "Other complications of pregnancy"
+    },
+    {
+      "code": "614",
+      "diagnosis": "Inflammatory disease of female pelvic organs"
+    },
+    {
+      "code": "432",
+      "diagnosis": "Occlusion and stenosis of precerebral arteries"
+    }
+  ]
+}

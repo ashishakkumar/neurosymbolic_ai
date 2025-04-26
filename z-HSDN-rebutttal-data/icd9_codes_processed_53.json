@@ -1,0 +1,56 @@
+{
+  "icd9_codes": [
+    {
+      "code": "427",
+      "diagnosis": "Cardiac dysrhythmias"
+    },
+    {
+      "code": "378",
+      "diagnosis": "Nystagmus and other irregular eye movements"
+    },
+    {
+      "code": "348",
+      "diagnosis": "Facial paralysis"
+    },
+    {
+      "code": "514",
+      "diagnosis": "Pulmonary insufficiency, unspecified"
+    },
+    {
+      "code": "426",
+      "diagnosis": "Conduction disorders"
+    },
+    {
+      "code": "410",
+      "diagnosis": "Acute myocardial infarction"
+    },
+    {
+      "code": "272",
+      "diagnosis": "Disorders of lipoid metabolism"
+    },
+    {
+      "code": "599",
+      "diagnosis": "Other disorders of urinary system"
+    },
+    {
+      "code": "427",
+      "diagnosis": "Cardiac dysrhythmias"
+    },
+    {
+      "code": "458",
+      "diagnosis": "Postphlebitic syndrome"
+    },
+    {
+      "code": "996",
+      "diagnosis": "Complications peculiar to certain specified procedures"
+    },
+    {
+      "code": "450",
+      "diagnosis": "Varicose veins of lower extremities"
+    },
+    {
+      "code": "422",
+      "diagnosis": "Other and unspecified endocarditis"
+    }
+  ]
+}

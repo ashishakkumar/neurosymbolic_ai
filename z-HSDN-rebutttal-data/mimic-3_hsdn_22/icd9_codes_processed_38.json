@@ -1,0 +1,36 @@
+{
+  "icd9_codes": [
+    {
+      "code": "338",
+      "diagnosis": "Paralytic Syndrome"
+    },
+    {
+      "code": "721",
+      "diagnosis": "Intervertebral Disc Disorders"
+    },
+    {
+      "code": "724",
+      "diagnosis": "Lumbago"
+    },
+    {
+      "code": "729",
+      "diagnosis": "Other and Unspecified Disorders of Back"
+    },
+    {
+      "code": "781",
+      "diagnosis": "Symptoms Involving Nervous System and Sense Organs"
+    },
+    {
+      "code": "783",
+      "diagnosis": "Symptoms Involving Digestive System"
+    },
+    {
+      "code": "784",
+      "diagnosis": "Symptoms Involving Skin and Other Integumentary Tissue"
+    },
+    {
+      "code": "793",
+      "diagnosis": "Nonspecific Findings on Examination of Blood"
+    }
+  ]
+}

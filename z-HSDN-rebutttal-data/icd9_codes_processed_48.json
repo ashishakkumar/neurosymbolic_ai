@@ -1,0 +1,48 @@
+{
+  "icd9_codes": [
+    {
+      "code": "789",
+      "diagnosis": "Abdominal Pain"
+    },
+    {
+      "code": "787",
+      "diagnosis": "Nausea and Vomiting"
+    },
+    {
+      "code": "677",
+      "diagnosis": "Abdominal Pain"
+    },
+    {
+      "code": "639",
+      "diagnosis": "Abdominal Pain"
+    },
+    {
+      "code": "009",
+      "diagnosis": "Intestinal Infection"
+    },
+    {
+      "code": "564",
+      "diagnosis": "Gastroenteritis"
+    },
+    {
+      "code": "775",
+      "diagnosis": "Neonatal Jaundice"
+    },
+    {
+      "code": "614",
+      "diagnosis": "Inflammatory Disease of Female Pelvic Organs"
+    },
+    {
+      "code": "779",
+      "diagnosis": "Other Respiratory Conditions of Newborn"
+    },
+    {
+      "code": "639",
+      "diagnosis": "Abdominal Pain"
+    },
+    {
+      "code": "774",
+      "diagnosis": "Other Congenital Anomalies of Digestive System"
+    }
+  ]
+}

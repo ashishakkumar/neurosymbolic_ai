@@ -1,0 +1,32 @@
+{
+  "icd9_codes": [
+    {
+      "code": "784",
+      "diagnosis": "Sensory disturbances and other disturbances of special senses"
+    },
+    {
+      "code": "781",
+      "diagnosis": "Symptoms involving nervous and musculoskeletal systems"
+    },
+    {
+      "code": "346",
+      "diagnosis": "Migraine"
+    },
+    {
+      "code": "386",
+      "diagnosis": "Sinusitis"
+    },
+    {
+      "code": "784",
+      "diagnosis": "Headache"
+    },
+    {
+      "code": "787",
+      "diagnosis": "Nausea and vomiting"
+    },
+    {
+      "code": "073",
+      "diagnosis": "Viral hepatitis"
+    }
+  ]
+}

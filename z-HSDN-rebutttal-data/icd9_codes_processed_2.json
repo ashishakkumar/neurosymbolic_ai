@@ -1,0 +1,64 @@
+{
+  "icd9_codes": [
+    {
+      "code": "381",
+      "diagnosis": "Tinnitus"
+    },
+    {
+      "code": "754",
+      "diagnosis": "Congenital musculoskeletal anomalies"
+    },
+    {
+      "code": "971",
+      "diagnosis": "Poisoning by antineoplastic and immunosuppressive drugs"
+    },
+    {
+      "code": "323",
+      "diagnosis": "Encephalitis, myelitis, and encephalomyelitis"
+    },
+    {
+      "code": "616",
+      "diagnosis": "Other noninflammatory disorders of ovary, fallopian tube, and broad ligament"
+    },
+    {
+      "code": "325",
+      "diagnosis": "Meningitis"
+    },
+    {
+      "code": "338",
+      "diagnosis": "Other disorders of the nervous system"
+    },
+    {
+      "code": "729",
+      "diagnosis": "Other and unspecified disorders of the musculoskeletal system and connective tissue"
+    },
+    {
+      "code": "871",
+      "diagnosis": "Open wound of head"
+    },
+    {
+      "code": "453",
+      "diagnosis": "Hemorrhoids"
+    },
+    {
+      "code": "326",
+      "diagnosis": "Intracranial abscess and granuloma"
+    },
+    {
+      "code": "639",
+      "diagnosis": "Other complications of pregnancy, childbirth, and the puerperium"
+    },
+    {
+      "code": "614",
+      "diagnosis": "Inflammatory disease of female pelvic organs"
+    },
+    {
+      "code": "432",
+      "diagnosis": "Occlusion and stenosis of precerebral arteries"
+    },
+    {
+      "code": "784",
+      "diagnosis": "Symptoms involving head and neck"
+    }
+  ]
+}

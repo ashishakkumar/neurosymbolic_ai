@@ -1,0 +1,24 @@
+{
+  "icd9_codes": [
+    {
+      "code": "413",
+      "diagnosis": "Angina Pectoris"
+    },
+    {
+      "code": "455",
+      "diagnosis": "Phlebitis and Thrombophlebitis"
+    },
+    {
+      "code": "721",
+      "diagnosis": "Intervertebral Disc Disorders"
+    },
+    {
+      "code": "780",
+      "diagnosis": "General Symptoms"
+    },
+    {
+      "code": "786",
+      "diagnosis": "Symptoms Involving Respiratory System and Other Chest Symptoms"
+    }
+  ]
+}

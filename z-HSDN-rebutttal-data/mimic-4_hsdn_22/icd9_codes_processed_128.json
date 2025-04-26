@@ -1,0 +1,72 @@
+{
+  "icd9_codes": [
+    {
+      "code": "323",
+      "diagnosis": "Meningitis"
+    },
+    {
+      "code": "784",
+      "diagnosis": "Headache"
+    },
+    {
+      "code": "386",
+      "diagnosis": "Otitis Media"
+    },
+    {
+      "code": "381",
+      "diagnosis": "Otitis Externa"
+    },
+    {
+      "code": "754",
+      "diagnosis": "Congenital Anomalies"
+    },
+    {
+      "code": "907",
+      "diagnosis": "Late Effects of Injury"
+    },
+    {
+      "code": "971",
+      "diagnosis": "Poisoning by Antineoplastic and Immunosuppressive Drugs"
+    },
+    {
+      "code": "446",
+      "diagnosis": "Peripheral Vascular Disease"
+    },
+    {
+      "code": "381",
+      "diagnosis": "Otitis Externa"
+    },
+    {
+      "code": "338",
+      "diagnosis": "Other Disorders of Nervous System"
+    },
+    {
+      "code": "729",
+      "diagnosis": "Other and Unspecified Disorders of Musculoskeletal System"
+    },
+    {
+      "code": "871",
+      "diagnosis": "Open Wound of Head"
+    },
+    {
+      "code": "453",
+      "diagnosis": "Varicose Veins of Lower Extremities"
+    },
+    {
+      "code": "326",
+      "diagnosis": "Other Disorders of Nerve, Root and Plexus"
+    },
+    {
+      "code": "639",
+      "diagnosis": "Other Complications of Pregnancy"
+    },
+    {
+      "code": "614",
+      "diagnosis": "Inflammatory Disease of Female Pelvic Organs"
+    },
+    {
+      "code": "432",
+      "diagnosis": "Occlusion and Stenosis of Precerebral Arteries"
+    }
+  ]
+}

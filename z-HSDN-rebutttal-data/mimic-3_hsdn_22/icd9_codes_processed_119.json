@@ -1,0 +1,52 @@
+{
+  "icd9_codes": [
+    {
+      "code": "729",
+      "diagnosis": "Pain in Limb"
+    },
+    {
+      "code": "786",
+      "diagnosis": "Symptoms Involving Respiratory System and Other Chest Symptoms"
+    },
+    {
+      "code": "701",
+      "diagnosis": "Dermatitis and Eczema"
+    },
+    {
+      "code": "780",
+      "diagnosis": "General Symptoms"
+    },
+    {
+      "code": "724",
+      "diagnosis": "Other and Unspecified Disorders of Shoulder"
+    },
+    {
+      "code": "311",
+      "diagnosis": "Depressive Disorder, Not Elsewhere Classified"
+    },
+    {
+      "code": "414",
+      "diagnosis": "Other Chronic Ischemic Heart Disease"
+    },
+    {
+      "code": "456",
+      "diagnosis": "Varicose Veins of Lower Extremities"
+    },
+    {
+      "code": "639",
+      "diagnosis": "Other Complications of Pregnancy, Childbirth, and the Puerperium"
+    },
+    {
+      "code": "614",
+      "diagnosis": "Inflammatory Disease of Female Pelvic Peritoneum"
+    },
+    {
+      "code": "721",
+      "diagnosis": "Other and Unspecified Disorders of Back"
+    },
+    {
+      "code": "156",
+      "diagnosis": "Malignant Neoplasm of Colon"
+    }
+  ]
+}

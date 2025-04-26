@@ -1,0 +1,24 @@
+{
+  "icd9_codes": [
+    {
+      "code": "413",
+      "diagnosis": "Angina Pectoris"
+    },
+    {
+      "code": "786",
+      "diagnosis": "Dizziness and Giddiness"
+    },
+    {
+      "code": "786",
+      "diagnosis": "Dizziness and Giddiness"
+    },
+    {
+      "code": "786",
+      "diagnosis": "Chest Pain"
+    },
+    {
+      "code": "786",
+      "diagnosis": "Chest Pain"
+    }
+  ]
+}

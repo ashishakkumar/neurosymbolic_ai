@@ -1,0 +1,48 @@
+{
+  "icd9_codes": [
+    {
+      "code": "787",
+      "diagnosis": "Nausea/vomiting"
+    },
+    {
+      "code": "789",
+      "diagnosis": "Abdominal pain"
+    },
+    {
+      "code": "786",
+      "diagnosis": "Shortness of breath"
+    },
+    {
+      "code": "780",
+      "diagnosis": "Dizziness"
+    },
+    {
+      "code": "780",
+      "diagnosis": "Lightheadedness"
+    },
+    {
+      "code": "788",
+      "diagnosis": "Dysuria"
+    },
+    {
+      "code": "784",
+      "diagnosis": "Headache"
+    },
+    {
+      "code": "780",
+      "diagnosis": "Confusion"
+    },
+    {
+      "code": "780",
+      "diagnosis": "Weakness"
+    },
+    {
+      "code": "355",
+      "diagnosis": "Numbness"
+    },
+    {
+      "code": "355",
+      "diagnosis": "Paresthesias"
+    }
+  ]
+}

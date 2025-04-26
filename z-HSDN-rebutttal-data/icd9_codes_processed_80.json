@@ -1,0 +1,32 @@
+{
+  "icd9_codes": [
+    {
+      "code": "639",
+      "diagnosis": "Complications of pregnancy, childbirth, and the puerperium"
+    },
+    {
+      "code": "775",
+      "diagnosis": "Other respiratory conditions originating in the perinatal period"
+    },
+    {
+      "code": "614",
+      "diagnosis": "Inflammatory disease of female pelvic organs"
+    },
+    {
+      "code": "779",
+      "diagnosis": "Other conditions originating in the perinatal period"
+    },
+    {
+      "code": "786",
+      "diagnosis": "Symptoms involving respiratory system and other chest symptoms"
+    },
+    {
+      "code": "787",
+      "diagnosis": "Symptoms involving digestive system"
+    },
+    {
+      "code": "780",
+      "diagnosis": "General symptoms"
+    }
+  ]
+}

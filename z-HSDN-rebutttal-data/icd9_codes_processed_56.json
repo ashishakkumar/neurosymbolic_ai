@@ -1,0 +1,28 @@
+{
+  "icd9_codes": [
+    {
+      "code": "482",
+      "diagnosis": "Pneumonia"
+    },
+    {
+      "code": "511",
+      "diagnosis": "Pleural effusion"
+    },
+    {
+      "code": "518",
+      "diagnosis": "Other pleural effusion"
+    },
+    {
+      "code": "786",
+      "diagnosis": "Fever"
+    },
+    {
+      "code": "780",
+      "diagnosis": "Chills"
+    },
+    {
+      "code": "518",
+      "diagnosis": "Respiratory failure"
+    }
+  ]
+}

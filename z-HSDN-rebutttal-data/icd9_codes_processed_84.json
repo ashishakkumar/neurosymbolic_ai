@@ -1,0 +1,12 @@
+{
+  "icd9_codes": [
+    {
+      "code": "789",
+      "diagnosis": "Abdominal pain"
+    },
+    {
+      "code": "783",
+      "diagnosis": "Abdominal pain"
+    }
+  ]
+}

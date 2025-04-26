@@ -1,0 +1,72 @@
+{
+  "icd9_codes": [
+    {
+      "code": "820",
+      "diagnosis": "Fracture of toe(s)"
+    },
+    {
+      "code": "871",
+      "diagnosis": "Open wound of head"
+    },
+    {
+      "code": "338",
+      "diagnosis": "Pain"
+    },
+    {
+      "code": "723",
+      "diagnosis": "Sprain of ankle"
+    },
+    {
+      "code": "413",
+      "diagnosis": "Other forms of chronic ischemic heart disease"
+    },
+    {
+      "code": "639",
+      "diagnosis": "Complications of pregnancy, childbirth, and the puerperium"
+    },
+    {
+      "code": "413",
+      "diagnosis": "Other forms of chronic ischemic heart disease"
+    },
+    {
+      "code": "614",
+      "diagnosis": "Inflammatory disease of female pelvic organs"
+    },
+    {
+      "code": "038",
+      "diagnosis": "Streptococcal infection"
+    },
+    {
+      "code": "754",
+      "diagnosis": "Other congenital musculoskeletal anomalies"
+    },
+    {
+      "code": "721",
+      "diagnosis": "Other and unspecified disorders of back"
+    },
+    {
+      "code": "778",
+      "diagnosis": "Other respiratory conditions of newborn"
+    },
+    {
+      "code": "156",
+      "diagnosis": "Malignant neoplasm of colon"
+    },
+    {
+      "code": "729",
+      "diagnosis": "Other and unspecified disorders of musculoskeletal system and connective tissue"
+    },
+    {
+      "code": "411",
+      "diagnosis": "Intermediate coronary syndrome"
+    },
+    {
+      "code": "435",
+      "diagnosis": "Transient cerebral ischemia"
+    },
+    {
+      "code": "971",
+      "diagnosis": "Poisoning by antineoplastic and immunosuppressive drugs"
+    }
+  ]
+}

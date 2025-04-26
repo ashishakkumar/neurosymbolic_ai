@@ -1,0 +1,36 @@
+{
+  "icd9_codes": [
+    {
+      "code": "493",
+      "diagnosis": "Asthma"
+    },
+    {
+      "code": "786",
+      "diagnosis": "Dyspnea"
+    },
+    {
+      "code": "787",
+      "diagnosis": "Nausea"
+    },
+    {
+      "code": "780",
+      "diagnosis": "Fatigue"
+    },
+    {
+      "code": "789",
+      "diagnosis": "Abdominal bloating"
+    },
+    {
+      "code": "780",
+      "diagnosis": "Diaphoresis"
+    },
+    {
+      "code": "786",
+      "diagnosis": "Shortness of breath"
+    },
+    {
+      "code": "569",
+      "diagnosis": "Blood in stool"
+    }
+  ]
+}

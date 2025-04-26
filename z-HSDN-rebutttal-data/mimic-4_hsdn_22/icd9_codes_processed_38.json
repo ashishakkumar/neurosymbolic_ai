@@ -1,0 +1,20 @@
+{
+  "icd9_codes": [
+    {
+      "code": "338",
+      "diagnosis": "Parasthesia"
+    },
+    {
+      "code": "724",
+      "diagnosis": "Backache"
+    },
+    {
+      "code": "729",
+      "diagnosis": "Pain in limb"
+    },
+    {
+      "code": "783",
+      "diagnosis": "Weight loss"
+    }
+  ]
+}

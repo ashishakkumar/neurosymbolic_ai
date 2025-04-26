@@ -1,0 +1,36 @@
+{
+  "icd9_codes": [
+    {
+      "code": "009",
+      "diagnosis": "Intestinal infection, unspecified"
+    },
+    {
+      "code": "723",
+      "diagnosis": "Other dorsopathies"
+    },
+    {
+      "code": "558",
+      "diagnosis": "Other specified noninfective gastroenteritis and colitis"
+    },
+    {
+      "code": "787",
+      "diagnosis": "Symptoms involving digestive system"
+    },
+    {
+      "code": "789",
+      "diagnosis": "Other symptoms involving the digestive system"
+    },
+    {
+      "code": "787",
+      "diagnosis": "Symptoms involving digestive system"
+    },
+    {
+      "code": "787",
+      "diagnosis": "Symptoms involving digestive system"
+    },
+    {
+      "code": "787",
+      "diagnosis": "Symptoms involving digestive system"
+    }
+  ]
+}

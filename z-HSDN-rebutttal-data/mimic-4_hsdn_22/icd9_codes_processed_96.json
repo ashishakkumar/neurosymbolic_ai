@@ -1,0 +1,108 @@
+{
+  "icd9_codes": [
+    {
+      "code": "091",
+      "diagnosis": "Measles"
+    },
+    {
+      "code": "413",
+      "diagnosis": "Angina pectoris"
+    },
+    {
+      "code": "558",
+      "diagnosis": "Gastroenteritis and colitis of infectious origin"
+    },
+    {
+      "code": "751",
+      "diagnosis": "Congenital anomalies of the musculoskeletal system"
+    },
+    {
+      "code": "323",
+      "diagnosis": "Encephalitis, myelitis, and encephalomyelitis"
+    },
+    {
+      "code": "435",
+      "diagnosis": "Transient cerebral ischemia"
+    },
+    {
+      "code": "009",
+      "diagnosis": "Intestinal infectious disease"
+    },
+    {
+      "code": "771",
+      "diagnosis": "Fetal and neonatal disorders"
+    },
+    {
+      "code": "774",
+      "diagnosis": "Fetal and neonatal disorders"
+    },
+    {
+      "code": "038",
+      "diagnosis": "Streptococcal infection"
+    },
+    {
+      "code": "583",
+      "diagnosis": "Acute glomerulonephritis"
+    },
+    {
+      "code": "723",
+      "diagnosis": "Other and unspecified disorders of back"
+    },
+    {
+      "code": "323",
+      "diagnosis": "Encephalitis, myelitis, and encephalomyelitis"
+    },
+    {
+      "code": "455",
+      "diagnosis": "Varicose veins of lower extremities"
+    },
+    {
+      "code": "721",
+      "diagnosis": "Disorders of spine and back"
+    },
+    {
+      "code": "006",
+      "diagnosis": "Intestinal infectious disease"
+    },
+    {
+      "code": "576",
+      "diagnosis": "Disorders of liver"
+    },
+    {
+      "code": "976",
+      "diagnosis": "Toxic effect of other and unspecified substances"
+    },
+    {
+      "code": "052",
+      "diagnosis": "Varicella"
+    },
+    {
+      "code": "787",
+      "diagnosis": "Symptoms involving digestive system"
+    },
+    {
+      "code": "786",
+      "diagnosis": "Symptoms involving respiratory system and other chest symptoms"
+    },
+    {
+      "code": "784",
+      "diagnosis": "Symptoms involving head and neck"
+    },
+    {
+      "code": "783",
+      "diagnosis": "Symptoms involving cardiovascular system"
+    },
+    {
+      "code": "787",
+      "diagnosis": "Symptoms involving digestive system"
+    },
+    {
+      "code": "787",
+      "diagnosis": "Symptoms involving digestive system"
+    },
+    {
+      "code": "789",
+      "diagnosis": "Other symptoms involving the circulatory and respiratory systems"
+    }
+  ]
+}

@@ -1,0 +1,64 @@
+{
+  "icd9_codes": [
+    {
+      "code": "038",
+      "diagnosis": "Streptococcal sore throat"
+    },
+    {
+      "code": "276",
+      "diagnosis": "Electrolyte disorders"
+    },
+    {
+      "code": "287",
+      "diagnosis": "Purpura and other hemorrhagic conditions"
+    },
+    {
+      "code": "338",
+      "diagnosis": "Dizziness and giddiness"
+    },
+    {
+      "code": "458",
+      "diagnosis": "Postphlebitic syndrome"
+    },
+    {
+      "code": "530",
+      "diagnosis": "Esophageal disorders"
+    },
+    {
+      "code": "584",
+      "diagnosis": "Acute renal failure"
+    },
+    {
+      "code": "569",
+      "diagnosis": "Other disorders of intestine"
+    },
+    {
+      "code": "789",
+      "diagnosis": "Dizziness and giddiness"
+    },
+    {
+      "code": "707",
+      "diagnosis": "Other and unspecified disorders of skin and subcutaneous tissue"
+    },
+    {
+      "code": "729",
+      "diagnosis": "Other and unspecified disorders of musculoskeletal system and connective tissue"
+    },
+    {
+      "code": "785",
+      "diagnosis": "Abnormalities of gait and mobility"
+    },
+    {
+      "code": "786",
+      "diagnosis": "Symptoms involving nervous and musculoskeletal systems"
+    },
+    {
+      "code": "799",
+      "diagnosis": "Other ill-defined conditions"
+    },
+    {
+      "code": "493",
+      "diagnosis": "Asthma"
+    }
+  ]
+}

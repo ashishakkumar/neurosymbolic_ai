@@ -1,0 +1,20 @@
+{
+  "icd9_codes": [
+    {
+      "code": "401",
+      "diagnosis": "Hypertensive urgency"
+    },
+    {
+      "code": "599",
+      "diagnosis": "Hematuria"
+    },
+    {
+      "code": "780",
+      "diagnosis": "Decreased energy"
+    },
+    {
+      "code": "784",
+      "diagnosis": "Headache"
+    }
+  ]
+}

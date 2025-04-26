@@ -1,0 +1,16 @@
+{
+  "icd9_codes": [
+    {
+      "code": "323",
+      "diagnosis": "Other headache syndromes"
+    },
+    {
+      "code": "784",
+      "diagnosis": "Headache"
+    },
+    {
+      "code": "786",
+      "diagnosis": "Weakness"
+    }
+  ]
+}

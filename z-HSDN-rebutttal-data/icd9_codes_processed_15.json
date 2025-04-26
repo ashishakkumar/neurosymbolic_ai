@@ -1,0 +1,40 @@
+{
+  "icd9_codes": [
+    {
+      "code": "789",
+      "diagnosis": "Abdominal Pain"
+    },
+    {
+      "code": "787",
+      "diagnosis": "Vomiting"
+    },
+    {
+      "code": "063",
+      "diagnosis": "Mumps"
+    },
+    {
+      "code": "775",
+      "diagnosis": "Fetal Distress"
+    },
+    {
+      "code": "614",
+      "diagnosis": "Inflammatory Disease of Vagina and Vulva"
+    },
+    {
+      "code": "338",
+      "diagnosis": "Dizziness and Giddiness"
+    },
+    {
+      "code": "779",
+      "diagnosis": "Other Respiratory Conditions of Newborn"
+    },
+    {
+      "code": "639",
+      "diagnosis": "Complications of Pregnancy, Childbirth, and the Puerperium"
+    },
+    {
+      "code": "723",
+      "diagnosis": "Other and Unspecified Disorders of Back"
+    }
+  ]
+}

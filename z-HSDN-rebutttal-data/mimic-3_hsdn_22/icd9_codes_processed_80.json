@@ -1,0 +1,64 @@
+{
+  "icd9_codes": [
+    {
+      "code": "786",
+      "diagnosis": "Chest pain"
+    },
+    {
+      "code": "786",
+      "diagnosis": "Chest swelling"
+    },
+    {
+      "code": "478",
+      "diagnosis": "Nasal congestion"
+    },
+    {
+      "code": "787",
+      "diagnosis": "Vomiting"
+    },
+    {
+      "code": "780",
+      "diagnosis": "Dizziness"
+    },
+    {
+      "code": "786",
+      "diagnosis": "Chest tightness"
+    },
+    {
+      "code": "779",
+      "diagnosis": "Chest tightness"
+    },
+    {
+      "code": "775",
+      "diagnosis": "Chest swelling"
+    },
+    {
+      "code": "639",
+      "diagnosis": "Nasal congestion"
+    },
+    {
+      "code": "614",
+      "diagnosis": "Vomiting"
+    },
+    {
+      "code": "774",
+      "diagnosis": "Dizziness"
+    },
+    {
+      "code": "564",
+      "diagnosis": "Vomiting"
+    },
+    {
+      "code": "639",
+      "diagnosis": "Nasal congestion"
+    },
+    {
+      "code": "212",
+      "diagnosis": "Chest tightness"
+    },
+    {
+      "code": "973",
+      "diagnosis": "Dizziness"
+    }
+  ]
+}

@@ -1,0 +1,20 @@
+{
+  "icd9_codes": [
+    {
+      "code": "038",
+      "diagnosis": "Other bacterial diseases"
+    },
+    {
+      "code": "338",
+      "diagnosis": "Other disorders of nervous system"
+    },
+    {
+      "code": "723",
+      "diagnosis": "Other and unspecified disorders of back"
+    },
+    {
+      "code": "793",
+      "diagnosis": "Other symptoms involving nervous and musculoskeletal systems"
+    }
+  ]
+}

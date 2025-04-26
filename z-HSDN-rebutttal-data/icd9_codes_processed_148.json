@@ -1,0 +1,40 @@
+{
+  "icd9_codes": [
+    {
+      "code": "780",
+      "diagnosis": "Fevers"
+    },
+    {
+      "code": "780",
+      "diagnosis": "Chills"
+    },
+    {
+      "code": "729",
+      "diagnosis": "Muscle pain"
+    },
+    {
+      "code": "780",
+      "diagnosis": "Fatigue"
+    },
+    {
+      "code": "729",
+      "diagnosis": "Myalgias"
+    },
+    {
+      "code": "780",
+      "diagnosis": "Rigors"
+    },
+    {
+      "code": "787",
+      "diagnosis": "Nausea"
+    },
+    {
+      "code": "787",
+      "diagnosis": "Vomiting"
+    },
+    {
+      "code": "784",
+      "diagnosis": "Frontal headache"
+    }
+  ]
+}

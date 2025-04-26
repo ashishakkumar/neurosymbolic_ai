@@ -1,0 +1,24 @@
+{
+  "icd9_codes": [
+    {
+      "code": "787",
+      "diagnosis": "Symptoms involving digestive system"
+    },
+    {
+      "code": "789",
+      "diagnosis": "Abdominal pain"
+    },
+    {
+      "code": "787",
+      "diagnosis": "Symptoms involving digestive system"
+    },
+    {
+      "code": "536",
+      "diagnosis": "Gastritis and duodenitis"
+    },
+    {
+      "code": "787",
+      "diagnosis": "Symptoms involving digestive system"
+    }
+  ]
+}

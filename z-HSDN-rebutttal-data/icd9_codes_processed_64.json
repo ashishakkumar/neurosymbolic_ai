@@ -1,0 +1,44 @@
+{
+  "icd9_codes": [
+    {
+      "code": "786",
+      "diagnosis": "Cough"
+    },
+    {
+      "code": "786",
+      "diagnosis": "Dyspnea on Exertion"
+    },
+    {
+      "code": "786",
+      "diagnosis": "Shortness of breath with ambulation"
+    },
+    {
+      "code": "786",
+      "diagnosis": "Occasional non-productive cough"
+    },
+    {
+      "code": "786",
+      "diagnosis": "Productive cough with yellow sputum"
+    },
+    {
+      "code": "786",
+      "diagnosis": "Nasal congestion"
+    },
+    {
+      "code": "780",
+      "diagnosis": "Subjective fevers"
+    },
+    {
+      "code": "786",
+      "diagnosis": "Pleuritic chest pain"
+    },
+    {
+      "code": "748",
+      "diagnosis": "Congenital malformation of the heart"
+    },
+    {
+      "code": "338",
+      "diagnosis": "Mental disorder"
+    }
+  ]
+}

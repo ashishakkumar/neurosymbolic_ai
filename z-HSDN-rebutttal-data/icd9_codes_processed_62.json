@@ -1,0 +1,48 @@
+{
+  "icd9_codes": [
+    {
+      "code": "789",
+      "diagnosis": "Abdominal Pain"
+    },
+    {
+      "code": "787",
+      "diagnosis": "Pelvic Pain"
+    },
+    {
+      "code": "787",
+      "diagnosis": "Lower Left Quadrant Pain"
+    },
+    {
+      "code": "787",
+      "diagnosis": "Cramping Pain"
+    },
+    {
+      "code": "787",
+      "diagnosis": "Dysmenorrhea"
+    },
+    {
+      "code": "787",
+      "diagnosis": "Dyspareunia"
+    },
+    {
+      "code": "787",
+      "diagnosis": "Right Adenexal Tenderness"
+    },
+    {
+      "code": "787",
+      "diagnosis": "Nausea"
+    },
+    {
+      "code": "787",
+      "diagnosis": "Vomiting"
+    },
+    {
+      "code": "787",
+      "diagnosis": "Diarrhea"
+    },
+    {
+      "code": "787",
+      "diagnosis": "Decreased Bloating"
+    }
+  ]
+}

@@ -1,0 +1,28 @@
+{
+  "icd9_codes": [
+    {
+      "code": "413",
+      "diagnosis": "Angina Pectoris"
+    },
+    {
+      "code": "780",
+      "diagnosis": "Fever"
+    },
+    {
+      "code": "786",
+      "diagnosis": "Chills"
+    },
+    {
+      "code": "786",
+      "diagnosis": "Dyspnea"
+    },
+    {
+      "code": "786",
+      "diagnosis": "Pleuritic Pain"
+    },
+    {
+      "code": "786",
+      "diagnosis": "Cough"
+    }
+  ]
+}

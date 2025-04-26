@@ -1,0 +1,88 @@
+{
+  "icd9_codes": [
+    {
+      "code": "276",
+      "diagnosis": "Electrolyte disorders"
+    },
+    {
+      "code": "585",
+      "diagnosis": "Chronic kidney disease"
+    },
+    {
+      "code": "414",
+      "diagnosis": "Coronary atherosclerosis"
+    },
+    {
+      "code": "272",
+      "diagnosis": "Disorders of lipid metabolism"
+    },
+    {
+      "code": "305",
+      "diagnosis": "Nondependent abuse of drugs"
+    },
+    {
+      "code": "440",
+      "diagnosis": "Atherosclerosis"
+    },
+    {
+      "code": "427",
+      "diagnosis": "Cardiac dysrhythmias"
+    },
+    {
+      "code": "311",
+      "diagnosis": "Depressive disorder"
+    },
+    {
+      "code": "348",
+      "diagnosis": "Epilepsy"
+    },
+    {
+      "code": "780",
+      "diagnosis": "General symptoms"
+    },
+    {
+      "code": "438",
+      "diagnosis": "Late effects of cerebrovascular disease"
+    },
+    {
+      "code": "412",
+      "diagnosis": "Old myocardial infarction"
+    },
+    {
+      "code": "345",
+      "diagnosis": "Epilepsy"
+    },
+    {
+      "code": "458",
+      "diagnosis": "Varicose veins of lower extremities"
+    },
+    {
+      "code": "453",
+      "diagnosis": "Varicose veins of lower extremities"
+    },
+    {
+      "code": "996",
+      "diagnosis": "Complications of surgical and medical care"
+    },
+    {
+      "code": "787",
+      "diagnosis": "Symptoms, signs, and ill-defined conditions"
+    },
+    {
+      "code": "443",
+      "diagnosis": "Peripheral vascular disease"
+    },
+    {
+      "code": "315",
+      "diagnosis": "Specific developmental disorders"
+    },
+    {
+      "code": "431",
+      "diagnosis": "Intracerebral hemorrhage"
+    },
+    {
+      "code": "410",
+      "diagnosis": "Acute myocardial infarction"
+    }
+  ]
+}

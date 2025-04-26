@@ -1,0 +1,88 @@
+{
+  "icd9_codes": [
+    {
+      "code": "780",
+      "diagnosis": "Fevers and chills"
+    },
+    {
+      "code": "787",
+      "diagnosis": "Nausea"
+    },
+    {
+      "code": "786",
+      "diagnosis": "Cough"
+    },
+    {
+      "code": "780",
+      "diagnosis": "Shaking chills"
+    },
+    {
+      "code": "578",
+      "diagnosis": "Bilious emesis"
+    },
+    {
+      "code": "784",
+      "diagnosis": "Sinus tenderness"
+    },
+    {
+      "code": "788",
+      "diagnosis": "Dysuria"
+    },
+    {
+      "code": "564",
+      "diagnosis": "Constipation"
+    },
+    {
+      "code": "453",
+      "diagnosis": "Pitting edema"
+    },
+    {
+      "code": "692",
+      "diagnosis": "Rash"
+    },
+    {
+      "code": "518",
+      "diagnosis": "Basilar crackles"
+    },
+    {
+      "code": "428",
+      "diagnosis": "CHF"
+    },
+    {
+      "code": "458",
+      "diagnosis": "Hypotension"
+    },
+    {
+      "code": "410",
+      "diagnosis": "Ischemia"
+    },
+    {
+      "code": "255",
+      "diagnosis": "Adrenal insufficiency"
+    },
+    {
+      "code": "285",
+      "diagnosis": "Anemia of chronic disease"
+    },
+    {
+      "code": "287",
+      "diagnosis": "Thrombocytopenia"
+    },
+    {
+      "code": "289",
+      "diagnosis": "Platelets decreased"
+    },
+    {
+      "code": "286",
+      "diagnosis": "HIT Abs"
+    },
+    {
+      "code": "286",
+      "diagnosis": "DIC panel"
+    },
+    {
+      "code": "285",
+      "diagnosis": "PPx"
+    }
+  ]
+}

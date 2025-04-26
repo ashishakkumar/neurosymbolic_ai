@@ -1,0 +1,168 @@
+{
+  "icd9_codes": [
+    {
+      "code": "786",
+      "diagnosis": "Dyspnea"
+    },
+    {
+      "code": "462",
+      "diagnosis": "Pharyngitis"
+    },
+    {
+      "code": "780",
+      "diagnosis": "Fever"
+    },
+    {
+      "code": "786",
+      "diagnosis": "Shortness of breath"
+    },
+    {
+      "code": "506",
+      "diagnosis": "Bilateral lower lobe effusions"
+    },
+    {
+      "code": "518",
+      "diagnosis": "Consolidation"
+    },
+    {
+      "code": "786",
+      "diagnosis": "Chest pain"
+    },
+    {
+      "code": "786",
+      "diagnosis": "Cough"
+    },
+    {
+      "code": "789",
+      "diagnosis": "Abdominal pain"
+    },
+    {
+      "code": "787",
+      "diagnosis": "Nausea"
+    },
+    {
+      "code": "787",
+      "diagnosis": "Vomiting"
+    },
+    {
+      "code": "569",
+      "diagnosis": "Blood in stool"
+    },
+    {
+      "code": "569",
+      "diagnosis": "Black stools"
+    },
+    {
+      "code": "787",
+      "diagnosis": "Diarrhea"
+    },
+    {
+      "code": "782",
+      "diagnosis": "Leg swelling"
+    },
+    {
+      "code": "783",
+      "diagnosis": "Weight gain"
+    },
+    {
+      "code": "723",
+      "diagnosis": "Neck pain"
+    },
+    {
+      "code": "784",
+      "diagnosis": "Headache"
+    },
+    {
+      "code": "780",
+      "diagnosis": "Chills"
+    },
+    {
+      "code": "780",
+      "diagnosis": "Confusion"
+    },
+    {
+      "code": "774",
+      "diagnosis": "Rhinorrhea"
+    },
+    {
+      "code": "729",
+      "diagnosis": "Myalgias"
+    },
+    {
+      "code": "009",
+      "diagnosis": "Oxygen saturations in the mid-80s on room air"
+    },
+    {
+      "code": "558",
+      "diagnosis": "Arterial stick"
+    },
+    {
+      "code": "774",
+      "diagnosis": "Dyspnea"
+    },
+    {
+      "code": "729",
+      "diagnosis": "Myalgias"
+    },
+    {
+      "code": "786",
+      "diagnosis": "Shortness of breath"
+    },
+    {
+      "code": "786",
+      "diagnosis": "Chest pain"
+    },
+    {
+      "code": "786",
+      "diagnosis": "Cough"
+    },
+    {
+      "code": "789",
+      "diagnosis": "Abdominal pain"
+    },
+    {
+      "code": "787",
+      "diagnosis": "Nausea"
+    },
+    {
+      "code": "787",
+      "diagnosis": "Vomiting"
+    },
+    {
+      "code": "569",
+      "diagnosis": "Blood in stool"
+    },
+    {
+      "code": "569",
+      "diagnosis": "Black stools"
+    },
+    {
+      "code": "787",
+      "diagnosis": "Diarrhea"
+    },
+    {
+      "code": "782",
+      "diagnosis": "Leg swelling"
+    },
+    {
+      "code": "783",
+      "diagnosis": "Weight gain"
+    },
+    {
+      "code": "723",
+      "diagnosis": "Neck pain"
+    },
+    {
+      "code": "784",
+      "diagnosis": "Headache"
+    },
+    {
+      "code": "780",
+      "diagnosis": "Chills"
+    },
+    {
+      "code": "780",
+      "diagnosis": "Confusion"
+    }
+  ]
+}

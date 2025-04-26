@@ -1,0 +1,28 @@
+{
+  "icd9_codes": [
+    {
+      "code": "493",
+      "diagnosis": "Asthma"
+    },
+    {
+      "code": "784",
+      "diagnosis": "Hoarseness"
+    },
+    {
+      "code": "786",
+      "diagnosis": "Sensation of throat closing"
+    },
+    {
+      "code": "787",
+      "diagnosis": "Nausea and vomiting"
+    },
+    {
+      "code": "786",
+      "diagnosis": "Shortness of breath"
+    },
+    {
+      "code": "784",
+      "diagnosis": "Sore throat"
+    }
+  ]
+}

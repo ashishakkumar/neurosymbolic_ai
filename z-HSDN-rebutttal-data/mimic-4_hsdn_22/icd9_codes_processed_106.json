@@ -1,0 +1,20 @@
+{
+  "icd9_codes": [
+    {
+      "code": "413",
+      "diagnosis": "Angina Pectoris"
+    },
+    {
+      "code": "491",
+      "diagnosis": "Chronic Obstructive Pulmonary Disease"
+    },
+    {
+      "code": "496",
+      "diagnosis": "Chronic Airway Obstruction"
+    },
+    {
+      "code": "721",
+      "diagnosis": "Intervertebral Disc Disorders"
+    }
+  ]
+}

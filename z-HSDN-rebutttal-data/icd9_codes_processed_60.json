@@ -1,0 +1,140 @@
+{
+  "icd9_codes": [
+    {
+      "code": "486",
+      "diagnosis": "Pneumonia, organism unspecified"
+    },
+    {
+      "code": "458",
+      "diagnosis": "Phlebitis and thrombophlebitis of other veins"
+    },
+    {
+      "code": "285",
+      "diagnosis": "Anemia"
+    },
+    {
+      "code": "401",
+      "diagnosis": "Essential hypertension"
+    },
+    {
+      "code": "272",
+      "diagnosis": "Disorders of lipid metabolism"
+    },
+    {
+      "code": "345",
+      "diagnosis": "Epilepsy"
+    },
+    {
+      "code": "599",
+      "diagnosis": "Urinary tract infection, site not specified"
+    },
+    {
+      "code": "482",
+      "diagnosis": "Pneumonia, unspecified organism"
+    },
+    {
+      "code": "427",
+      "diagnosis": "Cardiac dysrhythmias"
+    },
+    {
+      "code": "786",
+      "diagnosis": "Symptoms involving respiratory system and other chest symptoms"
+    },
+    {
+      "code": "493",
+      "diagnosis": "Asthma"
+    },
+    {
+      "code": "491",
+      "diagnosis": "Bronchitis, not specified as acute or chronic"
+    },
+    {
+      "code": "480",
+      "diagnosis": "Viral pneumonia, not otherwise specified"
+    },
+    {
+      "code": "481",
+      "diagnosis": "Pneumonia due to streptococcus"
+    },
+    {
+      "code": "483",
+      "diagnosis": "Lobar pneumonia, organism unspecified"
+    },
+    {
+      "code": "484",
+      "diagnosis": "Bronchopneumonia, organism unspecified"
+    },
+    {
+      "code": "485",
+      "diagnosis": "Bronchitis, not specified as acute or chronic"
+    },
+    {
+      "code": "492",
+      "diagnosis": "Other emphysema"
+    },
+    {
+      "code": "496",
+      "diagnosis": "Chronic airway obstruction, not elsewhere classified"
+    },
+    {
+      "code": "518",
+      "diagnosis": "Pneumoconiosis, unspecified"
+    },
+    {
+      "code": "280",
+      "diagnosis": "Iron deficiency anemia"
+    },
+    {
+      "code": "402",
+      "diagnosis": "Hypertensive heart disease"
+    },
+    {
+      "code": "428",
+      "diagnosis": "Congestive heart failure"
+    },
+    {
+      "code": "434",
+      "diagnosis": "Occlusion of cerebral arteries"
+    },
+    {
+      "code": "438",
+      "diagnosis": "Late effects of cerebrovascular disease"
+    },
+    {
+      "code": "578",
+      "diagnosis": "Disorders of liver"
+    },
+    {
+      "code": "780",
+      "diagnosis": "General symptoms"
+    },
+    {
+      "code": "784",
+      "diagnosis": "Symptoms involving head and neck"
+    },
+    {
+      "code": "787",
+      "diagnosis": "Symptoms involving nervous and musculoskeletal systems"
+    },
+    {
+      "code": "789",
+      "diagnosis": "Other symptoms involving the circulatory and respiratory systems"
+    },
+    {
+      "code": "790",
+      "diagnosis": "Nonspecific abnormal findings"
+    },
+    {
+      "code": "793",
+      "diagnosis": "Nonspecific abnormal findings of respiratory system"
+    },
+    {
+      "code": "794",
+      "diagnosis": "Nonspecific abnormal findings of digestive system"
+    },
+    {
+      "code": "799",
+      "diagnosis": "Other ill-defined conditions"
+    }
+  ]
+}

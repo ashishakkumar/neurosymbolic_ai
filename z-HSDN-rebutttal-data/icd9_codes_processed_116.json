@@ -1,0 +1,24 @@
+{
+  "icd9_codes": [
+    {
+      "code": "786",
+      "diagnosis": "Symptoms involving respiratory system and other chest symptoms"
+    },
+    {
+      "code": "487",
+      "diagnosis": "Bronchitis"
+    },
+    {
+      "code": "338",
+      "diagnosis": "Dizziness and giddiness"
+    },
+    {
+      "code": "833",
+      "diagnosis": "Fracture of spine"
+    },
+    {
+      "code": "813",
+      "diagnosis": "Fracture of lower limb"
+    }
+  ]
+}

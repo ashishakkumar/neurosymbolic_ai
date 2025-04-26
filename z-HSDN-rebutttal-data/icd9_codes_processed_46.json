@@ -1,0 +1,20 @@
+{
+  "icd9_codes": [
+    {
+      "code": "786",
+      "diagnosis": "Chest pain"
+    },
+    {
+      "code": "780",
+      "diagnosis": "Dizziness"
+    },
+    {
+      "code": "781",
+      "diagnosis": "Inability to ambulate"
+    },
+    {
+      "code": "786",
+      "diagnosis": "Intermittent chest pain"
+    }
+  ]
+}

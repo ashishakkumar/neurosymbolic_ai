@@ -1,0 +1,12 @@
+{
+  "icd9_codes": [
+    {
+      "code": "787",
+      "diagnosis": "Symptoms involving digestive system"
+    },
+    {
+      "code": "783",
+      "diagnosis": "Nausea and vomiting"
+    }
+  ]
+}

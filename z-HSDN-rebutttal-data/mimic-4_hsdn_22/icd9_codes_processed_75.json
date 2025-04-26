@@ -1,0 +1,32 @@
+{
+  "icd9_codes": [
+    {
+      "code": "786",
+      "diagnosis": "Dyspnea and respiratory abnormalities"
+    },
+    {
+      "code": "787",
+      "diagnosis": "Nausea and vomiting"
+    },
+    {
+      "code": "780",
+      "diagnosis": "General symptoms"
+    },
+    {
+      "code": "789",
+      "diagnosis": "Abdominal and pelvic pain"
+    },
+    {
+      "code": "780",
+      "diagnosis": "General symptoms"
+    },
+    {
+      "code": "786",
+      "diagnosis": "Dyspnea and respiratory abnormalities"
+    },
+    {
+      "code": "569",
+      "diagnosis": "Gastrointestinal hemorrhage"
+    }
+  ]
+}

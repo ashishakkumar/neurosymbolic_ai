@@ -1,0 +1,24 @@
+{
+  "icd9_codes": [
+    {
+      "code": "413",
+      "diagnosis": "Other forms of chronic ischemic heart disease"
+    },
+    {
+      "code": "427",
+      "diagnosis": "Cardiac dysrhythmias"
+    },
+    {
+      "code": "435",
+      "diagnosis": "Hypertensive encephalopathy"
+    },
+    {
+      "code": "434",
+      "diagnosis": "Occlusion of cerebral arteries"
+    },
+    {
+      "code": "786",
+      "diagnosis": "Symptoms involving respiratory system and other chest symptoms"
+    }
+  ]
+}

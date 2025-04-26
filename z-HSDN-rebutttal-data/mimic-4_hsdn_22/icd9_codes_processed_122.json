@@ -1,0 +1,80 @@
+{
+  "icd9_codes": [
+    {
+      "code": "414",
+      "diagnosis": "Other forms of chronic ischemic heart disease"
+    },
+    {
+      "code": "338",
+      "diagnosis": "Other symptoms involving the nervous system and sense organs"
+    },
+    {
+      "code": "455",
+      "diagnosis": "Phlebitis and thrombophlebitis"
+    },
+    {
+      "code": "723",
+      "diagnosis": "Other and unspecified disorders of shoulder region"
+    },
+    {
+      "code": "413",
+      "diagnosis": "Other forms of acute ischemic heart disease"
+    },
+    {
+      "code": "639",
+      "diagnosis": "Other complications of pregnancy, childbirth, and the puerperium"
+    },
+    {
+      "code": "778",
+      "diagnosis": "Other and unspecified respiratory conditions of newborn"
+    },
+    {
+      "code": "971",
+      "diagnosis": "Poisoning by, adverse effect of and underdosing of antineoplastic and immunosuppressive drugs"
+    },
+    {
+      "code": "156",
+      "diagnosis": "Malignant neoplasm of colon"
+    },
+    {
+      "code": "377",
+      "diagnosis": "Disorders of conjunctiva"
+    },
+    {
+      "code": "793",
+      "diagnosis": "Nonspecific abnormal findings in eye and adnexa"
+    },
+    {
+      "code": "729",
+      "diagnosis": "Other and unspecified disorders of musculoskeletal system and connective tissue"
+    },
+    {
+      "code": "411",
+      "diagnosis": "Intermediate coronary syndrome"
+    },
+    {
+      "code": "435",
+      "diagnosis": "Transient cerebral ischemia"
+    },
+    {
+      "code": "780",
+      "diagnosis": "General symptoms"
+    },
+    {
+      "code": "782",
+      "diagnosis": "Symptoms involving head and neck"
+    },
+    {
+      "code": "784",
+      "diagnosis": "Symptoms involving cardiovascular system"
+    },
+    {
+      "code": "786",
+      "diagnosis": "Symptoms involving respiratory system and other chest symptoms"
+    },
+    {
+      "code": "789",
+      "diagnosis": "Other symptoms and signs involving the circulatory and respiratory systems"
+    }
+  ]
+}

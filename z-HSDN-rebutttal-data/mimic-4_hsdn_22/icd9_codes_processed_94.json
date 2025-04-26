@@ -1,0 +1,28 @@
+{
+  "icd9_codes": [
+    {
+      "code": "344",
+      "diagnosis": "Hemisensory Deficit"
+    },
+    {
+      "code": "343",
+      "diagnosis": "Hemiplegia and Hemiparesis"
+    },
+    {
+      "code": "307",
+      "diagnosis": "Migraine"
+    },
+    {
+      "code": "386",
+      "diagnosis": "Sinusitis"
+    },
+    {
+      "code": "787",
+      "diagnosis": "Nausea"
+    },
+    {
+      "code": "073",
+      "diagnosis": "Viral Exanthema"
+    }
+  ]
+}

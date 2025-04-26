@@ -1,0 +1,42 @@
+Category,Classification
+00-10,Infectious diseases
+11-13,Parasitic diseases
+14-20,Malignant neoplasms
+21-23,Benign neoplasms
+24-27,Endocrine nutritional and metabolic diseases and immunity disorders
+28,Diseases of blood
+29-31,Mental disorders
+32-35,Disorders of central nervous system
+36-38,Organ diseases
+39-45,Diseases of the circulatory system
+46-51,Diseases of the respiratory system
+52-57,Diseases of the digestive system
+58-62,Diseases of the genitourinary system
+63-66,Complications of pregnancy and childbirth
+67,Complications of puerperium
+68-70,Diseases of the skin and subcutaneous tissue
+71-73,Diseases of the musculoskeletal system and connective tissue
+74-75,Congenital anomalies
+76-77,Certain conditions originating in the perinatal period
+78,Symptoms
+79,Findings and conditions
+80-83,Fracture
+84-95,Injury
+96-99,Poisoning
+V01-V09,Persons with potential health hazards related to communicable diseases
+V10-V19,Persons with potential health hazards related to personal and family history
+V20-V29,Persons encountering health services in circumstances related to reproduction and development
+V30-V39,Liveborn infants according to type of birth
+V40-V49,Persons with a condition influencing their health status
+V50-V59,Persons encountering health services for specific procedures and aftercare
+V60-V69,Persons encountering health services in other circumstances
+V70-V82,Persons without reported diagnosis encountered during examination and investigation of individuals and populations
+V83-V84,Genetics
+V85-V85,Body mass index
+V86-V86,Estrogen receptor status
+V87-V87,Other specified personal exposures and history presenting hazards to health
+V88-V88,Acquired absence of other organs and tissue
+V89-V89,Other suspected conditions not found
+V90-V90,Retained foreign body
+V91-V91,Multiple gestation placenta status
+E00-E09,Supplementary classification of external causes of injury and poisoning

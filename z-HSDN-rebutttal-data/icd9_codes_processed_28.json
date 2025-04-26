@@ -1,0 +1,40 @@
+{
+  "icd9_codes": [
+    {
+      "code": "395",
+      "diagnosis": "Mitral Valve Disorders"
+    },
+    {
+      "code": "424",
+      "diagnosis": "Other Definite Disorders of the Pulmonary Circulation"
+    },
+    {
+      "code": "427",
+      "diagnosis": "Cardiac Dysrhythmias"
+    },
+    {
+      "code": "424",
+      "diagnosis": "Other Definite Disorders of the Pulmonary Circulation"
+    },
+    {
+      "code": "401",
+      "diagnosis": "Hypertensive Heart Disease"
+    },
+    {
+      "code": "427",
+      "diagnosis": "Cardiac Dysrhythmias"
+    },
+    {
+      "code": "426",
+      "diagnosis": "Conduction Disorders"
+    },
+    {
+      "code": "424",
+      "diagnosis": "Other Definite Disorders of the Pulmonary Circulation"
+    },
+    {
+      "code": "424",
+      "diagnosis": "Other Definite Disorders of the Pulmonary Circulation"
+    }
+  ]
+}

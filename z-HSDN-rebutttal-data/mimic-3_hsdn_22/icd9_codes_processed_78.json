@@ -1,0 +1,16 @@
+{
+  "icd9_codes": [
+    {
+      "code": "786",
+      "diagnosis": "Dyspnea"
+    },
+    {
+      "code": "394",
+      "diagnosis": "Endocarditis"
+    },
+    {
+      "code": "427",
+      "diagnosis": "Cardiac Dysrhythmias"
+    }
+  ]
+}

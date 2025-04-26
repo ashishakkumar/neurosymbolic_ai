@@ -1,0 +1,12 @@
+{
+  "icd9_codes": [
+    {
+      "code": "780",
+      "diagnosis": "General symptoms"
+    },
+    {
+      "code": "285",
+      "diagnosis": "Anemia"
+    }
+  ]
+}

@@ -1,0 +1,44 @@
+{
+  "icd9_codes": [
+    {
+      "code": "789",
+      "diagnosis": "Abdominal Pain"
+    },
+    {
+      "code": "787",
+      "diagnosis": "Diarrhea"
+    },
+    {
+      "code": "787",
+      "diagnosis": "Nausea"
+    },
+    {
+      "code": "787",
+      "diagnosis": "Vomiting"
+    },
+    {
+      "code": "323",
+      "diagnosis": "Meningococcal Infection"
+    },
+    {
+      "code": "338",
+      "diagnosis": "Other Disorders of Nervous System"
+    },
+    {
+      "code": "723",
+      "diagnosis": "Other Disorders of Joints"
+    },
+    {
+      "code": "038",
+      "diagnosis": "Septicemia"
+    },
+    {
+      "code": "156",
+      "diagnosis": "Malignant Neoplasm of Colon"
+    },
+    {
+      "code": "446",
+      "diagnosis": "Peripheral Vascular Disease"
+    }
+  ]
+}

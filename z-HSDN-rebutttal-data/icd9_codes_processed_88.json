@@ -1,0 +1,120 @@
+{
+  "icd9_codes": [
+    {
+      "code": "780",
+      "diagnosis": "Altered mental status"
+    },
+    {
+      "code": "788",
+      "diagnosis": "Urinary retention"
+    },
+    {
+      "code": "781",
+      "diagnosis": "Lower extremity weakness"
+    },
+    {
+      "code": "780",
+      "diagnosis": "Fatigue"
+    },
+    {
+      "code": "787",
+      "diagnosis": "Intermittent diarrhea"
+    },
+    {
+      "code": "796",
+      "diagnosis": "Erratic blood pressure"
+    },
+    {
+      "code": "784",
+      "diagnosis": "Headaches"
+    },
+    {
+      "code": "729",
+      "diagnosis": "Myalgias"
+    },
+    {
+      "code": "786",
+      "diagnosis": "Dyspnea"
+    },
+    {
+      "code": "786",
+      "diagnosis": "Episodes of blood tinged sputum"
+    },
+    {
+      "code": "290",
+      "diagnosis": "Confusion"
+    },
+    {
+      "code": "386",
+      "diagnosis": "Hearing loss"
+    },
+    {
+      "code": "381",
+      "diagnosis": "Otitis media"
+    },
+    {
+      "code": "971",
+      "diagnosis": "Poisoning by antineoplastic and immunosuppressive drugs"
+    },
+    {
+      "code": "754",
+      "diagnosis": "Congenital anomalies of the digestive system"
+    },
+    {
+      "code": "907",
+      "diagnosis": "Late effects of injury to blood vessels"
+    },
+    {
+      "code": "754",
+      "diagnosis": "Congenital anomalies of the digestive system"
+    },
+    {
+      "code": "323",
+      "diagnosis": "Meningitis"
+    },
+    {
+      "code": "616",
+      "diagnosis": "Inflammatory disease of female pelvic organs"
+    },
+    {
+      "code": "325",
+      "diagnosis": "Encephalitis"
+    },
+    {
+      "code": "338",
+      "diagnosis": "Other disorders of the nervous system"
+    },
+    {
+      "code": "427",
+      "diagnosis": "Cardiac dysrhythmias"
+    },
+    {
+      "code": "729",
+      "diagnosis": "Other and unspecified disorders of the musculoskeletal system and connective tissue"
+    },
+    {
+      "code": "871",
+      "diagnosis": "Open wound of head"
+    },
+    {
+      "code": "453",
+      "diagnosis": "Hemorrhoids"
+    },
+    {
+      "code": "326",
+      "diagnosis": "Intracranial abscess and granuloma"
+    },
+    {
+      "code": "639",
+      "diagnosis": "Other complications of pregnancy"
+    },
+    {
+      "code": "614",
+      "diagnosis": "Inflammatory disease of female pelvic organs"
+    },
+    {
+      "code": "432",
+      "diagnosis": "Occlusion and stenosis of precerebral arteries"
+    }
+  ]
+}

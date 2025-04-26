@@ -1,0 +1,52 @@
+{
+  "icd9_codes": [
+    {
+      "code": "383",
+      "diagnosis": "Mastoiditis and related conditions"
+    },
+    {
+      "code": "455",
+      "diagnosis": "Phlebitis and thrombophlebitis"
+    },
+    {
+      "code": "723",
+      "diagnosis": "Other and unspecified disorders of back"
+    },
+    {
+      "code": "413",
+      "diagnosis": "Other forms of chronic ischemic heart disease"
+    },
+    {
+      "code": "427",
+      "diagnosis": "Cardiac dysrhythmias"
+    },
+    {
+      "code": "721",
+      "diagnosis": "Intervertebral disc disorders"
+    },
+    {
+      "code": "156",
+      "diagnosis": "Malignant neoplasm of colon"
+    },
+    {
+      "code": "323",
+      "diagnosis": "Acute pharyngitis"
+    },
+    {
+      "code": "435",
+      "diagnosis": "Transient cerebral ischemia"
+    },
+    {
+      "code": "786",
+      "diagnosis": "Symptoms involving respiratory system and other chest symptoms"
+    },
+    {
+      "code": "780",
+      "diagnosis": "General symptoms"
+    },
+    {
+      "code": "784",
+      "diagnosis": "Symptoms involving head and neck"
+    }
+  ]
+}

@@ -1,0 +1,96 @@
+{
+  "icd9_codes": [
+    {
+      "code": "780",
+      "diagnosis": "Altered mental status"
+    },
+    {
+      "code": "788",
+      "diagnosis": "Urinary retention"
+    },
+    {
+      "code": "781",
+      "diagnosis": "Lower extremity weakness"
+    },
+    {
+      "code": "780",
+      "diagnosis": "Fatigue"
+    },
+    {
+      "code": "787",
+      "diagnosis": "Intermittent diarrhea"
+    },
+    {
+      "code": "796",
+      "diagnosis": "Erratic blood pressure"
+    },
+    {
+      "code": "784",
+      "diagnosis": "Headaches"
+    },
+    {
+      "code": "729",
+      "diagnosis": "Myalgias"
+    },
+    {
+      "code": "786",
+      "diagnosis": "Dyspnea"
+    },
+    {
+      "code": "786",
+      "diagnosis": "Episodes of blood tinged sputum"
+    },
+    {
+      "code": "290",
+      "diagnosis": "Confusion"
+    },
+    {
+      "code": "386",
+      "diagnosis": "Hearing loss"
+    },
+    {
+      "code": "616",
+      "diagnosis": "Urinary tract infection"
+    },
+    {
+      "code": "325",
+      "diagnosis": "Encephalitis"
+    },
+    {
+      "code": "338",
+      "diagnosis": "Dizziness"
+    },
+    {
+      "code": "427",
+      "diagnosis": "Cardiac dysrhythmias"
+    },
+    {
+      "code": "729",
+      "diagnosis": "Muscle pain"
+    },
+    {
+      "code": "871",
+      "diagnosis": "Sepsis"
+    },
+    {
+      "code": "453",
+      "diagnosis": "Varicose veins"
+    },
+    {
+      "code": "326",
+      "diagnosis": "Meningitis"
+    },
+    {
+      "code": "639",
+      "diagnosis": "Abnormal labor and delivery"
+    },
+    {
+      "code": "614",
+      "diagnosis": "Female genital tract disorders"
+    },
+    {
+      "code": "432",
+      "diagnosis": "Occlusion of cerebral arteries"
+    }
+  ]
+}

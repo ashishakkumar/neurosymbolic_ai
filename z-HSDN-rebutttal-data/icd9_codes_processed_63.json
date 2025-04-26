@@ -1,0 +1,28 @@
+{
+  "icd9_codes": [
+    {
+      "code": "787",
+      "diagnosis": "Symptoms involving digestive system"
+    },
+    {
+      "code": "786",
+      "diagnosis": "Symptoms involving respiratory system and other chest symptoms"
+    },
+    {
+      "code": "783",
+      "diagnosis": "Symptoms involving head and neck"
+    },
+    {
+      "code": "789",
+      "diagnosis": "Other symptoms involving digestive system"
+    },
+    {
+      "code": "780",
+      "diagnosis": "General symptoms"
+    },
+    {
+      "code": "536",
+      "diagnosis": "Gastrointestinal hemorrhage"
+    }
+  ]
+}

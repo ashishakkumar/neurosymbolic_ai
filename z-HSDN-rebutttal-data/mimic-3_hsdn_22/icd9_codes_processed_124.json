@@ -1,0 +1,48 @@
+{
+  "icd9_codes": [
+    {
+      "code": "009",
+      "diagnosis": "Intestinal infectious disease, unspecified"
+    },
+    {
+      "code": "044",
+      "diagnosis": "Salmonella infection, unspecified"
+    },
+    {
+      "code": "093",
+      "diagnosis": "Intestinal amebiasis"
+    },
+    {
+      "code": "771",
+      "diagnosis": "Neonatal diarrhea and gastroenteritis of newborn"
+    },
+    {
+      "code": "774",
+      "diagnosis": "Neonatal jaundice"
+    },
+    {
+      "code": "751",
+      "diagnosis": "Other congenital anomalies of digestive system"
+    },
+    {
+      "code": "723",
+      "diagnosis": "Other enthesopathies"
+    },
+    {
+      "code": "558",
+      "diagnosis": "Other specified noninfective gastroenteritis and colitis"
+    },
+    {
+      "code": "780",
+      "diagnosis": "Fever"
+    },
+    {
+      "code": "786",
+      "diagnosis": "Symptoms concerning nutrition, metabolism, and development"
+    },
+    {
+      "code": "789",
+      "diagnosis": "Other symptoms involving the circulatory and respiratory systems"
+    }
+  ]
+}

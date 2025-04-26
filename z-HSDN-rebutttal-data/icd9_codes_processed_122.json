@@ -1,0 +1,72 @@
+{
+  "icd9_codes": [
+    {
+      "code": "410",
+      "diagnosis": "Acute Myocardial Infarction"
+    },
+    {
+      "code": "411",
+      "diagnosis": "Other Acute Ischemic Heart Disease"
+    },
+    {
+      "code": "156",
+      "diagnosis": "Malignant Neoplasm of Colon"
+    },
+    {
+      "code": "793",
+      "diagnosis": "Nonspecific Abnormal Findings"
+    },
+    {
+      "code": "038",
+      "diagnosis": "Streptococcal Infection"
+    },
+    {
+      "code": "413",
+      "diagnosis": "Other Chronic Ischemic Heart Disease"
+    },
+    {
+      "code": "338",
+      "diagnosis": "Other Symptoms Involving Head and Neck"
+    },
+    {
+      "code": "639",
+      "diagnosis": "Other Complications of Pregnancy"
+    },
+    {
+      "code": "723",
+      "diagnosis": "Other and Unspecified Disorders of Joints"
+    },
+    {
+      "code": "414",
+      "diagnosis": "Other Forms of Chronic Ischemic Heart Disease"
+    },
+    {
+      "code": "780",
+      "diagnosis": "General Symptoms"
+    },
+    {
+      "code": "780",
+      "diagnosis": "General Symptoms"
+    },
+    {
+      "code": "780",
+      "diagnosis": "General Symptoms"
+    },
+    {
+      "code": "780",
+      "diagnosis": "General Symptoms"
+    },
+    {
+      "code": "780",
+      "diagnosis": "General Symptoms"
+    },
+    {
+      "code": "780",
+      "diagnosis": "General Symptoms"
+    },
+    {
+      "code": "780",
+      "diagnosis": "General Symptoms"
+    }
+  ]
+}

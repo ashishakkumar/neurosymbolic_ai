@@ -1,0 +1,24 @@
+{
+  "icd9_codes": [
+    {
+      "code": "786",
+      "diagnosis": "Dyspnea and respiratory abnormalities"
+    },
+    {
+      "code": "787",
+      "diagnosis": "Symptoms involving digestive system"
+    },
+    {
+      "code": "780",
+      "diagnosis": "General symptoms"
+    },
+    {
+      "code": "789",
+      "diagnosis": "Other symptoms involving the circulatory and respiratory systems"
+    },
+    {
+      "code": "569",
+      "diagnosis": "Other disorders of intestine"
+    }
+  ]
+}

@@ -1,0 +1,16 @@
+{
+  "icd9_codes": [
+    {
+      "code": "401",
+      "diagnosis": "Hypertension"
+    },
+    {
+      "code": "413",
+      "diagnosis": "Other forms of chronic ischemic heart disease"
+    },
+    {
+      "code": "427",
+      "diagnosis": "Cardiac dysrhythmias"
+    }
+  ]
+}

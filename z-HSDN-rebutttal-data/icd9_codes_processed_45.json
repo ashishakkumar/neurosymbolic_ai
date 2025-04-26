@@ -1,0 +1,60 @@
+{
+  "icd9_codes": [
+    {
+      "code": "305",
+      "diagnosis": "Nondependent abuse of drugs"
+    },
+    {
+      "code": "780",
+      "diagnosis": "General symptoms"
+    },
+    {
+      "code": "851",
+      "diagnosis": "Intracranial injury"
+    },
+    {
+      "code": "807",
+      "diagnosis": "Fracture of spine"
+    },
+    {
+      "code": "860",
+      "diagnosis": "Injury to lung"
+    },
+    {
+      "code": "805",
+      "diagnosis": "Fracture of skull"
+    },
+    {
+      "code": "824",
+      "diagnosis": "Fracture of wrist"
+    },
+    {
+      "code": "814",
+      "diagnosis": "Injury to foot"
+    },
+    {
+      "code": "801",
+      "diagnosis": "Fracture of skull"
+    },
+    {
+      "code": "802",
+      "diagnosis": "Fracture of skull"
+    },
+    {
+      "code": "821",
+      "diagnosis": "Fracture of ankle"
+    },
+    {
+      "code": "823",
+      "diagnosis": "Fracture of ankle"
+    },
+    {
+      "code": "810",
+      "diagnosis": "Injury to knee"
+    },
+    {
+      "code": "825",
+      "diagnosis": "Fracture of hand"
+    }
+  ]
+}

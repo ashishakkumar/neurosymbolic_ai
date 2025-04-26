@@ -1,0 +1,32 @@
+{
+  "icd9_codes": [
+    {
+      "code": "338",
+      "diagnosis": "Neuralgia and neuritis, unspecified"
+    },
+    {
+      "code": "721",
+      "diagnosis": "Intervertebral disc disorders"
+    },
+    {
+      "code": "722",
+      "diagnosis": "Other and unspecified disorders of back"
+    },
+    {
+      "code": "729",
+      "diagnosis": "Other and unspecified disorders of musculoskeletal system and connective tissue"
+    },
+    {
+      "code": "724",
+      "diagnosis": "Peripheral entrapment syndromes"
+    },
+    {
+      "code": "728",
+      "diagnosis": "Myalgia and myositis, unspecified"
+    },
+    {
+      "code": "729",
+      "diagnosis": "Other and unspecified disorders of musculoskeletal system and connective tissue"
+    }
+  ]
+}

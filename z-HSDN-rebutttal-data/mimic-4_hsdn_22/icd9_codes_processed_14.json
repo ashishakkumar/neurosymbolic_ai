@@ -1,0 +1,32 @@
+{
+  "icd9_codes": [
+    {
+      "code": "780",
+      "diagnosis": "General symptoms"
+    },
+    {
+      "code": "780",
+      "diagnosis": "Fatigue"
+    },
+    {
+      "code": "780",
+      "diagnosis": "Confusion"
+    },
+    {
+      "code": "780",
+      "diagnosis": "Changes in mental status"
+    },
+    {
+      "code": "789",
+      "diagnosis": "Abdominal pain"
+    },
+    {
+      "code": "781",
+      "diagnosis": "Head jerking"
+    },
+    {
+      "code": "780",
+      "diagnosis": "Somnolence"
+    }
+  ]
+}

@@ -1,0 +1,84 @@
+{
+  "icd9_codes": [
+    {
+      "code": "789",
+      "diagnosis": "Abdominal Pain"
+    },
+    {
+      "code": "787",
+      "diagnosis": "Diarrhea"
+    },
+    {
+      "code": "780",
+      "diagnosis": "Fevers"
+    },
+    {
+      "code": "780",
+      "diagnosis": "Night Sweats"
+    },
+    {
+      "code": "789",
+      "diagnosis": "LLQ Pain"
+    },
+    {
+      "code": "791",
+      "diagnosis": "Dark Urine"
+    },
+    {
+      "code": "780",
+      "diagnosis": "Light-headedness"
+    },
+    {
+      "code": "787",
+      "diagnosis": "Tarry Stools"
+    },
+    {
+      "code": "787",
+      "diagnosis": "Watery Stools"
+    },
+    {
+      "code": "787",
+      "diagnosis": "Nausea"
+    },
+    {
+      "code": "787",
+      "diagnosis": "Vomiting"
+    },
+    {
+      "code": "466",
+      "diagnosis": "Dry Cough"
+    },
+    {
+      "code": "323",
+      "diagnosis": "323"
+    },
+    {
+      "code": "723",
+      "diagnosis": "723"
+    },
+    {
+      "code": "338",
+      "diagnosis": "338"
+    },
+    {
+      "code": "751",
+      "diagnosis": "751"
+    },
+    {
+      "code": "038",
+      "diagnosis": "038"
+    },
+    {
+      "code": "446",
+      "diagnosis": "446"
+    },
+    {
+      "code": "156",
+      "diagnosis": "156"
+    },
+    {
+      "code": "391",
+      "diagnosis": "391"
+    }
+  ]
+}

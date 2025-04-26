@@ -1,0 +1,44 @@
+{
+  "icd9_codes": [
+    {
+      "code": "428",
+      "diagnosis": "Congestive Heart Failure"
+    },
+    {
+      "code": "276",
+      "diagnosis": "Electrolyte Disorders"
+    },
+    {
+      "code": "599",
+      "diagnosis": "Urinary Tract Infection"
+    },
+    {
+      "code": "783",
+      "diagnosis": "Malaise and Fatigue"
+    },
+    {
+      "code": "789",
+      "diagnosis": "Abdominal Pain"
+    },
+    {
+      "code": "780",
+      "diagnosis": "General Symptoms"
+    },
+    {
+      "code": "785",
+      "diagnosis": "Symptoms Involving Skin and Other Integumentary Tissue"
+    },
+    {
+      "code": "780",
+      "diagnosis": "General Symptoms"
+    },
+    {
+      "code": "787",
+      "diagnosis": "Symptoms Involving Digestive System"
+    },
+    {
+      "code": "786",
+      "diagnosis": "Symptoms Involving Nervous System and Sense Organs"
+    }
+  ]
+}

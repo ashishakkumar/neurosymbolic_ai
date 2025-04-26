@@ -1,0 +1,44 @@
+{
+  "icd9_codes": [
+    {
+      "code": "536",
+      "diagnosis": "Abdominal Pain"
+    },
+    {
+      "code": "787",
+      "diagnosis": "Nausea and Vomiting"
+    },
+    {
+      "code": "787",
+      "diagnosis": "Diarrhea"
+    },
+    {
+      "code": "296",
+      "diagnosis": "Depression"
+    },
+    {
+      "code": "311",
+      "diagnosis": "Depression"
+    },
+    {
+      "code": "589",
+      "diagnosis": "Diarrhea"
+    },
+    {
+      "code": "787",
+      "diagnosis": "Nausea and Vomiting"
+    },
+    {
+      "code": "787",
+      "diagnosis": "Diarrhea"
+    },
+    {
+      "code": "780",
+      "diagnosis": "Abdominal Pain"
+    },
+    {
+      "code": "305",
+      "diagnosis": "Suicidal Ideation"
+    }
+  ]
+}

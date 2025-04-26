@@ -1,0 +1,20 @@
+{
+  "icd9_codes": [
+    {
+      "code": "724",
+      "diagnosis": "Other and unspecified disorders of back"
+    },
+    {
+      "code": "355",
+      "diagnosis": "Mononeuritis of upper limb"
+    },
+    {
+      "code": "729",
+      "diagnosis": "Other and unspecified disorders of muscle, ligament, and fascia"
+    },
+    {
+      "code": "728",
+      "diagnosis": "Myalgia and myositis, unspecified"
+    }
+  ]
+}

@@ -1,0 +1,72 @@
+{
+  "icd9_codes": [
+    {
+      "code": "091",
+      "diagnosis": "Measles"
+    },
+    {
+      "code": "775",
+      "diagnosis": "Fetal distress"
+    },
+    {
+      "code": "558",
+      "diagnosis": "Irritable bowel syndrome"
+    },
+    {
+      "code": "723",
+      "diagnosis": "Dorsalgia"
+    },
+    {
+      "code": "323",
+      "diagnosis": "Encephalitis"
+    },
+    {
+      "code": "009",
+      "diagnosis": "Intestinal infectious disease"
+    },
+    {
+      "code": "771",
+      "diagnosis": "Respiratory distress of newborn"
+    },
+    {
+      "code": "774",
+      "diagnosis": "Other respiratory conditions of newborn"
+    },
+    {
+      "code": "038",
+      "diagnosis": "Septicemia"
+    },
+    {
+      "code": "583",
+      "diagnosis": "Acute glomerulonephritis"
+    },
+    {
+      "code": "723",
+      "diagnosis": "Dorsalgia"
+    },
+    {
+      "code": "323",
+      "diagnosis": "Encephalitis"
+    },
+    {
+      "code": "639",
+      "diagnosis": "Other complications of pregnancy"
+    },
+    {
+      "code": "614",
+      "diagnosis": "Inflammatory disease of female pelvic organs"
+    },
+    {
+      "code": "576",
+      "diagnosis": "Disorders of function of stomach"
+    },
+    {
+      "code": "976",
+      "diagnosis": "Poisoning by other and unspecified drugs and biological substances"
+    },
+    {
+      "code": "052",
+      "diagnosis": "Varicella"
+    }
+  ]
+}

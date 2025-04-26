@@ -1,0 +1,24 @@
+{
+  "icd9_codes": [
+    {
+      "code": "780",
+      "diagnosis": "General symptoms"
+    },
+    {
+      "code": "784",
+      "diagnosis": "Speech and language disorders"
+    },
+    {
+      "code": "783",
+      "diagnosis": "Symptoms concerning nutrition, metabolism, and development"
+    },
+    {
+      "code": "780",
+      "diagnosis": "General symptoms"
+    },
+    {
+      "code": "780",
+      "diagnosis": "General symptoms"
+    }
+  ]
+}

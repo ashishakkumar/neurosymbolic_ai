@@ -1,0 +1,44 @@
+{
+  "icd9_codes": [
+    {
+      "code": "786",
+      "diagnosis": "Shortness of breath"
+    },
+    {
+      "code": "786",
+      "diagnosis": "Dyspnea"
+    },
+    {
+      "code": "786",
+      "diagnosis": "Cough"
+    },
+    {
+      "code": "493",
+      "diagnosis": "Asthma"
+    },
+    {
+      "code": "466",
+      "diagnosis": "Bronchitis"
+    },
+    {
+      "code": "487",
+      "diagnosis": "Pneumonia"
+    },
+    {
+      "code": "428",
+      "diagnosis": "Congestive Heart Failure"
+    },
+    {
+      "code": "414",
+      "diagnosis": "Coronary Atherosclerosis"
+    },
+    {
+      "code": "338",
+      "diagnosis": "Dizziness and Giddiness"
+    },
+    {
+      "code": "748",
+      "diagnosis": "Other Congenital Anomalies of the Circulatory System"
+    }
+  ]
+}

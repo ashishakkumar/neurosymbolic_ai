@@ -1,0 +1,28 @@
+{
+  "icd9_codes": [
+    {
+      "code": "789",
+      "diagnosis": "Abdominal pain"
+    },
+    {
+      "code": "784",
+      "diagnosis": "Obstructive symptoms"
+    },
+    {
+      "code": "786",
+      "diagnosis": "Back pain"
+    },
+    {
+      "code": "789",
+      "diagnosis": "Pelvic pain"
+    },
+    {
+      "code": "788",
+      "diagnosis": "Urinary frequency"
+    },
+    {
+      "code": "564",
+      "diagnosis": "Constipation"
+    }
+  ]
+}

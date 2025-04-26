@@ -1,0 +1,12 @@
+{
+  "icd9_codes": [
+    {
+      "code": "724",
+      "diagnosis": "Backache"
+    },
+    {
+      "code": "729",
+      "diagnosis": "Other and unspecified disorders of back"
+    }
+  ]
+}

@@ -1,0 +1,88 @@
+{
+  "icd9_codes": [
+    {
+      "code": "091",
+      "diagnosis": "Infectious hepatitis"
+    },
+    {
+      "code": "775",
+      "diagnosis": "Other fetal and neonatal problems"
+    },
+    {
+      "code": "558",
+      "diagnosis": "Other specified disorders of intestine"
+    },
+    {
+      "code": "446",
+      "diagnosis": "Peripheral vascular disease"
+    },
+    {
+      "code": "907",
+      "diagnosis": "Late effects of injury"
+    },
+    {
+      "code": "751",
+      "diagnosis": "Congenital anomalies of nervous system"
+    },
+    {
+      "code": "323",
+      "diagnosis": "Encephalitis, myelitis, and encephalomyelitis"
+    },
+    {
+      "code": "771",
+      "diagnosis": "Respiratory distress of newborn"
+    },
+    {
+      "code": "774",
+      "diagnosis": "Other problems of newborn"
+    },
+    {
+      "code": "038",
+      "diagnosis": "Streptococcal infection"
+    },
+    {
+      "code": "583",
+      "diagnosis": "Acute glomerulonephritis"
+    },
+    {
+      "code": "723",
+      "diagnosis": "Other and unspecified disorders of back"
+    },
+    {
+      "code": "639",
+      "diagnosis": "Other complications of pregnancy"
+    },
+    {
+      "code": "614",
+      "diagnosis": "Inflammatory disease of female pelvic organs"
+    },
+    {
+      "code": "760",
+      "diagnosis": "Fetal and neonatal effects of maternal complications"
+    },
+    {
+      "code": "976",
+      "diagnosis": "Toxic effect of other and unspecified substances"
+    },
+    {
+      "code": "052",
+      "diagnosis": "Varicella"
+    },
+    {
+      "code": "787",
+      "diagnosis": "Symptoms involving digestive system"
+    },
+    {
+      "code": "787",
+      "diagnosis": "Nausea and vomiting"
+    },
+    {
+      "code": "787",
+      "diagnosis": "Diarrhea"
+    },
+    {
+      "code": "783",
+      "diagnosis": "Weight loss"
+    }
+  ]
+}

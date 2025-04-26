@@ -1,0 +1,52 @@
+{
+  "icd9_codes": [
+    {
+      "code": "414",
+      "diagnosis": "Coronary Atherosclerosis"
+    },
+    {
+      "code": "276",
+      "diagnosis": "Electrolyte Disorders"
+    },
+    {
+      "code": "584",
+      "diagnosis": "Acute Renal Failure"
+    },
+    {
+      "code": "511",
+      "diagnosis": "Pneumonia"
+    },
+    {
+      "code": "428",
+      "diagnosis": "Heart Failure"
+    },
+    {
+      "code": "574",
+      "diagnosis": "Cholecystitis"
+    },
+    {
+      "code": "786",
+      "diagnosis": "Chest Pain"
+    },
+    {
+      "code": "780",
+      "diagnosis": "General Symptoms"
+    },
+    {
+      "code": "576",
+      "diagnosis": "Disorders of Gallbladder"
+    },
+    {
+      "code": "577",
+      "diagnosis": "Disorders of Pancreas"
+    },
+    {
+      "code": "575",
+      "diagnosis": "Disorders of Liver"
+    },
+    {
+      "code": "518",
+      "diagnosis": "Pneumonia"
+    }
+  ]
+}

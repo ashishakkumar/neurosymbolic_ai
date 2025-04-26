@@ -1,0 +1,32 @@
+{
+  "icd9_codes": [
+    {
+      "code": "786",
+      "diagnosis": "Pain"
+    },
+    {
+      "code": "786",
+      "diagnosis": "Musculoskeletal pain"
+    },
+    {
+      "code": "786",
+      "diagnosis": "Right flank pain"
+    },
+    {
+      "code": "786",
+      "diagnosis": "CVA tenderness"
+    },
+    {
+      "code": "787",
+      "diagnosis": "Cough"
+    },
+    {
+      "code": "530",
+      "diagnosis": "Acid reflux symptoms"
+    },
+    {
+      "code": "651",
+      "diagnosis": "Mild contractions"
+    }
+  ]
+}

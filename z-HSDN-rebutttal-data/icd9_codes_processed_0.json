@@ -1,0 +1,68 @@
+{
+  "icd9_codes": [
+    {
+      "code": "413",
+      "diagnosis": "Angina pectoris"
+    },
+    {
+      "code": "786",
+      "diagnosis": "Chest pain"
+    },
+    {
+      "code": "789",
+      "diagnosis": "Abdominal pain"
+    },
+    {
+      "code": "786",
+      "diagnosis": "Shortness of breath"
+    },
+    {
+      "code": "789",
+      "diagnosis": "Right upper quadrant pain"
+    },
+    {
+      "code": "789",
+      "diagnosis": "Right lower quadrant pain"
+    },
+    {
+      "code": "729",
+      "diagnosis": "Pain in limb"
+    },
+    {
+      "code": "786",
+      "diagnosis": "Right-sided chest pain"
+    },
+    {
+      "code": "780",
+      "diagnosis": "Fatigue"
+    },
+    {
+      "code": "794",
+      "diagnosis": "Dyspnea"
+    },
+    {
+      "code": "787",
+      "diagnosis": "Easy bruising"
+    },
+    {
+      "code": "782",
+      "diagnosis": "Numbness/tingling"
+    },
+    {
+      "code": "728",
+      "diagnosis": "Leg weakness"
+    },
+    {
+      "code": "783",
+      "diagnosis": "General fatigue"
+    },
+    {
+      "code": "784",
+      "diagnosis": "Allergy headaches"
+    },
+    {
+      "code": "783",
+      "diagnosis": "Weight loss"
+    }
+  ]
+}

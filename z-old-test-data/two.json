@@ -1,0 +1,702 @@
+[
+  {
+    "short_codes": "4241,42731,45829,41400,2724,4019,2469,2749,71690,60000,V4365,V4581,E8781",
+    "Symptoms": [
+      "worsening fatigue",
+      "shortness of breath"
+    ]
+  },
+  {
+    "short_codes": "41401,4111,42731,4019,311,V1582",
+    "Symptoms": [
+      "chest pain",
+      "atrial fibrillation"
+    ]
+  },
+  {
+    "short_codes": "80422,5070,3485,80503,80504,80506,80701,2930,81220,4271,80122,80228,80022,8024,4019,2724,25000,9100,V5867,V1582,E8490,E882",
+    "Symptoms": [
+      "jaw pain",
+      "neck pain"
+    ]
+  },
+  {
+    "short_codes": "86500",
+    "Symptoms": [
+      "abdominal pain",
+      "difficulty breathing"
+    ]
+  },
+  {
+    "short_codes": "4240,4160,V08",
+    "Symptoms": [
+      "shortness of breath",
+      "chest tightness"
+    ]
+  },
+  {
+    "short_codes": "3962,5990,42789,41400,4019,25000,2720,60000,71590,V4501,V4581",
+    "Symptoms": [
+      "chest pain",
+      "dyspnea"
+    ]
+  },
+  {
+    "short_codes": "41401,4111,4239,37034,E9384,9181,45829,42731,2720,53081,2859",
+    "Symptoms": [
+      "chest pressure on exertion",
+      "congestion sensation in chest"
+    ]
+  },
+  {
+    "short_codes": "41071,4280,99672,51881,40391,48241,42830,41401,28521,3051,2753,V173,4439,412,4263",
+    "Symptoms": [
+      "shortness of breath",
+      "chest pain"
+    ]
+  },
+  {
+    "short_codes": "42840,42731,41400,25000,V4581",
+    "Symptoms": [
+      "shortness of breath",
+      "chest pain"
+    ]
+  },
+  {
+    "short_codes": "6011,7907,40391,5856,29040,4589,2819",
+    "Symptoms": [
+      "hematuria",
+      "chills"
+    ]
+  },
+  {
+    "short_codes": "99649,2851,73719,5859,V454,V4364,V4586,78062,32723,40390,7385,3004,E8781",
+    "Symptoms": [
+      "back pain",
+      "progressive kyphosis"
+    ]
+  },
+  {
+    "short_codes": "82300,85181,E8147,92401,87342,2768,4589,9120,4019,V4581",
+    "Symptoms": [
+      "intracranial bleeding",
+      "anterior plateau fracture"
+    ]
+  },
+  {
+    "short_codes": "44101,5845,5770,570,430,99591,0389,99702,99859,42732,99673,2762,57410,5119,4241,9975,2767,70703,70720,1123,0413,9341,9348,45829,4019,E8782,79029,V6441,23871,2859,E8791,78791,04185,E915,78720",
+    "Symptoms": [
+      "back pain",
+      "diarrhea"
+    ]
+  },
+  {
+    "short_codes": "00845,51881,5119,V4581,41400,4148,42731,4439,4019,2720,496,V440,70703,70725,2859",
+    "Symptoms": [
+      "fevers",
+      "hypotension"
+    ]
+  },
+  {
+    "short_codes": "4241,42741,41041,78551,486,E8781,4260,41401",
+    "Symptoms": [
+      "decreased exercise tolerance",
+      "progressive shortness of breath"
+    ]
+  },
+  {
+    "short_codes": "4280,570,2762,4271,5849,V5339,78551,4275,2767,4148,40390,5859,412,V4581,25060,3572",
+    "Symptoms": [
+      "dyspnea on exertion",
+      "fatigue"
+    ]
+  },
+  {
+    "short_codes": "42731,42830,42732,27801,45829,V433,4260,V4501,4280",
+    "Symptoms": [
+      "dyspnea on exertion",
+      "fatigue"
+    ]
+  },
+  {
+    "short_codes": "53240,2851,04186,2531",
+    "Symptoms": [
+      "melena",
+      "dizziness"
+    ]
+  },
+  {
+    "short_codes": "41401,4111,7455,4019,25000,53081,2859",
+    "Symptoms": [
+      "chest pain",
+      "shortness of breath"
+    ]
+  },
+  {
+    "short_codes": "86121,80705,E8162,41400,V4581,4019,25000,V5867,2449,53081,V1301,V1582,7245",
+    "Symptoms": [
+      "rib pain",
+      "elbow pain"
+    ]
+  },
+  {
+    "short_codes": "81209,82009,42731,496,27650,8054,4280,42613,4270,2851,5990,E8889,V103,4019,2720",
+    "Symptoms": [
+      "tachycardia",
+      "lethargy"
+    ]
+  },
+  {
+    "short_codes": "4928,4019,53081",
+    "Symptoms": [
+      "shortness of breath",
+      "tracheomalacia"
+    ]
+  },
+  {
+    "short_codes": "44101,5849,570,5601,2869,5770,41041,99811,42099,4241,25000,2720,2859,2875,4280,496,2749,V113",
+    "Symptoms": [
+      "chest pain",
+      "syncope"
+    ]
+  },
+  {
+    "short_codes": "41401,4019,2720",
+    "Symptoms": [
+      "chest pressure with exertion that resolves with rest",
+      "chest congestion"
+    ]
+  },
+  {
+    "short_codes": "41401,4139,4019,2449,25000,53081,3668,412,2724,V1301",
+    "Symptoms": [
+      "chest pain",
+      "fatigue"
+    ]
+  },
+  {
+    "short_codes": "4271,42822,99811,2851,4280,4148,99939,6823,45829,42731,V5861,412,4019,2724,V1046,V5339",
+    "Symptoms": [
+      "lightheadedness",
+      "palpitations"
+    ]
+  },
+  {
+    "short_codes": "41401,5990,42731,4139,4019,2724,53081,75689,E8782,36816",
+    "Symptoms": [
+      "neck pain",
+      "burning radiating down right arm"
+    ]
+  },
+  {
+    "short_codes": "3963,2875,39891,42731,2859,4019,2127",
+    "Symptoms": [
+      "increased doe",
+      "fatigue"
+    ]
+  },
+  {
+    "short_codes": "41402,4280,4111,42731,99702,41401,2449,2720,4019",
+    "Symptoms": [
+      "chest pain",
+      "right arm weakness"
+    ]
+  },
+  {
+    "short_codes": "41401,5990,25000,V1083,6929,42731",
+    "Symptoms": [
+      "chest pain",
+      "exertional chest tightness"
+    ]
+  },
+  {
+    "short_codes": "41001,41401",
+    "Symptoms": [
+      "substernal chest pain",
+      "sharp pulsating sensation substernally"
+    ]
+  },
+  {
+    "short_codes": "53081,99811,2851",
+    "Symptoms": [
+      "gastroesophageal reflux disease",
+      "daily pain"
+    ]
+  },
+  {
+    "short_codes": "41401,486,4168,412,42731,9971,4111,4019,V4582,V1582,E8782,5258,7906",
+    "Symptoms": [
+      "shortness of breath",
+      "chest pain"
+    ]
+  },
+  {
+    "short_codes": "41401,4111,42731,4019,2724,V173,60001,78899",
+    "Symptoms": [
+      "chest pain",
+      "heart burn"
+    ]
+  },
+  {
+    "short_codes": "80706,86403,42732,20190,E8150,30501,2449,311,41401,V5861",
+    "Symptoms": [
+      "liver lac grade iii",
+      "right posterior and lateral rib fractures"
+    ]
+  },
+  {
+    "short_codes": "0389,78552,2762,2875,20972,20979,20929,4019,311,28522,79029,99592",
+    "Symptoms": [
+      "fevers",
+      "malaise"
+    ]
+  },
+  {
+    "short_codes": "42789,78551,43820,5990,42822,79001,4589,27651,42731,V5861,0416,4280,V1261,70703,70720,4168,V554,5300,73300,V1582",
+    "Symptoms": [
+      "hypotension",
+      "altered mental status"
+    ]
+  },
+  {
+    "short_codes": "25040,40391,5856,V4511,V641,45829,E9384,2724,53081,41400,V4581,V4365,V4972",
+    "Symptoms": [
+      "htn",
+      "esrd"
+    ]
+  },
+  {
+    "short_codes": "5571,9972,99859,44421,496,2859,25000,4019,2720,2449,53081",
+    "Symptoms": [
+      "abdominal pain",
+      "weight loss"
+    ]
+  },
+  {
+    "short_codes": "51881,5990,6826,29281,496,30400,5849,70719,4280,2760,0416,2859,4019,2724,V090,41401,412,29680,2768",
+    "Symptoms": [
+      "lethargy",
+      "hypoxia"
+    ]
+  },
+  {
+    "short_codes": "4241,99812,41401,42731,V5861,4019,2724,25000",
+    "Symptoms": [
+      "right groin hematoma",
+      "transient drop in sbp"
+    ]
+  },
+  {
+    "short_codes": "25013,99665,0380,5990,30500",
+    "Symptoms": [
+      "alcohol intoxication",
+      "diabetic ketoacidosis"
+    ]
+  },
+  {
+    "short_codes": "41401,4111,515,4240,5119,4919,32723,2724,25060,3572,V1046,4019",
+    "Symptoms": [
+      "chest pain",
+      "unstable angina symptoms"
+    ]
+  },
+  {
+    "short_codes": "4532,1550,4019,4928,7291",
+    "Symptoms": [
+      "chronic ruq pain",
+      "right side of chest pain"
+    ]
+  },
+  {
+    "short_codes": "73739,41401,4019,2724,60000",
+    "Symptoms": [
+      "back pain",
+      "radiating leg pain"
+    ]
+  },
+  {
+    "short_codes": "78720,2189,78799,2809",
+    "Symptoms": [
+      "hoarsness of voice",
+      "pain on the right side of her neck"
+    ]
+  },
+  {
+    "short_codes": "4271,5849,5119,42823,78820,5859,V4581,4280,2809,4168,2720,40390,25000,V422,V5332",
+    "Symptoms": [
+      "vt storm",
+      "unable to extubate after vt ablation"
+    ]
+  },
+  {
+    "short_codes": "41401,2875,4168,42822,6826,4280,40390,42731,99859,4111,5852,V4501,7904,E9422,E8498,30000,V5861,V4365,45981,4142,V4582,412,25000,51911",
+    "Symptoms": [
+      "chest pain",
+      "worsening exertional angina"
+    ]
+  },
+  {
+    "short_codes": "41071,4241,41401,99811,9971,42731,4019",
+    "Symptoms": [
+      "chest pain",
+      "atrial fibrillation"
+    ]
+  },
+  {
+    "short_codes": "42843,5849,4254,4271,70703,70709,6826,5859,4280,42731,45981,V4501",
+    "Symptoms": [
+      "shortness of breath",
+      "weight gain"
+    ]
+  },
+  {
+    "short_codes": "4241,7464,9971,V08,4019,2720,V5867,25062,3572,42731,07054",
+    "Symptoms": [
+      "dyspnea",
+      "fatigue"
+    ]
+  },
+  {
+    "short_codes": "03842,99859,99593,E8786,4240,5768",
+    "Symptoms": [
+      "jaundice",
+      "fever"
+    ]
+  },
+  {
+    "short_codes": "41401,4241,2875,60001,2724,4019,412,42789,44322,V4582",
+    "Symptoms": [
+      "ett",
+      "dizziness"
+    ]
+  },
+  {
+    "short_codes": "41401,5849,4111,25043,40390,5859,25073,44381,25063,3572,25053,36201,V5867,45829,79902,2859,25083,E9323,32723,60000,2749,71690,V425,V1551,V4972,V4582,3004,43310",
+    "Symptoms": [
+      "recurrent angina",
+      "sob at minimal exertion"
+    ]
+  },
+  {
+    "short_codes": "41401,4111,99811,79001,53081,E8782,42731,2768",
+    "Symptoms": [
+      "chest pain",
+      "shortness of breath"
+    ]
+  },
+  {
+    "short_codes": "41401,4019,2724,6930,E9309,V1254",
+    "Symptoms": [
+      "left rib aching",
+      "lightheadedness with position changes"
+    ]
+  },
+  {
+    "short_codes": "41401,4111,9971,42689,42731,4019,2720",
+    "Symptoms": [
+      "chest pain",
+      "chest tightness"
+    ]
+  },
+  {
+    "short_codes": "4240,3970,4280,42731,7455,2449,4019",
+    "Symptoms": [
+      "increasing shortness of breath",
+      "dyspnea on exertion"
+    ]
+  },
+  {
+    "short_codes": "99674,4413,42820,42731,4240,40391,5845,2762,496,2749,V4581",
+    "Symptoms": [
+      "abdominal pain",
+      "evidence on non-contrast ct for aneurysm rupture"
+    ]
+  },
+  {
+    "short_codes": "51883,496,42731,V641,V5866,V5861,32723,4019,V4582,V4501,V5865",
+    "Symptoms": [
+      "shortness of breath",
+      "copd"
+    ]
+  },
+  {
+    "short_codes": "41011,25001,41401,4019",
+    "Symptoms": [
+      "chest pain",
+      "shortness of breath"
+    ]
+  },
+  {
+    "short_codes": "41401,4019,25000,49390",
+    "Symptoms": [
+      "dyspnea on exertion",
+      "fatigue"
+    ]
+  },
+  {
+    "short_codes": "43411,34291,42731,2724,2749,7843,72400,V1051,V1046,5939",
+    "Symptoms": [
+      "speech arrest",
+      "r-sided weakness"
+    ]
+  },
+  {
+    "short_codes": "41401,4111,4019,2720,25000,412,V4582",
+    "Symptoms": [
+      "short of breath with exertion",
+      "occasional chest tightness"
+    ]
+  },
+  {
+    "short_codes": "41031,41401,V1046,3051,4019",
+    "Symptoms": [
+      "chest discomfort",
+      "tachyarrhythmia consistent with ventricular tachycardia"
+    ]
+  },
+  {
+    "short_codes": "9351,5303,E911,5533",
+    "Symptoms": [
+      "food impaction",
+      "cp w  associated sob"
+    ]
+  },
+  {
+    "short_codes": "431,7813,4019,3518,5239,30500,79029",
+    "Symptoms": [
+      "rue weakness and numbness",
+      "felt like there was no blood getting to the hand"
+    ]
+  },
+  {
+    "short_codes": "4240,4019,9971,42732,42731,99889",
+    "Symptoms": [
+      "arm and leg pain",
+      "weakness"
+    ]
+  },
+  {
+    "short_codes": "42741,4275,41071,41401,5990,42731,28529,9982,25000,4019,2724,4240,3051",
+    "Symptoms": [
+      "vf arrest",
+      "chest neck tightness"
+    ]
+  },
+  {
+    "short_codes": "41401,27800,4139,2724,78062,7823,7827,4019,V8530,49390,V1584,3051,V173,V1046",
+    "Symptoms": [
+      "chest pain",
+      "radiated to the left arm"
+    ]
+  },
+  {
+    "short_codes": "41401,9971,42731,E8782,2724,4019,496,V1046,V1254,43310",
+    "Symptoms": [
+      "chest pain",
+      "dyspnea on exertion"
+    ]
+  },
+  {
+    "short_codes": "41401,4139,42731,2724,4019",
+    "Symptoms": [
+      "chest pain",
+      "lightheadedness"
+    ]
+  },
+  {
+    "short_codes": "41401,412,4019,2720,3051,V173",
+    "Symptoms": [
+      "chest pain",
+      "non-radiating exertional chest pain"
+    ]
+  },
+  {
+    "short_codes": "41401,4111,9971,42731,2720,4019,73300",
+    "Symptoms": [
+      "jaw discomfort",
+      "exertional chest pain"
+    ]
+  },
+  {
+    "short_codes": "82123,5070,49121,42731,51881,E8881,E8490,73300,V641",
+    "Symptoms": [
+      "hip knee pain",
+      "numbness and tingling in toes"
+    ]
+  },
+  {
+    "short_codes": "4241,41401,4408,5990,42731,4019,36250",
+    "Symptoms": [
+      "syncopal episodes",
+      "presyncope"
+    ]
+  },
+  {
+    "short_codes": "90289,81201,79001,92401,E8859,7230,49390,40390,5859,5533,53081,V4364",
+    "Symptoms": [
+      "left arm pain",
+      "left hip pain"
+    ]
+  },
+  {
+    "short_codes": "431,3314,2930,99664,42731,V5861,4019,2724,53081,V1083,E8796",
+    "Symptoms": [
+      "loss of consiousness",
+      "headache"
+    ]
+  },
+  {
+    "short_codes": "99769,5856,42842,40391,E8844,4280,25060,3572,25040,58381,25050,36201,V5867,V1046,V4581,V1005,V4975,28521,2724",
+    "Symptoms": [
+      "fall on bka site",
+      "hypotension"
+    ]
+  },
+  {
+    "short_codes": "1625,47831,42731,4019,2720,V1254,V1582,25000,41401,496,V5861",
+    "Symptoms": [
+      "hemoptysis",
+      "dry cough"
+    ]
+  },
+  {
+    "short_codes": "41401,4111,9971,4271,42731,4019,2724,7245,33829,3540",
+    "Symptoms": [
+      "chest pain",
+      "dyspnea on exertion"
+    ]
+  },
+  {
+    "short_codes": "431,34290,49121,1120,41401,27651,25060,3572,2449,311,73300,25050,36201,53081,40310,5859",
+    "Symptoms": [
+      "right arm weakness",
+      "slurred speech"
+    ]
+  },
+  {
+    "short_codes": "41401,4271,4928,4111,V08,2724,4439,53081,49390,34590,32723",
+    "Symptoms": [
+      "shortness of breath with exertion",
+      "abnormal stress tests"
+    ]
+  },
+  {
+    "short_codes": "99674,45381,5771,28749,28850,53081,E9310",
+    "Symptoms": [
+      "mild right sided pleuritic chest pain",
+      "shortness of breath"
+    ]
+  },
+  {
+    "short_codes": "41401,42831,4241,4019,4439,V4501,73300,V1005,V4365,36250,30000,3558,2724,42731,51889,78829,45981,4280,7948",
+    "Symptoms": [
+      "chest pain",
+      "exertional leg discomfort"
+    ]
+  },
+  {
+    "short_codes": "41402,412,2875,41401,78720,42789,32723,4019,2724,2851,45829,3051,V173",
+    "Symptoms": [
+      "asymptomatic",
+      "positive stress test"
+    ]
+  },
+  {
+    "short_codes": "2724,25000,4019,41401,2875,2859,412,42731",
+    "Symptoms": [
+      "abnormal stress test",
+      "chest pain"
+    ]
+  },
+  {
+    "short_codes": "42090,99685,4233,4280,4259,5990,20501,E8780,4019,25000,E9331,V1201",
+    "Symptoms": [
+      "shortness of breath",
+      "lower extremity edema"
+    ]
+  },
+  {
+    "short_codes": "1550,5990,5715,452,5849,2762,2767,5738,4019,25000,5718,4589",
+    "Symptoms": [
+      "syncope",
+      "abdominal pain"
+    ]
+  },
+  {
+    "short_codes": "80853,30561,E918",
+    "Symptoms": [
+      "low back pain",
+      "low abdominal pelvic pain"
+    ]
+  },
+  {
+    "short_codes": "4241,42731,25000,4019,27800,2720,51889,5939,V4365",
+    "Symptoms": [
+      "dypsnea on exertion",
+      "class iii heart failure"
+    ]
+  },
+  {
+    "short_codes": "73600,4019",
+    "Symptoms": [
+      "gunshot wound to the right hand",
+      "severely injured and fractured metacarpals"
+    ]
+  },
+  {
+    "short_codes": "41401,4111,V4582,412,V4364,42731,4148,4019,V1582,2724",
+    "Symptoms": [
+      "chest pain",
+      "fatigue"
+    ]
+  },
+  {
+    "short_codes": "41401,4111,5849,7455,99811,51189,30000,31400,25000,53081,2724,E8782,E8497,V425,45829,E8498,2859,78906,71590",
+    "Symptoms": [
+      "chest pain",
+      "epigastric pain"
+    ]
+  },
+  {
+    "short_codes": "42731,2724,4019,71590,V4589,V5861,2252",
+    "Symptoms": [
+      "confusion",
+      "amnestic to recent events"
+    ]
+  },
+  {
+    "short_codes": "41401,4139,42731",
+    "Symptoms": [
+      "chest pain",
+      "positive stress test"
+    ]
+  },
+  {
+    "short_codes": "51881,5990,5119,2761,5180,2762,00845,2763,3594,42822,04104,7885,42731,7140,V5865,515,42781,V4501,4168,3970,53081,27652,32723,2788,27800,E9320,4280",
+    "Symptoms": [
+      "weakness",
+      "shortness of breath"
+    ]
+  },
+  {
+    "short_codes": "51881,5849,496,V422,25000,4019",
+    "Symptoms": [
+      "unresponsiveness",
+      "hypercapnia"
+    ]
+  },
+  {
+    "short_codes": "4241,41401,486,4280,4160,25000,4111,4019,2720,71941,412,V4582",
+    "Symptoms": [
+      "shortness of breath",
+      "chest pain"
+    ]
+  },
+  {
+    "short_codes": "41071,41401,78551,39891,3963,42731,4160,4019,2720,25000,412,V173",
+    "Symptoms": [
+      "dyspnea",
+      "chest pressure"
+    ]
+  }
+]

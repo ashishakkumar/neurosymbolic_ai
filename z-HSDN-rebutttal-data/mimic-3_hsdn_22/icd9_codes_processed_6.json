@@ -1,0 +1,88 @@
+{
+  "icd9_codes": [
+    {
+      "code": "413",
+      "diagnosis": "Angina Pectoris"
+    },
+    {
+      "code": "446",
+      "diagnosis": "Acute Arterial Insufficiency"
+    },
+    {
+      "code": "381",
+      "diagnosis": "Meniere's Disease"
+    },
+    {
+      "code": "971",
+      "diagnosis": "Poisoning by Antineoplastic and Immunosuppressive Drugs"
+    },
+    {
+      "code": "754",
+      "diagnosis": "Congenital Anomalies of the Genitourinary System"
+    },
+    {
+      "code": "907",
+      "diagnosis": "Late Effects of Injury"
+    },
+    {
+      "code": "754",
+      "diagnosis": "Congenital Anomalies of the Genitourinary System"
+    },
+    {
+      "code": "323",
+      "diagnosis": "Encephalitis, Myelitis, and Encephalomyelitis"
+    },
+    {
+      "code": "435",
+      "diagnosis": "Hypertensive Encephalopathy"
+    },
+    {
+      "code": "325",
+      "diagnosis": "Intracranial Abscess and Empyema"
+    },
+    {
+      "code": "338",
+      "diagnosis": "Other Degenerative Diseases of Nervous System"
+    },
+    {
+      "code": "427",
+      "diagnosis": "Cardiac Dysrhythmias"
+    },
+    {
+      "code": "729",
+      "diagnosis": "Other and Unspecified Disorders of the Musculoskeletal System and Connective Tissue"
+    },
+    {
+      "code": "871",
+      "diagnosis": "Open Wound of Head"
+    },
+    {
+      "code": "453",
+      "diagnosis": "Phlebitis and Thrombophlebitis"
+    },
+    {
+      "code": "326",
+      "diagnosis": "Intracranial and Intracerebral Hemorrhage"
+    },
+    {
+      "code": "455",
+      "diagnosis": "Varicose Veins of Lower Extremities"
+    },
+    {
+      "code": "639",
+      "diagnosis": "Other Complications of Pregnancy"
+    },
+    {
+      "code": "614",
+      "diagnosis": "Inflammatory Disease of Female Pelvic Organs"
+    },
+    {
+      "code": "721",
+      "diagnosis": "Spondylosis"
+    },
+    {
+      "code": "786",
+      "diagnosis": "Symptoms Involving Nervous System and Sense Organs"
+    }
+  ]
+}

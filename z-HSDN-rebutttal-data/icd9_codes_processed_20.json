@@ -1,0 +1,28 @@
+{
+  "icd9_codes": [
+    {
+      "code": "784",
+      "diagnosis": "Paresthesia"
+    },
+    {
+      "code": "784",
+      "diagnosis": "Tingling"
+    },
+    {
+      "code": "339",
+      "diagnosis": "Headache"
+    },
+    {
+      "code": "784",
+      "diagnosis": "Paresthesias"
+    },
+    {
+      "code": "339",
+      "diagnosis": "Headaches"
+    },
+    {
+      "code": "339",
+      "diagnosis": "Throbbing headache"
+    }
+  ]
+}

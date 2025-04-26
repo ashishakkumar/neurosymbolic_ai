@@ -1,0 +1,96 @@
+{
+  "icd9_codes": [
+    {
+      "code": "323",
+      "diagnosis": "Headache"
+    },
+    {
+      "code": "325",
+      "diagnosis": "Paresthesia"
+    },
+    {
+      "code": "326",
+      "diagnosis": "Tingling"
+    },
+    {
+      "code": "784",
+      "diagnosis": "Headache"
+    },
+    {
+      "code": "446",
+      "diagnosis": "Unspecified"
+    },
+    {
+      "code": "381",
+      "diagnosis": "Unspecified"
+    },
+    {
+      "code": "754",
+      "diagnosis": "Unspecified"
+    },
+    {
+      "code": "971",
+      "diagnosis": "Unspecified"
+    },
+    {
+      "code": "907",
+      "diagnosis": "Unspecified"
+    },
+    {
+      "code": "754",
+      "diagnosis": "Unspecified"
+    },
+    {
+      "code": "171",
+      "diagnosis": "Unspecified"
+    },
+    {
+      "code": "173",
+      "diagnosis": "Unspecified"
+    },
+    {
+      "code": "323",
+      "diagnosis": "Headache"
+    },
+    {
+      "code": "616",
+      "diagnosis": "Unspecified"
+    },
+    {
+      "code": "325",
+      "diagnosis": "Paresthesia"
+    },
+    {
+      "code": "338",
+      "diagnosis": "Unspecified"
+    },
+    {
+      "code": "729",
+      "diagnosis": "Unspecified"
+    },
+    {
+      "code": "871",
+      "diagnosis": "Unspecified"
+    },
+    {
+      "code": "453",
+      "diagnosis": "Unspecified"
+    },
+    {
+      "code": "326",
+      "diagnosis": "Tingling"
+    },
+    {
+      "code": "639",
+      "diagnosis": "Unspecified"
+    },
+    {
+      "code": "614",
+      "diagnosis": "Unspecified"
+    },
+    {
+      "code": "432",
+      "diagnosis": "Unspecified"
+    }
+  ]
+}

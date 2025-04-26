@@ -1,0 +1,16 @@
+{
+  "icd9_codes": [
+    {
+      "code": "786",
+      "diagnosis": "Shortness of breath"
+    },
+    {
+      "code": "394",
+      "diagnosis": "Mitral valve disorders"
+    },
+    {
+      "code": "427",
+      "diagnosis": "Cardiac dysrhythmias"
+    }
+  ]
+}

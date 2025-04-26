@@ -1,0 +1,44 @@
+{
+  "icd9_codes": [
+    {
+      "code": "410",
+      "diagnosis": "Acute Myocardial Infarction"
+    },
+    {
+      "code": "427",
+      "diagnosis": "Cardiac Dysrhythmias"
+    },
+    {
+      "code": "427",
+      "diagnosis": "Atrial Flutter"
+    },
+    {
+      "code": "786",
+      "diagnosis": "Chest Pain"
+    },
+    {
+      "code": "786",
+      "diagnosis": "Pleuritic Chest Pain"
+    },
+    {
+      "code": "786",
+      "diagnosis": "Discomfort with Deep Breath or Cough"
+    },
+    {
+      "code": "786",
+      "diagnosis": "Shortness of Breath"
+    },
+    {
+      "code": "786",
+      "diagnosis": "Dyspnea"
+    },
+    {
+      "code": "729",
+      "diagnosis": "Muscle Aches"
+    },
+    {
+      "code": "724",
+      "diagnosis": "Sore Back and Neck"
+    }
+  ]
+}

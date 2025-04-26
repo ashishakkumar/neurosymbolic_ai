@@ -1,0 +1,24 @@
+{
+  "icd9_codes": [
+    {
+      "code": "780",
+      "diagnosis": "Altered mental status"
+    },
+    {
+      "code": "781",
+      "diagnosis": "Tremulous"
+    },
+    {
+      "code": "300",
+      "diagnosis": "Anxiety"
+    },
+    {
+      "code": "781",
+      "diagnosis": "Stumbling"
+    },
+    {
+      "code": "310",
+      "diagnosis": "Amnesia"
+    }
+  ]
+}

@@ -1,0 +1,16 @@
+{
+  "icd9_codes": [
+    {
+      "code": "576",
+      "diagnosis": "Jaundice"
+    },
+    {
+      "code": "783",
+      "diagnosis": "Loss of appetite"
+    },
+    {
+      "code": "783",
+      "diagnosis": "Weight loss"
+    }
+  ]
+}

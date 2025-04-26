@@ -1,0 +1,56 @@
+{
+  "icd9_codes": [
+    {
+      "code": "786",
+      "diagnosis": "Dyspnea on exertion"
+    },
+    {
+      "code": "786",
+      "diagnosis": "Shortness of breath"
+    },
+    {
+      "code": "780",
+      "diagnosis": "Fatigue"
+    },
+    {
+      "code": "272",
+      "diagnosis": "Hyperlipidemia"
+    },
+    {
+      "code": "424",
+      "diagnosis": "Cardiac dysrhythmias"
+    },
+    {
+      "code": "511",
+      "diagnosis": "Pneumonia"
+    },
+    {
+      "code": "428",
+      "diagnosis": "Heart failure"
+    },
+    {
+      "code": "997",
+      "diagnosis": "Other complications of surgical and medical care"
+    },
+    {
+      "code": "427",
+      "diagnosis": "Cardiac arrhythmias"
+    },
+    {
+      "code": "416",
+      "diagnosis": "Chronic pulmonary heart disease"
+    },
+    {
+      "code": "396",
+      "diagnosis": "Rheumatic heart disease"
+    },
+    {
+      "code": "398",
+      "diagnosis": "Endocarditis"
+    },
+    {
+      "code": "397",
+      "diagnosis": "Rheumatic heart disease"
+    }
+  ]
+}

@@ -1,0 +1,28 @@
+{
+  "icd9_codes": [
+    {
+      "code": "720",
+      "diagnosis": "Shoulder Pain"
+    },
+    {
+      "code": "721",
+      "diagnosis": "Hip Pain"
+    },
+    {
+      "code": "786",
+      "diagnosis": "Shortness of Breath"
+    },
+    {
+      "code": "786",
+      "diagnosis": "Wheezing"
+    },
+    {
+      "code": "692",
+      "diagnosis": "Itching"
+    },
+    {
+      "code": "789",
+      "diagnosis": "Pain"
+    }
+  ]
+}

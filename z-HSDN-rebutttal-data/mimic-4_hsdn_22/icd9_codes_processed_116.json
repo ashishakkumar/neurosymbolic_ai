@@ -1,0 +1,16 @@
+{
+  "icd9_codes": [
+    {
+      "code": "786",
+      "diagnosis": "Cough"
+    },
+    {
+      "code": "748",
+      "diagnosis": "Other congenital anomalies of the digestive system"
+    },
+    {
+      "code": "338",
+      "diagnosis": "Other disorders of the nervous system"
+    }
+  ]
+}

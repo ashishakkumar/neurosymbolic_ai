@@ -1,0 +1,96 @@
+{
+  "icd9_codes": [
+    {
+      "code": "784",
+      "diagnosis": "Headache"
+    },
+    {
+      "code": "787",
+      "diagnosis": "Nausea and vomiting"
+    },
+    {
+      "code": "300",
+      "diagnosis": "Anxiety"
+    },
+    {
+      "code": "311",
+      "diagnosis": "Depression"
+    },
+    {
+      "code": "724",
+      "diagnosis": "Backache"
+    },
+    {
+      "code": "307",
+      "diagnosis": "Migraine"
+    },
+    {
+      "code": "784",
+      "diagnosis": "Headache"
+    },
+    {
+      "code": "784",
+      "diagnosis": "Headache"
+    },
+    {
+      "code": "784",
+      "diagnosis": "Headache"
+    },
+    {
+      "code": "786",
+      "diagnosis": "Hypoventilation"
+    },
+    {
+      "code": "780",
+      "diagnosis": "Sleep disorders"
+    },
+    {
+      "code": "338",
+      "diagnosis": "Headache"
+    },
+    {
+      "code": "775",
+      "diagnosis": "Headache"
+    },
+    {
+      "code": "677",
+      "diagnosis": "Headache"
+    },
+    {
+      "code": "639",
+      "diagnosis": "Headache"
+    },
+    {
+      "code": "614",
+      "diagnosis": "Headache"
+    },
+    {
+      "code": "907",
+      "diagnosis": "Headache"
+    },
+    {
+      "code": "721",
+      "diagnosis": "Headache"
+    },
+    {
+      "code": "774",
+      "diagnosis": "Headache"
+    },
+    {
+      "code": "564",
+      "diagnosis": "Headache"
+    },
+    {
+      "code": "392",
+      "diagnosis": "Headache"
+    },
+    {
+      "code": "639",
+      "diagnosis": "Headache"
+    },
+    {
+      "code": "973",
+      "diagnosis": "Headache"
+    }
+  ]
+}

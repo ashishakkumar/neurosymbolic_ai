@@ -1,0 +1,84 @@
+{
+  "icd9_codes": [
+    {
+      "code": "784",
+      "diagnosis": "Hoarseness"
+    },
+    {
+      "code": "786",
+      "diagnosis": "Sensation of throat closing"
+    },
+    {
+      "code": "787",
+      "diagnosis": "Nausea"
+    },
+    {
+      "code": "787",
+      "diagnosis": "Vomiting"
+    },
+    {
+      "code": "786",
+      "diagnosis": "Shortness of breath"
+    },
+    {
+      "code": "784",
+      "diagnosis": "Sore throat"
+    },
+    {
+      "code": "792",
+      "diagnosis": "792"
+    },
+    {
+      "code": "775",
+      "diagnosis": "775"
+    },
+    {
+      "code": "677",
+      "diagnosis": "677"
+    },
+    {
+      "code": "639",
+      "diagnosis": "639"
+    },
+    {
+      "code": "614",
+      "diagnosis": "614"
+    },
+    {
+      "code": "462",
+      "diagnosis": "462"
+    },
+    {
+      "code": "427",
+      "diagnosis": "427"
+    },
+    {
+      "code": "907",
+      "diagnosis": "907"
+    },
+    {
+      "code": "774",
+      "diagnosis": "774"
+    },
+    {
+      "code": "564",
+      "diagnosis": "564"
+    },
+    {
+      "code": "639",
+      "diagnosis": "639"
+    },
+    {
+      "code": "323",
+      "diagnosis": "323"
+    },
+    {
+      "code": "227",
+      "diagnosis": "227"
+    },
+    {
+      "code": "973",
+      "diagnosis": "973"
+    }
+  ]
+}

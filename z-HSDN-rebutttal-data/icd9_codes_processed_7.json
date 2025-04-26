@@ -1,0 +1,12 @@
+{
+  "icd9_codes": [
+    {
+      "code": "430",
+      "diagnosis": "Subarachnoid hemorrhage"
+    },
+    {
+      "code": "383",
+      "diagnosis": "Hemorrhage of femoral artery"
+    }
+  ]
+}

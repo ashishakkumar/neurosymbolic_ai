@@ -1,0 +1,12 @@
+{
+  "icd9_codes": [
+    {
+      "code": "784",
+      "diagnosis": "Pain in limb"
+    },
+    {
+      "code": "782",
+      "diagnosis": "Pain, unspecified"
+    }
+  ]
+}

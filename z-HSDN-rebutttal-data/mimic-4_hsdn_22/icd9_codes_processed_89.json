@@ -1,0 +1,104 @@
+{
+  "icd9_codes": [
+    {
+      "code": "787",
+      "diagnosis": "Vomiting"
+    },
+    {
+      "code": "564",
+      "diagnosis": "Decreased bowel movements"
+    },
+    {
+      "code": "789",
+      "diagnosis": "Abdominal distention"
+    },
+    {
+      "code": "789",
+      "diagnosis": "Epigastric tenderness/pain"
+    },
+    {
+      "code": "692",
+      "diagnosis": "Pruritus"
+    },
+    {
+      "code": "553",
+      "diagnosis": "Ventral hernia"
+    },
+    {
+      "code": "692",
+      "diagnosis": "Pruritus"
+    },
+    {
+      "code": "616",
+      "diagnosis": "Disease of female genital organs"
+    },
+    {
+      "code": "117",
+      "diagnosis": "Mycoses"
+    },
+    {
+      "code": "090",
+      "diagnosis": "Syphilis"
+    },
+    {
+      "code": "708",
+      "diagnosis": "Other disorders of skin and subcutaneous tissue"
+    },
+    {
+      "code": "907",
+      "diagnosis": "Late effects of injury"
+    },
+    {
+      "code": "110",
+      "diagnosis": "Infectious and parasitic diseases"
+    },
+    {
+      "code": "624",
+      "diagnosis": "Disorders of breast"
+    },
+    {
+      "code": "708",
+      "diagnosis": "Other disorders of skin and subcutaneous tissue"
+    },
+    {
+      "code": "627",
+      "diagnosis": "Disorders of female genital tract"
+    },
+    {
+      "code": "583",
+      "diagnosis": "Acute renal failure"
+    },
+    {
+      "code": "451",
+      "diagnosis": "Phlebitis and thrombophlebitis"
+    },
+    {
+      "code": "792",
+      "diagnosis": "Nonspecific abnormal findings"
+    },
+    {
+      "code": "323",
+      "diagnosis": "Other diseases of upper respiratory tract"
+    },
+    {
+      "code": "583",
+      "diagnosis": "Acute renal failure"
+    },
+    {
+      "code": "698",
+      "diagnosis": "Other disorders of skin and subcutaneous tissue"
+    },
+    {
+      "code": "110",
+      "diagnosis": "Infectious and parasitic diseases"
+    },
+    {
+      "code": "156",
+      "diagnosis": "Malignant neoplasm of colon"
+    },
+    {
+      "code": "264",
+      "diagnosis": "Other nutritional deficiencies"
+    }
+  ]
+}

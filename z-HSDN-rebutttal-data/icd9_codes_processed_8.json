@@ -1,0 +1,104 @@
+{
+  "icd9_codes": [
+    {
+      "code": "486",
+      "diagnosis": "Pneumonia, organism unspecified"
+    },
+    {
+      "code": "493",
+      "diagnosis": "Asthma"
+    },
+    {
+      "code": "585",
+      "diagnosis": "Chronic kidney disease"
+    },
+    {
+      "code": "276",
+      "diagnosis": "Electrolyte disorders"
+    },
+    {
+      "code": "285",
+      "diagnosis": "Anemia"
+    },
+    {
+      "code": "583",
+      "diagnosis": "Acute kidney failure"
+    },
+    {
+      "code": "790",
+      "diagnosis": "Nonspecific abnormal findings"
+    },
+    {
+      "code": "428",
+      "diagnosis": "Heart failure"
+    },
+    {
+      "code": "041",
+      "diagnosis": "Septicemia"
+    },
+    {
+      "code": "070",
+      "diagnosis": "Streptococcal infection"
+    },
+    {
+      "code": "250",
+      "diagnosis": "Diabetes mellitus"
+    },
+    {
+      "code": "518",
+      "diagnosis": "Pneumothorax"
+    },
+    {
+      "code": "996",
+      "diagnosis": "Complications of surgical procedures"
+    },
+    {
+      "code": "362",
+      "diagnosis": "Glaucoma"
+    },
+    {
+      "code": "357",
+      "diagnosis": "Mononeuritis of upper limb"
+    },
+    {
+      "code": "443",
+      "diagnosis": "Peripheral vascular disease"
+    },
+    {
+      "code": "042",
+      "diagnosis": "Septicemia"
+    },
+    {
+      "code": "707",
+      "diagnosis": "Acne"
+    },
+    {
+      "code": "507",
+      "diagnosis": "Pneumoconiosis"
+    },
+    {
+      "code": "536",
+      "diagnosis": "Gastrointestinal hemorrhage"
+    },
+    {
+      "code": "482",
+      "diagnosis": "Pneumonia due to Streptococcus"
+    },
+    {
+      "code": "491",
+      "diagnosis": "Bronchitis, not specified as acute or chronic"
+    },
+    {
+      "code": "786",
+      "diagnosis": "Symptoms involving respiratory system and other chest symptoms"
+    },
+    {
+      "code": "780",
+      "diagnosis": "General symptoms"
+    },
+    {
+      "code": "784",
+      "diagnosis": "Symptoms involving head and neck"
+    }
+  ]
+}

@@ -1,0 +1,88 @@
+{
+  "icd9_codes": [
+    {
+      "code": "573",
+      "diagnosis": "Liver function test abnormality"
+    },
+    {
+      "code": "780",
+      "diagnosis": "Fatigue"
+    },
+    {
+      "code": "787",
+      "diagnosis": "Vomiting"
+    },
+    {
+      "code": "789",
+      "diagnosis": "Abdominal pain"
+    },
+    {
+      "code": "787",
+      "diagnosis": "Nausea"
+    },
+    {
+      "code": "780",
+      "diagnosis": "Fever"
+    },
+    {
+      "code": "780",
+      "diagnosis": "Chills"
+    },
+    {
+      "code": "786",
+      "diagnosis": "Shortness of breath"
+    },
+    {
+      "code": "784",
+      "diagnosis": "Headache"
+    },
+    {
+      "code": "368",
+      "diagnosis": "Vision changes"
+    },
+    {
+      "code": "460",
+      "diagnosis": "Rhinorrhea"
+    },
+    {
+      "code": "465",
+      "diagnosis": "Congestion"
+    },
+    {
+      "code": "463",
+      "diagnosis": "Sore throat"
+    },
+    {
+      "code": "466",
+      "diagnosis": "Cough"
+    },
+    {
+      "code": "787",
+      "diagnosis": "Diarrhea"
+    },
+    {
+      "code": "564",
+      "diagnosis": "Constipation"
+    },
+    {
+      "code": "569",
+      "diagnosis": "Rectal bleeding"
+    },
+    {
+      "code": "599",
+      "diagnosis": "Melena"
+    },
+    {
+      "code": "599",
+      "diagnosis": "Hematochezia"
+    },
+    {
+      "code": "788",
+      "diagnosis": "Dysuria"
+    },
+    {
+      "code": "599",
+      "diagnosis": "Hematuria"
+    }
+  ]
+}
